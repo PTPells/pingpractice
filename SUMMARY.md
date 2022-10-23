@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Ping Practice](README.md)
+* [Landing](README.md)
 * [About](about.md)
