@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Landing](README.md)
+* [🪐 welcome](README.md)
 * [About](about.md)
 * [References](references.md)
 * [Experiment: DailyNotes](experiment-dailynotes.md)
