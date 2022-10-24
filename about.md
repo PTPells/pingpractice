@@ -8,6 +8,9 @@ Writing is a tool I depend on to process what I’m thinking, explore ideas, nam
 
 In 2017, motivated to become more effective at identifying patterns in what I thought about and reacted to, I started an experiment.&#x20;
 
-Unbeknownst to me at the time, "running" this first experiment marked the beginning of an ongoing practice of experimenting with ways to become more effective at identifying and acting on the patterns in what I think about.\
-\
+Unbeknownst to me at the time, [this first experiment](experiment-dailynotes.md) marked the beginning of an ongoing practice of experimenting with ways to become more effective at:
+
+1. Learning from what I've experienced in the past _and_&#x20;
+2. Applying these lessons in the present
+
 Until now, I’ve kept these experiments to myself. Ping Practice is an effort to make all of the experimenting and learning I’m doing legible enough for my future self to build on.

@@ -28,7 +28,9 @@ These links materialized as needs, values, ideas, fears, questions, goals, affir
 
 Writing and revisiting also made a whole new set of new, smaller choices inside of my everyday life legible to me.
 
-I started to see how these choices could bring me in more or less alignment with these truths and this voice. And this is precisely where the practice I had developed broke down: I wasn’t remembering these truths and that voice in the situations when I needed them most: moments when I had opportunities to put them into practice. There was still some incoherence between what I had experienced and thought about in the past and how I was thinking and acting in the present.
+I started to see how these choices could bring me in more or less alignment with these truths and this voice. And this is precisely where the practice I had developed broke down...&#x20;
+
+I wasn’t remembering these truths and that voice in the situations when I needed them most: moments when I had opportunities to put them into practice. There was still a disconnect between what I had "learned"  from and in the past and how I was thinking and acting in the present.
 
 The DailyNotes Experiment helped me to see and name this incoherence as [an unmet need related to recalling the past](need-memory.md).
 
