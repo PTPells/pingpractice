@@ -10,9 +10,9 @@ For each day of the year, I created a separate note and wrote whatever I felt co
 
 This amounted to a total of 365 distinct files (titled `01.01.md`, `01.02.md`, `01.03.md`, etc. all the way through `12.31.md`) stored within a Dropbox folder called “DailyNotes.”
 
-The objective here borne out of me wanting to write more consistently and to develop a practice of revisiting what I had thought about in the past.
+This experiment was an outgrowth of me wanting to write more consistently and to develop a practice of revisiting what I had thought about in the past.
 
-### Conclusions
+### Impact & Conclusions&#x20;
 
 This experiment worked for me.
 
@@ -20,15 +20,17 @@ The “DailyNotes” mechanic got me writing regularly and helped me to become b
 
 The experiment also had this unexpected clarifying effect.
 
-Before, I would notice when an interaction, situation, quote, thought, feeling, question, or experience impacted me…and then forget them. Consistently writing, and importantly, revisiting what I’d written changed this. My memory of these moments started to improve.
+Before, I would notice when an interaction, situation, quote, thought, feeling, question, or experience impacted me and then I would forget them.&#x20;
 
-As a result, I started being able to see across these moments and name the links/patterns that connected them.
+Consistently writing, and importantly, revisiting what I’d written changed this. My memory of these moments started to improve. As a result, I started being able to see across these moments and name the links/patterns that connected them.
 
-These links materialized as needs, values, ideas, fears, questions, goals, affirmations, etc. Said another way: I felt like I was beginning to really “hear” what I’d been trying to “say” and start to use that voice to take actions and make decisions.
+These links materialized as needs, values, ideas, fears, questions, goals, affirmations, etc. _Said another way: I felt like I was beginning to really “hear” what I’d been trying to “say” and start to use that voice to take actions and make decisions I could "stand in."_
 
 Writing and revisiting also made a whole new set of new, smaller choices inside of my everyday life legible to me.
 
-I started to see how these choices could bring me in more or less alignment with these truths and this voice. And this is precisely where the practice I had developed broke down and ultimately what prompted me to begin the MEMORY EXPERIMENT.
+I started to see how these choices could bring me in more or less alignment with these truths and this voice. And this is precisely where the practice I had developed broke down: I wasn’t remembering these truths and that voice in the situations when I needed them most: moments when I had opportunities to put them into practice. There was still some incoherence between what I had experienced and thought about in the past and how I was thinking and acting in the present.
+
+The DailyNotes Experiment helped me to see and name this incoherence as [an unmet need related to recalling the past](need-memory.md).
 
 ### Motivation&#x20;
 
