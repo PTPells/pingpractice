@@ -11,3 +11,7 @@
 > Choosing a past helps us to construct a future. If forms are standard and do not change, we experience déjà vu. The world recycles endlessly. Pervasive novelty is even more disturbing. We experience jamais vu - we see nothing we have ever seen before, there are no connections, the present is perilously small.
 
 > Memory is the result of a process of selection and of organizing what is selected so that it is within reach in expectable situations.
+
+#### Annie Murphy Paul [_The Extended Mind_](https://anniemurphypaul.com/books/the-extended-mind/)__
+
+> Learning is moving in new ways.
