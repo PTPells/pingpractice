@@ -2,9 +2,12 @@
 
 hi and welcome! I’m Peter.&#x20;
 
-Ping Practice is a place for me to experiment with ways to become more effective at identifying and acting on the patterns in what I think about.
+Ping Practice is a place for me to experiment with ways to become more effective at:
 
-Read more [about me](about.md) or [get in touch](mailto:peter@pelberg.com).
+1. Learning from what I've experienced in the past _and_&#x20;
+2. Applying these lessons in the present
+
+Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or read about [the experiment that started all of this](experiment-dailynotes.md).
 
 ## Stream
 
