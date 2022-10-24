@@ -6,7 +6,7 @@ There, I help build software people use to make [Wikipedia](https://en.wikipedia
 
 Writing is a tool I depend on to process what I’m thinking, develop ideas, name what I’m noticing, and, more broadly, learn and evolve in the roles I play: collaborator, spouse, colleague, product manager, friend, godfather, son, brother, uncle, neighbor, etc.
 
-In 2017, motivated to become more effective at identifying patterns in what I thought about and reacted to, I started an experiment.&#x20;
+In 2017, motivated to become more effective at identifying patterns in what I thought about and reacted to, I [started an experiment](experiment-dailynotes.md).&#x20;
 
 Unbeknownst to me at the time, [this first experiment](experiment-dailynotes.md) marked the beginning of an ongoing practice of experimenting with ways to become more effective at developing insights that help me evolve in the roles I play and contexts I exist within.
 
