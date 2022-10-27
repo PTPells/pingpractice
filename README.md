@@ -12,25 +12,9 @@ Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or rea
 
 ## Stream
 
-_Observations and loose thoughts._
+### 24 October 2022
 
-<details>
-
-<summary>26 October 2022</summary>
-
-### "Stream" Purpose
-
-I think I'm going to constrain this stream to thoughts related to thoughts related to working with information.&#x20;
-
-The above had been pretty much implicit in my mind, but sometimes I find it helpful to explicitly say or write out things out to reinforce them.
-
-</details>
-
-<details>
-
-<summary>24 October 2022</summary>
-
-### "Where should I put this?"
+#### "Where should I put this?"
 
 In the moment just before arriving here, I was feeling excited as I thought about all of the things I wanted to talked about from today.
 
@@ -38,13 +22,9 @@ Now, I'm here. I'm not writing in DailyNotes, I'm not writing in Twitter, I'm no
 
 That little question – _"Where should I put this?"_ – was enough to interrupt the flow I felt. I think that's all what I'm wanting to name for now: the blocking force of this choice and the ease with which it can resurface.
 
-### Synthesizing&#x20;
+#### Synthesizing&#x20;
 
 I think writing out loose thoughts has helped me to become more effective at spontaneously synthesizing what I'm thinking in feeling in conversations, meetings, etc.
 
 In this way, I think I'm starting to feel more confident in my ability to improvise.
-
-</details>
-
-####
 

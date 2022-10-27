@@ -6,3 +6,4 @@
 * [Experiment: DailyNotes](experiment-dailynotes.md)
 * [Need: Memory](need-memory.md)
 * [Practices](practices.md)
+* [Experiment: Spark Email](experiment-spark-email.md)
