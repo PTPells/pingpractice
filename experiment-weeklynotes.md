@@ -1,7 +1,7 @@
 # Experiment: WeeklyNotes
 
 {% hint style="success" %}
-This experiment is complete.
+This experiment is complete. It clarified for me the power in compressing intentions into succinct and inspiring phrases.
 {% endhint %}
 
 ### Description
@@ -14,7 +14,13 @@ To start, the note lived within Dropbox in a file called `WeeklyNotes.md.`&#x20;
 
 <figure><img src=".gitbook/assets/WeeklyNotes.jpg" alt=""><figcaption><p>WeeklyNotes.md Dropbox file</p></figcaption></figure>
 
-### Impact & Conclusions&#x20;
+### Impact & Conclusions
+
+The WeeklyNotes experiment helped me to see the power in compressing how I wanted to be and what I wanted to be working towards into a few succinct and inspiring set of phrases.
+
+Doing the above helped me to actually remember what I was wanting to work on and towards. The experiment also helped me to become more&#x20;
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-10-27 at 9.58.23 PM.png" alt=""><figcaption><p>~12 weeks into the experiment; thinking about ways to make the WeeklyNotes practice more impactful.</p></figcaption></figure>
 
 ### Details
 
