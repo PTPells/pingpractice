@@ -7,3 +7,4 @@
 * [Need: Memory](need-memory.md)
 * [Practices](practices.md)
 * [Experiment: Spark Email](experiment-spark-email.md)
+* [Experiment: WeeklyNotes](experiment-weeklynotes.md)

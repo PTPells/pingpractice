@@ -1,0 +1,51 @@
+# Experiment: WeeklyNotes
+
+{% hint style="success" %}
+This experiment is complete.
+{% endhint %}
+
+### Description
+
+The [DailyNotes Experiment](experiment-dailynotes.md) helped me to become clear about [needing a way to remember](need-memory.md) how I wanted to be and what I wanted to be working towards.
+
+To hold myself accountable to articulating a set of intentions and to make it easier for me to remember them, I created a new page called WeeklyNotes. This was the single place where I would write and iterate on the intentions I was trying to keep top of mind for me during a given week.
+
+To start, the note lived within Dropbox in a file called `WeeklyNotes.md.`&#x20;
+
+<figure><img src=".gitbook/assets/WeeklyNotes.jpg" alt=""><figcaption><p>WeeklyNotes.md Dropbox file</p></figcaption></figure>
+
+### Impact & Conclusions&#x20;
+
+### Details
+
+To hold myself accountable to articulating a set of intentions and to make it easier for me to remember them, I created a page called `WeeklyNotes.md.`&#x20;
+
+This was the single place where I would write and iterate on the intentions I was trying to keep top of mind for me during a given week.
+
+This practice started as a single file in Dropbox. At the top of this text file was its purpose:
+
+<figure><img src=".gitbook/assets/WeeklyNotes.jpg" alt=""><figcaption><p>Purpose of the WeeklyNotes page</p></figcaption></figure>
+
+And then within the WeeklyNotes page were headings for each week, with the most recent week at the top:
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-10-27 at 9.24.37 PM (1).png" alt=""><figcaption><p>An example of what a section looks like.</p></figcaption></figure>
+
+For the first 8 weeks or so of the experiment, I was relatively loose with what I considered an "intention." Many of these early weeks ended up being more reflections than concise intentions per se. Regardless of the form, I was articulating the themes I thought were important for me to focus on in the given week.&#x20;
+
+The process for writing these intentions typically went as follows...
+
+On Sunday, I would revisit the WeeklyNotes note and reflect on how I thought the past week had gone, often revisiting the DailyNotes I'd written as prompts to get me thinking.&#x20;
+
+I would then write a few sentences about how I wanted to show up in the week ahead and that was it.
+
+In April 2020, 12 weeks into the experiment, I shifted the format of the WeeklyNotes page (now "Weekly Notes" as I'd started experimenting with Roam Research by this point). Rather than creating new sections for each week, I simplified things. There were now two headings that would remain constant:&#x20;
+
+* `Generative rules: constraints to guide growth`&#x20;
+* `Objectives: what am I trying to accomplish?`
+
+"Generative Rules" were what I called "constraints to guide growth" and&#x20;
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-10-27 at 9.07.35 PM.png" alt=""><figcaption><p>Weekly Notes in Roam Research</p></figcaption></figure>
+
+
+
