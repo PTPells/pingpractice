@@ -38,12 +38,12 @@ On Sunday, I would revisit the WeeklyNotes note and reflect on how I thought the
 
 I would then write a few sentences about how I wanted to show up in the week ahead and that was it.
 
-In April 2020, 12 weeks into the experiment, I shifted the format of the WeeklyNotes page (now "Weekly Notes" as I'd started experimenting with Roam Research by this point). Rather than creating new sections for each week, I simplified things. There were now two headings that would remain constant:&#x20;
+In April 2020, 12 weeks into the experiment, I shifted the format of the WeeklyNotes page (now "Weekly Notes" as I'd started experimenting with Roam Research by this point). Rather than creating new sections for each week, I simplified things. There were now two headings that would remain constant:
 
 * `Generative rules: constraints to guide growth`&#x20;
 * `Objectives: what am I trying to accomplish?`
 
-"Generative Rules" were what I called "constraints to guide growth" and&#x20;
+Each Sunday, I was still reflecting on the week that had just passed and thinking about the intentions I wanted to carry with me for the week ahead. Although,  now I started writing more concise and actionable intentions and objectives and accompanying the former with quotes that inspired me to "move" in these new ways:
 
 <figure><img src=".gitbook/assets/Screen Shot 2022-10-27 at 9.07.35 PM.png" alt=""><figcaption><p>Weekly Notes in Roam Research</p></figcaption></figure>
 
