@@ -18,13 +18,17 @@ To start, the note lived within Dropbox in a file called `WeeklyNotes.md.`&#x20;
 
 The WeeklyNotes experiment helped me to see the power in compressing how I wanted to be and what I wanted to be working towards into a few succinct and inspiring set of phrases.
 
-Doing the above helped me to actually remember what I was wanting to work on and towards. It felt like these guides were within reach in the moments where I had opportunities to apply them. In a way, it felt like these guides were opening up a new set of choices for me to consider in situations where I had become used to thinking and acting in a limited set of ways.
+Doing the above helped me to actually remember what I was wanting to work on and towards. It felt like these guides were within reach in the moments where I had opportunities to apply them. In a way, I felt like these guides were opening up a new set of choices for me to consider in situations where I had become used to thinking and acting in a limited set of ways.
 
-I'm not sure I would have arrived at this new format had I not noticed 12 weeks into the experiment that I wasn't revisiting the WeeklyNotes throughout the week. I would come back to the page on Sunday when it was time to reflect, but seldom beyond that. The lack of revisitation combined with the prose-like reflections led the intentions I'd set for myself to quickly fade from my mind once the week got going.
-
-
+I'm not sure I would have arrived at this new format had I not noticed 12 weeks into the experiment that I wasn't revisiting the WeeklyNotes throughout the week.&#x20;
 
 <figure><img src=".gitbook/assets/Screen Shot 2022-10-27 at 9.58.23 PM.png" alt=""><figcaption><p>~12 weeks into the experiment; thinking about ways to make the WeeklyNotes practice more impactful.</p></figcaption></figure>
+
+I would come back to WeeklyNotes on Sunday when it was time to reflect, but seldom beyond that. The lack of revisitation combined with the prose-like reflections led the intentions I'd set for myself to quickly fade from my mind once the week got going.
+
+So yes, writing short, memorable intentions did help me to improve my recall of them throughout the week, and more importantly, in moments where they could be useful. Although, I still felt there was room for me to become better at living into these intentions. This was the area I needed help with.
+
+I should note, that late into the WeeklyNotes experiment I started pairing the intentions I was setting with quotes and they did seem to be somewhat helpful. Tho, I finished this experiment wanting to explore the power of quotes more deeply.
 
 ### Details
 
