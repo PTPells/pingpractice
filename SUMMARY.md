@@ -8,3 +8,4 @@
 * [Practices](practices.md)
 * [Experiment: Spark Email](experiment-spark-email.md)
 * [Experiment: WeeklyNotes](experiment-weeklynotes.md)
+* [People](people.md)
