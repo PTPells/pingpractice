@@ -16,6 +16,28 @@ _Observations and loose thoughts._
 
 <details>
 
+<summary>28 October 2022</summary>
+
+### Directing pings
+
+I think it would be neat if the tool could support me sending pings (_see below)_ to the tools I'd like to act on them within.&#x20;
+
+The above leads me to wonder whether there's something to this idea of being able to create some kind of "meta" area around the workspaces I frequent. _Thinking: these workspaces would become more generative and richer and the ideas within them would become stronger because of my increased ability to remember them and thus an increase in the frequency with which I am "interacting" with them._
+
+<img src=".gitbook/assets/Screen Shot 2022-10-28 at 6.51.01 PM.png" alt="" data-size="original">
+
+### Fun
+
+Wow. This place feels great to be in...I'm having fun ^ \_ ^ Thank you for the metaphor, Laurel!
+
+
+
+
+
+</details>
+
+<details>
+
 <summary>26 October 2022</summary>
 
 ### "Stream" Purpose
@@ -47,4 +69,3 @@ In this way, I think I'm starting to feel more confident in my ability to improv
 </details>
 
 ####
-
