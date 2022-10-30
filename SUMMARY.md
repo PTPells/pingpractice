@@ -9,3 +9,5 @@
 * [Experiment: Spark Email](experiment-spark-email.md)
 * [Experiment: WeeklyNotes](experiment-weeklynotes.md)
 * [People](people.md)
+* [Experiment: Alt Twitter](experiment-alt-twitter.md)
+* [Project: App](project-app.md)
