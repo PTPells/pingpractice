@@ -1,6 +1,6 @@
 # References
 
-**Yi-Fu Tuan** [**Space and Place**](https://www.upress.umn.edu/book-division/books/space-and-place)
+### **Yi-Fu Tuan** [**Space and Place**](https://www.upress.umn.edu/book-division/books/space-and-place)
 
 > To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought.
 
