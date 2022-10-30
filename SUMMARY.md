@@ -11,3 +11,4 @@
 * [🚧 People](people.md)
 * [Experiment: Alt Twitter](experiment-alt-twitter.md)
 * [Project: App](project-app.md)
+* [Thinking as Talking](thinking-as-talking.md)
