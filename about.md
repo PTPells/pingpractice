@@ -11,3 +11,9 @@ In 2017, motivated to become more effective at identifying patterns in what I th
 Unbeknownst to me at the time, [this first experiment](experiment-dailynotes.md) marked the beginning of an ongoing practice of experimenting with ways to become more effective at developing insights that help me evolve in the roles I play and contexts I exist within.
 
 Until now, I’ve kept these experiments to myself. Ping Practice is an effort to this experimenting and learning legible enough for my future self to build on.
+
+### Flow
+
+A sketch for how I think of information flowing into and evolving within Ping Practice (this site).
+
+<figure><img src=".gitbook/assets/Ping-Practice.png" alt=""><figcaption></figcaption></figure>
