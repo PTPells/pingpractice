@@ -68,4 +68,15 @@ In this way, I think I'm starting to feel more confident in my ability to improv
 
 </details>
 
-####
+<details>
+
+<summary>10 October 2022</summary>
+
+### Ping Practice Flow&#x20;
+
+Sketches of what information I imagine Ping Practice to hold and how it will flow within the site.\
+&#x20;![](.gitbook/assets/PingPractice2.png)![](.gitbook/assets/Ping-Practice.png)
+
+
+
+</details>
