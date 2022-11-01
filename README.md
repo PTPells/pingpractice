@@ -20,6 +20,16 @@ _Observations and loose thoughts._
 
 I seem to have gotten into a habit of prefixing some things I say to myself \[and certain people] with a term within square brackets. So, things like:`[question]`, `[prompt]`, `[idea]`, `[ask]` etc.
 
+
+
+<img src=".gitbook/assets/Screen Shot 2022-10-31 at 9.38.26 PM.png" alt="" data-size="original">
+
+<img src=".gitbook/assets/Screen Shot 2022-10-31 at 9.36.59 PM.png" alt="" data-size="original">
+
+
+
+<img src=".gitbook/assets/Screen Shot 2022-10-31 at 10.02.56 PM.png" alt="" data-size="original">
+
 _(Aside: I'm reluctant to categorize the above as "tags" per se, but I think that's just because I have negative associations with a particular implementation of tags which I appreciate to be a far more open-ended concept. Maybe it would be worthwhile to talk about tags some more  and why I think the implementations I've seen do little to guide people to use them in ways that make it easier for their future selves to find that information later. Think: topical and the moments tools often present people with the opportunities to apply them.)_
 
 And I'd like to draw a quick sketch for why I think this might be the case:
@@ -29,6 +39,10 @@ And I'd like to draw a quick sketch for why I think this might be the case:
 3. **Legibility.**  Just like the presence of a question mark (`?`) makes it clear to people what a thought is seeking, prefixing a thought with bracketed thought type - I think – makes it easier for people to understand what it is a particular thought is trying to say to them.
 
 For context, I felt compelled to write all of this after noticing myself using the `[prompt]` construction in a new context: within a "Book Note" for Thought As A System. I think it was notable for me to see me extending this pattern intuitively to a new context...as if the pattern has become useful enough to be something I'm "bringing with me" wherever I "go."
+
+
+
+<img src=".gitbook/assets/prompt roam.jpg" alt="" data-size="original">
 
 
 
