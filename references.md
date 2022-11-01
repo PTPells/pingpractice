@@ -4,6 +4,10 @@
 
 > To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought.
 
+### David Bohm _Thought As A System_
+
+> What I mean by 'thought' is the whole thing — thought, 'felt', the body, the whole society sharing thoughts — it's all one process. It is essential for me not to break that up, because it's all one process; somebody else's thought becomes my thought, and vice versa. Therefore it would be wrong and misleading to break it up into my thought, your thought, my feelings, these feelings, those feelings. I would say that thought makes what is often called in modern language a system. A system means a set of connected things or parts. But the way people commonly use the word nowadays it means something all of whose parts are mutually interdependent — not only for their mutual action, but for their meaning and for their existence
+
 ### Kevin Lynch [_What Time Is This Place_](https://mitpress.mit.edu/9780262620321/what-time-is-this-place/)__
 
 > If we examine the feelings that accompany daily life, we find that historic monuments occupy a small place.&#x20;
