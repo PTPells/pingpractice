@@ -56,17 +56,15 @@ _Aside: I'm reluctant to categorize the above as "tags" per se, but I think that
 
 I think it would be neat if the tool could support me sending pings (_see below)_ to the tools I'd like to act on them within.&#x20;
 
-The above leads me to wonder whether there's something to this idea of being able to create some kind of "meta" area around the workspaces I frequent. _Thinking: these workspaces would become more generative and richer and the ideas within them would become stronger because of my increased ability to remember them and thus an increase in the frequency with which I am "interacting" with them._
-
 <img src=".gitbook/assets/Screen Shot 2022-10-28 at 6.51.01 PM.png" alt="" data-size="original">
+
+The above leads me to wonder whether there's something to this idea of being able to create some kind of "meta" area around the workspaces I frequent.&#x20;
+
+_Thinking: these activity spaces would become more generative and richer, and the ideas within them would become stronger, if I could more easily draw on relevant thoughts/ideas while I'm working within them. I also wonder whether having the ability to "send" pings to these spaces without having to visit them would help me advance ideas more quickly because I will have better recall of the range of tools available to me at any given time._
 
 ### Fun
 
 Wow. This place feels great to be in...I'm having fun ^ \_ ^ Thank you for the metaphor, Laurel!
-
-
-
-
 
 </details>
 
