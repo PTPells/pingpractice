@@ -18,7 +18,7 @@ _Observations and loose thoughts._
 
 <summary>31 October 2022</summary>
 
-I seem to have gotten into a habit of prefixing some things I say to myself \[and certain people] with a term within square brackets. So, things like:`[question]`, `[prompt]`, `[idea]`, `[ask]` etc.
+I have gotten into a habit of prefixing some things I say to myself (and other people in certain contexts) with a term bounded by square brackets. So, things like:`[question]`, `[prompt]`, `[idea]`, `[ask]` etc.
 
 
 
@@ -26,25 +26,25 @@ I seem to have gotten into a habit of prefixing some things I say to myself \[an
 
 <img src=".gitbook/assets/Screen Shot 2022-10-31 at 9.36.59 PM.png" alt="" data-size="original">
 
-
-
 <img src=".gitbook/assets/Screen Shot 2022-10-31 at 10.02.56 PM.png" alt="" data-size="original">
-
-_(Aside: I'm reluctant to categorize the above as "tags" per se, but I think that's just because I have negative associations with a particular implementation of tags which I appreciate to be a far more open-ended concept. Maybe it would be worthwhile to talk about tags some more  and why I think the implementations I've seen do little to guide people to use them in ways that make it easier for their future selves to find that information later. Think: topical and the moments tools often present people with the opportunities to apply them.)_
 
 And I'd like to draw a quick sketch for why I think this might be the case:
 
-1. **Stability/Durability.** Questions, prompts, ideas, etc. are relatively stable and distinct concepts/categories of thoughts in my mind. Experience has demonstrated to me that my current and future selves are likely to have a shared understanding for what does and does not qualify as a question, prompt, idea, etc.. In this way, using a tag as stable as \[`question]` makes it possible for me to see a range of thoughts that are related along at least one dimension across time. This answering big, and likely generative, questions like _"What have I been wondering about over the past \_\_\_?"_ or _"I want to write more publicly, but I don't know what I would write about. Oh, well why don't I see what \[writing ideas] I've had in the past \_\_\_?"_ pretty easy to ask and answer.
+1. **Stability/Durability.** Questions, prompts, ideas, etc. are relatively stable and distinct concepts/categories of thoughts in my mind. Experience has demonstrated to me that my current and future selves are likely to have a shared understanding for what does and does not qualify as a question, prompt, idea, etc. \
+   \
+   In this way, using a tag as stable as \[`question]` makes it possible for me to easily assemble a set of related thoughts across time. This helps make answering big, and generative, questions like _"What have I been wondering about over the past few weeks?"_ or _"What might I write about it? Why don't I see what `[writing ideas]` I've thought about in the past couple of weeks"_ pretty easy to ask and answer.
 2. **Applicability.** Questions, prompts, and ideas, have clear use cases in my life. In this way, being able to more easily locate them across the various tools where I accrue them creates a great deal of possibility for me.
 3. **Legibility.**  Just like the presence of a question mark (`?`) makes it clear to people what a thought is seeking, prefixing a thought with bracketed thought type - I think – makes it easier for people to understand what it is a particular thought is trying to say to them.
 
-For context, I felt compelled to write all of this after noticing myself using the `[prompt]` construction in a new context: within a "Book Note" for Thought As A System. I think it was notable for me to see me extending this pattern intuitively to a new context...as if the pattern has become useful enough to be something I'm "bringing with me" wherever I "go."
-
-
+For context, I felt compelled to write all of this after noticing myself using the `[prompt]` construct in a new context: within a "Book Note" for _Thought As A System_. \
+\
+I think I considered this notable because seeing myself using this pattern in a new context without thinking about led me to think something like, "Huh, this pattern seems become useful enough to be something I'm "bringing with me" wherever I "go."
 
 <img src=".gitbook/assets/prompt roam.jpg" alt="" data-size="original">
 
 
+
+_Aside: I'm reluctant to categorize the above as "tags" per se, but I think that's just because I have negative associations with a particular implementation of tags which I appreciate to be a far more open-ended concept. Maybe it would be worthwhile to talk about tags some more  and why I think the implementations I've seen have done little to guide me to use them in ways that make it easier for my future selves to find what they are looking for later. Think: topical and the moments tools often present people with the opportunities to apply them._
 
 </details>
 
