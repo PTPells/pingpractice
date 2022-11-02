@@ -6,7 +6,7 @@ Ping Practice is and will always be a permanent work in progress.
 
 hi and welcome! I’m Peter.&#x20;
 
-Ping Practice is a place for me to experiment with ways to become more effective at developing insights that help me evolve in the roles I play and contexts I exist within.
+Ping Practice is a place for me to experiment with strategies for becoming more effective at making meaning out of what I notice, think about, and react to.
 
 Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or read about [the experiment that started this](experiment-dailynotes.md).
 
