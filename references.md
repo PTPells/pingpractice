@@ -6,7 +6,7 @@
 
 ### David Bohm _Thought As A System_
 
-> ...thought is a very subtle set of reflexes which is potentially unlimited; you can add more and more and you can modify your reflexes.
+> ...thought is a very subtle set of reflexes which is potentially unlimited; you can add more and more and you can modify your reflexes. Suppose like a logician you say: 'All swans are white. This bird is a wan therefore this bird is white.' But then you modify this by saying, 'I've seen that some swans may not be white.' And so on. Even the whole logical process, once it's committed to memory, becomes a set of reflexes. There may be a perception of reason beyond the reflexes, but anything perceived becomes sooner or  later a set of reflexes. And what's what I want to call 'thought' – which includes the emotion, the bodily state, the physical reaction and everything else.
 
 > What I mean by 'thought' is the whole thing — thought, 'felt', the body, the whole society sharing thoughts — it's all one process. It is essential for me not to break that up, because it's all one process; somebody else's thought becomes my thought, and vice versa. Therefore it would be wrong and misleading to break it up into my thought, your thought, my feelings, these feelings, those feelings. I would say that thought makes what is often called in modern language a system. A system means a set of connected things or parts.&#x20;
 
