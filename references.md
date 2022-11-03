@@ -6,6 +6,8 @@
 
 ### David Bohm _Thought As A System_
 
+> ...thought is a very subtle set of reflexes which is potentially unlimited; you can add more and more and you can modify your reflexes.
+
 > What I mean by 'thought' is the whole thing — thought, 'felt', the body, the whole society sharing thoughts — it's all one process. It is essential for me not to break that up, because it's all one process; somebody else's thought becomes my thought, and vice versa. Therefore it would be wrong and misleading to break it up into my thought, your thought, my feelings, these feelings, those feelings. I would say that thought makes what is often called in modern language a system. A system means a set of connected things or parts.&#x20;
 
 > Similarly, thought is a system. That system not only includes thoughts, 'felts' and feelings, but it includes the state of the body; it includes the whole of society – as thought is passing back and forth between people in a process by which thought evolved from ancient times.
