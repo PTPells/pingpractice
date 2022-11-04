@@ -16,7 +16,25 @@ _Observations and loose thoughts._
 
 <details>
 
+<summary>3 November 2022</summary>
+
+### \[Reflex]
+
+Building on the idea of [thought types from 31 October 2022](./#undefined), I wonder if there could be meaning in experimenting with using a`[reflex`] thought type.&#x20;
+
+Where "reflex" could be a moment when I feel, say, unseen, hurt, sad, etc.
+
+The idea here being these reflexes are likely related by a perceived unmet need, value, etc.
+
+_Aside: I feel inclined to create a page titled something like "Thoughts." I'm imagining I'd use this page initially for: A) defining "thought types" and B) defining what I mean when I say "thought" considering how central that concept is to this practice._
+
+</details>
+
+<details>
+
 <summary>31 October 2022</summary>
+
+### Thought types
 
 I have gotten into a habit of prefixing some things I say to myself (and other people in certain contexts) with a term bounded by square brackets. So, things like:`[question]`, `[prompt]`, `[idea]`, `[ask]` etc.
 
