@@ -12,8 +12,6 @@ Unbeknownst to me at the time, [this first experiment](experiment-dailynotes.md)
 
 Until now, I’ve kept these experiments to myself. Ping Practice is an effort to this experimenting and learning legible enough for my future self to build on.
 
-### Flow
 
-A sketch for how I think of information flowing into and evolving within Ping Practice (this site).
 
 <figure><img src=".gitbook/assets/Ping-Practice.png" alt=""><figcaption></figcaption></figure>
