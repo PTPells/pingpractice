@@ -17,7 +17,14 @@ Where "meaning" could take the form of a:
 * Title for a project you’re working on
 * etc.
 
-### Method
+## Method
+
+Ping Practice is made up of two core components:
+
+1. A type of thought called a "Ping"
+2. A method for uncovering the meaning with these "Pings"
+
+### Ping
 
 Ping Practice is built on the assumption that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues to new meaning and insight. I call these "pings."
 
@@ -29,7 +36,15 @@ You are likely encountering a Ping if the movement or attraction you sense seems
 
 In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I notice the hair on my arm standing up (read: I get goosebumps).
 
+### Method
 
+_#TODO: share the thinking loop diagram and explain it._
 
-### Impact
+## Impact
+
+_#TODO: why is Ping Practice important to me? Why might other people find it useful.valuable?_
+
+## Origin
+
+_#TODO: where does Ping Practice come from? What is a reaction to? What is it trying to achieve?_
 
