@@ -17,23 +17,19 @@ Where "meaning" could take the form of a:
 * Title for a project you’re working on
 * etc.
 
-Ping Practice is built on the assumption that tiny, everyday moments are clues and pathways to deeper meaning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-&#x20;taking consistent note of tiny bits of resonance, locating them in a place you feel drawn to revisit, and empowered to expand, relate, and iterate upon these bits of resonance will compound into new meaning and insight.
-
 ### Method
+
+Ping Practice is built on the assumption that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues to new meaning and insight. I call these "pings."
+
+A ping can take on any form: word, phrase, name, lyric, quote, place, color, texture, melody, idea, feeling, etc.
+
+The most important thing about Pings – and what differentiates them from other thoughts – is that a Ping is something that moves you.&#x20;
+
+You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, and reflexive...as if what you are encountering originates from, or relates to, something within you.
+
+In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I notice the hair on my arm standing up (read: I get goosebumps).
+
+
 
 ### Impact
 
