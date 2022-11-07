@@ -10,7 +10,7 @@ In 2017, motivated to become more effective at identifying patterns in what I th
 
 Unbeknownst to me at the time, [this first experiment](experiment-dailynotes.md) marked the beginning of an ongoing practice of experimenting with ways to become more effective at developing insights that help me evolve in the roles I play and contexts I exist within.
 
-Until now, I’ve kept these experiments to myself. Ping Practice is an effort to this experimenting and learning legible enough for my future self to build on.
+Until now, I’ve kept these experiments to myself. This place is a way to make what I'm learning legible enough for my future self to build on. It also serves as a reference, an anchor...a "place" I can leave from, come back to, and use to orient when I feel "far away."
 
 
 
