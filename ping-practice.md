@@ -1,23 +1,16 @@
 # Ping Practice
 
-Ping Practice is a method I've converged on for making meaning and use of what I notice.
+Ping Practice is a method I've converged on for turning what I notice into meaning I can apply .
 
-Where "meaning" could take the form of a:
+Where "meaning" could take the form of things like...
 
-* Pattern that helps scattered thoughts snap into place&#x20;
-* Solution to a challenge you're sitting with
-* Need that might explain a pattern of behavior&#x20;
-* Idea that you want to make
-* Value that is important to you&#x20;
-* Question that helps you focus&#x20;
-* Reframe to get unstuck&#x20;
-* New choice to consider&#x20;
-* Affirmation that empowers you&#x20;
-* Reminder that helps you stay on track&#x20;
-* Title for a project you’re working on
-* etc.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Pattern that helps scattered thoughts snap into place</td><td></td><td></td></tr><tr><td>Solution to a challenge you're sitting with</td><td></td><td></td></tr><tr><td>Need that might explain a pattern of behavior</td><td></td><td><p></p><p></p></td></tr><tr><td>Affirmation that empowers you</td><td></td><td></td></tr><tr><td>Need that might explain a pattern of behavior</td><td></td><td></td></tr><tr><td>Question that helps you focus</td><td></td><td></td></tr><tr><td>Idea that you want to make</td><td></td><td></td></tr><tr><td>Reframe to get unstuck</td><td></td><td></td></tr><tr><td>Value that is important to you</td><td></td><td></td></tr><tr><td>New choice to consider</td><td></td><td></td></tr><tr><td>Reminder that helps you stay on track</td><td></td><td></td></tr><tr><td>Title for a project you’re working on</td><td></td><td></td></tr></tbody></table>
 
 ## Method
+
+<figure><img src=".gitbook/assets/Cards_Sketching.png" alt="A circular diagram showing Ping Practice&#x27;s steps: Name, Notice, Revisit, Edit/Respond/Relate, Remember, and Apply"><figcaption><p>Ping Practice</p></figcaption></figure>
+
+### Components
 
 Ping Practice is made up of two core components:
 
@@ -26,19 +19,19 @@ Ping Practice is made up of two core components:
 
 ### Ping
 
-Ping Practice is built on the assumption that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues to new meaning and insight. I call these "pings."
+Ping Practice assumes that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues to new meaning and insight. I call these "Pings."
 
-A ping can take on any form: word, phrase, name, lyric, quote, place, color, texture, melody, idea, feeling, etc.
+A ping can take on any form: word, phrase, title, rhyme, name, lyric, quote, place, color, texture, melody, idea, feeling, etc.
 
 The most important thing about Pings – and what differentiates them from other thoughts – is that a Ping is something that moves you.&#x20;
 
-You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, and reflexive...as if what you are encountering originates from, or relates to, something within you.
+You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, and reflexive...as if what you are encountering relates to something within you.
 
 In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I notice the hair on my arm standing up (read: I get goosebumps).
 
 ### Method
 
-_#TODO: share the thinking loop diagram and explain it._
+__
 
 ## Impact
 
