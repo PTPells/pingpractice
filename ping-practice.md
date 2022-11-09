@@ -31,7 +31,22 @@ In this way, there are many ways to detect a Ping. For me, I know I'm encounteri
 
 ### Method
 
-__
+Ping Practice is a loop with 6 steps within it.
+
+The first step is **Notice**. This means **** remaining aware and present to notice things that "Ping" something within.
+
+The second step follows quickly after the first: **Naming**. Giving some  language – no matter how rough – to what Pinged for you. _The most important thing in this moment is making sure the name you give to the Ping is clear and descriptive enough for your future self to recall what you were referring to._
+
+The third steps is to **Revisit** previous Pings. The cadence with which you revisit previous Pings can vary. _The most important thing is that you revisit regularly._
+
+The fourth step happens as you Revisit: **Engaging.** For a Ping to acquire meaning, you need to:
+
+* _Edit_ Pings so the language you use to represent them better reflects what it was that you initially Noticed.
+* &#x20;
+
+
+
+
 
 ## Impact
 
