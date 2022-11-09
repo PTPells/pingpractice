@@ -37,16 +37,17 @@ The first step is **Notice**. This means **** remaining aware and present to not
 
 The second step follows quickly after the first: **Naming**. Giving some  language – no matter how rough – to what Pinged for you. _The most important thing in this moment is making sure the name you give to the Ping is clear and descriptive enough for your future self to recall what you were referring to._
 
-The third steps is to **Revisit** previous Pings. The cadence with which you revisit previous Pings can vary. _The most important thing is that you revisit regularly._
+The third steps is to **Revisit** previous Pings. The cadence with which you revisit previous can vary. _The most important thing is that you revisit regularly._
 
 The fourth step happens as you Revisit: **Engaging.** For a Ping to acquire meaning, you need to:
 
 * _Edit_ Pings so the language you use to represent them better reflects what it was that you initially Noticed.
-* &#x20;
+* _Re_s_pond_ to Pings as a way of exploring all that a particular Ping could contain / bring up for you.
+* _Relate_ Pings to one another to help identify and name patterns that could help to explain your resonance with a particular set of Pings.
 
+The purpose of Ping Practice is to turn the little things you notice (Pings) into insights that you can apply. A core part of the "applying" part is making sure Pings are easy for you to **Remember** in the small windows you have opportunities to apply them. This means placing the Pings that are important to you in a place – literally and metaphorically – where you  can recall them when you need to.
 
-
-
+The last step before the Ping Practice cycle repeat itself is **Applying**. Taking the insights and you have converged on and acting on them. Doing so will cause you to **Notice** new things which starts the cycle all over again.
 
 ## Impact
 
