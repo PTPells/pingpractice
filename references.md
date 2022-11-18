@@ -58,6 +58,8 @@
 
 > To have something solid that I could be sure of, I started by examining the smallest particles of functional effect that I could discern in buildings, paying attention to small and sometimes barely significant aspects of the ways that buildings affect people. My purpose in doing this was to focus on the smallest particles of fact that I could be certain of: something that was extraordinarily difficult given the porridge of mush that then passed for architectural theory. In those early years, my studies were based on the most ordinary, miniscule observations about usefulness and the effect of buildings on the people who lived in them, always keeping the observations modest, ­reliable, and detailed—small enough and solid enough that I could be sure that they were true.
 
+> When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed.
+
 ### **Marshall McLuhan** [**Understanding Media**](https://en.wikipedia.org/wiki/Understanding\_Media)
 
 > Plainly, to store is to expedite, since what is stored is also more accessible than what has to be gathered.
