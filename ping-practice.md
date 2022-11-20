@@ -47,6 +47,14 @@ Ping Practice is a loop with 6 steps within it.
 
 _#TODO: why is Ping Practice important to me? Why might other people find it useful.valuable?_
 
+* **Improved memory and recall**
+  * I think this has enabled me to become better at improvising. Where "improvise" in this context means having a clear range of ideas, examples, risks, questions, prompts, metaphors, etc. that I could enter in response to a question or prompt in a synchronous interaction.
+* **Greater awareness of reflexive thoughts**
+  * When this awareness combines with an improved memory, I have come to feel equipped with a broader set of options and solutions to choose from when I encounter a blocker or challenge.
+* **Clearer thinking**
+* **More self-acceptance / Less attachment**&#x20;
+  * _Something about there sensing a clearer boundary between the self-concept I hold and what I think/feel._
+
 ## Origin
 
 _#TODO: where does Ping Practice come from? What is a reaction to? What is it trying to achieve?_
