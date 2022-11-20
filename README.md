@@ -14,6 +14,26 @@ Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or rea
 
 _Observations and loose thoughts._
 
+__
+
+<details>
+
+<summary>19 November 2022</summary>
+
+### Micro-syntax
+
+I'm attracted to describing the personal classifiers I talked about on [3 November 2022](./#3-november-2022-1) and [31 October 2022 ](./#undefined)as a kind of "micro-syntax" or way of declaring or codifying types of thought in an explicit enough way that I "operate" on them at some later point.
+
+### Quotations
+
+Speaking of micro-syntax, I've developed a habit of using quotation marks (`" "` ) as a way of communicating to myself, and ideally other people, that a particular word or metaphor I'm using is a sketch, not yet something I have conviction in.
+
+I find that doing the above helps break me out of the _"find the ideal"_ language loop I can find myself getting stuck in when trying to externalize a nascent thought.
+
+
+
+</details>
+
 <details>
 
 <summary>3 November 2022</summary>
