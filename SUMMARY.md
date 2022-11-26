@@ -8,6 +8,6 @@
 * [Interviews](practices.md)
 * [Experiment: Spark Email](experiment-spark-email.md)
 * [Experiment: WeeklyNotes](experiment-weeklynotes.md)
-* [Project: App](project-app.md)
+* [Ping Practice (App)](ping-practice-app.md)
 * [Meta](meta.md)
-* [Ping Practice](ping-practice.md)
+* [Ping Practice (Method)](ping-practice-method.md)

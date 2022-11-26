@@ -4,7 +4,7 @@ Between August 2021 and August 2022, I talked with \~30 people who I knew to be 
 
 _How did these people tap into their voice? Did they too have a practice of capturing inspiration? If so, how? Would they ever revisit what they captured? How did they translate these experiences and ideas into actions and decisions?_
 
-I was motivated to develop a sense for whether the [need I had noticed](need-memory.md) was a need other people experienced as well. This way, we (David and me) could gauge the [the solution's ](project-app.md)potential appeal and decide whether the need was a stable enough reference point to orient the design of the app around.
+I was motivated to develop a sense for whether the [need I had noticed](need-memory.md) was a need other people experienced as well. This way, we (David and me) could gauge the [the solution's ](ping-practice-app.md)potential appeal and decide whether the need was a stable enough reference point to orient the design of the app around.
 
 These interviewed helped us to see that while the tools people used to capture inspiration varied (e.g. Apple Notes, texts and emails to themselves, Google Docs, physical notebooks, screenshots, Pinterest, Instagram bookmarks, post-it notes, 3x5 cards, scrap paper, etc.), commonalities emerged in the experiences people had with each of them.
 
