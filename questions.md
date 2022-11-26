@@ -12,14 +12,23 @@ I use questions as navigational instruments to:
 
 I have found that while some questions can create opportunity and openness, others can evaporate momentum and promote closure.
 
-This page is an effort to name the underlying patterns the produce questions that create and open spaces.
+This page is an effort to name the underlying patterns the produce questions that lead me to feel closer to myself, other people, and the environments we share.&#x20;
 
-
-
-
+{% hint style="info" %}
+NOTE: I have not yet formulated an opinion about the dinstinction(s) between "questions" and "prompts." Although, in the meantime, I'm going to use to the term "question" to refer to any request for information. Whereas I'm going to use the term "prompt" to refer to questions intended for use in a particular context or to elicit a particular kind of interaction or reaction.&#x20;
+{% endhint %}
 
 ### Prompts for Journaling/Reflecting
 
+*
+
+### Prompts For Becoming Present With Other People
+
+* The person asking needs to be curious in the answer
+* Question should not lead the people responding to trade or compare answers in ways that feel zero-sum
+* Question should not require the other person to compress or make sense of something new&#x20;
+* Question should pull people into the moment they are all present within&#x20;
+* Question should demonstrate an awareness for what the person is likely to already have/be thinking about
 
 
-### Prompts for Gathering
+
