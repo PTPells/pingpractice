@@ -20,15 +20,18 @@ NOTE: I have not yet formulated an opinion about the dinstinction(s) between "qu
 
 ### Prompts for Journaling/Reflecting
 
-*
+* Question should be something you can immediately start answering
+* Question should use language that feels natural and intrinsic to you
+* Question should invite you to look at something that is familiar and you can see vividly through a lens that feels fresh
 
 ### Prompts For Becoming Present With Other People
 
 * The person asking needs to be curious in the answer
 * Question should not lead the people responding to trade or compare answers in ways that feel zero-sum
-* Question should not require the other person to compress or make sense of something new&#x20;
+* Question should not require the other person to compress or make sense of something new within the same moment they are being asked to do so
 * Question should pull people into the moment they are all present within&#x20;
 * Question should demonstrate an awareness for what the person is likely to already have/be thinking about
+* Questions should, ideally, be soemthing the other person would be energized to answer if asked
 
 
 

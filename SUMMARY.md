@@ -4,7 +4,7 @@
 * [Interviews](practices.md)
 * [Ping Practice (App)](project-app.md)
 * [Ping Practice (Method)](ping-practice.md)
-* [Quotes](quotes.md)
+* [Quotes](references.md)
 * [Questions](questions.md)
 * [Experiment: DailyNotes](experiment-dailynotes.md)
 * [Experiment: Spark Email](experiment-spark-email.md)

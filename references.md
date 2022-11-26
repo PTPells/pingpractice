@@ -1,4 +1,4 @@
-# References
+# Quotes
 
 ### **Yi-Fu Tuan** [**Space and Place**](https://www.upress.umn.edu/book-division/books/space-and-place)
 
