@@ -1,4 +1,4 @@
-# Ping Practice
+# Ping Practice (Method)
 
 Ping Practice is a method I've converged on for turning what I notice into meaning and insights I can apply in my life.
 
