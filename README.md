@@ -18,6 +18,20 @@ __
 
 <details>
 
+<summary>27 November 2022</summary>
+
+### Questions
+
+I like how conceiving of questions/prompts as doorways draws my attention to the responsibility that questions/prompts have for earning the trust of the person receiving them and evaluating the extent to which they'll engage with them.
+
+This leads me to a question that's something like: _"What could cause people to feel more trusting of, and willing to engage with, a question that doesn't immediately resonate with them?"_&#x20;
+
+That phrasing doesn't quite capture it, but it's a start.
+
+</details>
+
+<details>
+
 <summary>19 November 2022</summary>
 
 ### Micro-syntax
