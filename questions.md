@@ -9,6 +9,7 @@ I use questions as navigational instruments to:
 * Create spaces to meet other people in
 * Reveal relationships that could explain recurrent reactions
 * Reflect on where I've been so that I can better understand where I am now and where I might go next
+* Scope conversations&#x20;
 
 I have found that while some questions can create opportunity and openness, others can evaporate momentum and promote closure.
 
@@ -21,10 +22,12 @@ NOTE: I have not yet formulated an opinion about the distinction(s) between "que
 ### Prompts for Journaling/Reflecting
 
 * Question should be something you can immediately start answering
-* Question should use language that feels natural and intuitive to you
+* Like a door handle, questions should use language that feels natural, intuitive, easy to grab onto and engage with
 * Question should invite you to look at something that is familiar and you can see vividly through a lens that feels fresh
 
-### Prompts For Becoming Present With Other People
+
+
+### Prompts For Becoming Present with Other People
 
 * The person asking needs to be curious in the answer
 * Question should not lead the people responding to trade or compare answers in ways that feel zero-sum
