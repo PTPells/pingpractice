@@ -18,7 +18,7 @@ To start, the note lived within Dropbox in a file called `WeeklyNotes.md.`&#x20;
 
 The WeeklyNotes experiment helped me to see the power in compressing how I wanted to be and what I wanted to be working towards into a few succinct and inspiring set of phrases.
 
-Doing the above helped me to actually remember what I was wanting to work on and towards. It felt like these guides were within reach in the moments where I had opportunities to apply them. In a way, I felt like these guides were opening up a new set of choices for me to consider in situations where I had become used to thinking and acting in a limited set of ways.
+Doing the above helped me to actually remember what I was wanting to work on and towards. It felt like these guides were within reach in the moments where I had opportunities to apply them. In a way, I felt like these guides were opening up a new set of choices for me to consider in situations where I had become used to thinking and acting in a particular set of ways.
 
 I'm not sure I would have arrived at this new format had I not noticed 12 weeks into the experiment that I wasn't revisiting the WeeklyNotes throughout the week.&#x20;
 
@@ -34,7 +34,7 @@ I should note, that late into the WeeklyNotes experiment I started pairing the i
 
 To hold myself accountable to articulating a set of intentions and to make it easier for me to remember them, I created a page called `WeeklyNotes.md.`&#x20;
 
-This was the single place where I would write and iterate on the intentions I was trying to keep top of mind for me during a given week.
+This was the single place where I would write and iterate on the intentions I was trying to keep top of mind during a given week.
 
 This practice started as a single file in Dropbox. At the top of this text file was its purpose:
 
