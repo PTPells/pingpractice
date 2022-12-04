@@ -1,10 +1,12 @@
 # Ping Practice (Method)
 
-Ping Practice is a method I've converged on for turning what I notice into meaning and insights I can apply in my life.
+Ping Practice is a method I've developed for turning what I notice into insights I can use to make choices and take actions in my life.
 
-Where "meaning" could take the form of things like...
+> _"Insights?"_&#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Pattern</strong> that helps scattered thoughts snap into place</td><td></td><td></td></tr><tr><td><strong>Solution</strong> to a challenge you're sitting with</td><td></td><td></td></tr><tr><td><strong>Need</strong> that might explain a pattern of behavior</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Affirmation</strong> that empowers you</td><td></td><td></td></tr><tr><td><strong>Question</strong> that helps you focus</td><td></td><td></td></tr><tr><td><strong>Idea</strong> that you want to make</td><td></td><td></td></tr><tr><td><strong>Reframe</strong> to get unstuck</td><td></td><td></td></tr><tr><td><strong>Value</strong> that is important to you</td><td></td><td></td></tr><tr><td><strong>New</strong> choice to consider</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr><tr><td><strong>Title</strong> for a project you’re working on</td><td></td><td></td></tr></tbody></table>
+Yep, insights like:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Pattern</strong> that helps scattered thoughts snap into place</td><td></td><td></td></tr><tr><td><strong>Next step</strong> to experiment with</td><td></td><td></td></tr><tr><td><strong>Need</strong> that might explain a pattern of reactions</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Affirmation</strong> that empowers you</td><td></td><td></td></tr><tr><td><strong>Question</strong> that helps you focus</td><td></td><td></td></tr><tr><td><strong>Idea</strong> that you want to make</td><td></td><td></td></tr><tr><td><strong>Reframe</strong> to get unstuck</td><td></td><td></td></tr><tr><td><strong>Value</strong> that is important to you</td><td></td><td></td></tr><tr><td><strong>New</strong> choice to consider</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr><tr><td><strong>Title</strong> for a project you’re working on</td><td></td><td></td></tr></tbody></table>
 
 ## Method
 
@@ -47,9 +49,9 @@ Ping Practice is a loop with 6 steps within it.
 
 _#TODO: why is Ping Practice important to me? Why might other people find it useful.valuable?_
 
-* **Improved memory and recall**
-  * I think this has enabled me to become better at improvising. Where "improvise" in this context means having a clear range of ideas, examples, risks, questions, prompts, metaphors, etc. that I could enter in response to a question or prompt in a synchronous interaction.
-* **Greater awareness of reflexive thoughts**
+* **Improved memory and recall** which has enabled me to become better at improvising.
+  * Where "improvise" in this context means having a braoder range of ideas, examples, risks, questions, prompts, metaphors, etc. that I can draw on in the small moments I have opportunities to apply them.
+* **Greater awareness of reflexive thoughts**&#x20;
   * When this awareness combines with an improved memory, I have come to feel equipped with a broader set of options and solutions to choose from when I encounter a blocker or challenge.
 * **Clearer thinking**
 * **Stronger voice**&#x20;
