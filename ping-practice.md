@@ -8,14 +8,12 @@ Where "meaning" could take the form of things like...
 
 ## Method
 
-<figure><img src=".gitbook/assets/Cards_Sketching.png" alt="A circular diagram showing Ping Practice&#x27;s steps: Name, Notice, Revisit, Edit/Respond/Relate, Remember, and Apply"><figcaption><p>Ping Practice</p></figcaption></figure>
-
 ### Components
 
 Ping Practice is made up of two core components:
 
-1. A type of thought called a "Ping"
-2. A method for uncovering the meaning within these "Pings"
+1. A type of thought called a "[Ping](ping-practice.md#ping)"
+2. A [process](ping-practice.md#process) for uncovering the meaning within these "Pings"
 
 ### Ping
 
@@ -29,7 +27,9 @@ You are likely encountering a Ping if the movement or attraction you sense seems
 
 In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I notice the hair on my arm standing up.&#x20;
 
-### Method
+<figure><img src=".gitbook/assets/Cards_Sketching.png" alt="A circular diagram showing Ping Practice&#x27;s steps: Name, Notice, Revisit, Edit/Respond/Relate, Remember, and Apply"><figcaption><p>Ping Practice</p></figcaption></figure>
+
+### Process
 
 Ping Practice is a loop with 6 steps within it.
 
