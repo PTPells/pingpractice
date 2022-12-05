@@ -6,7 +6,7 @@ Ping Practice is a method I've developed for turning what I notice into insights
 
 Yep, insights like:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Pattern</strong> that helps scattered thoughts snap into place</td><td></td><td></td></tr><tr><td><strong>Next step</strong> to experiment with</td><td></td><td></td></tr><tr><td><strong>Need</strong> that might explain a pattern of reactions</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Affirmation</strong> that empowers you</td><td></td><td></td></tr><tr><td><strong>Question</strong> that helps you focus</td><td></td><td></td></tr><tr><td><strong>Idea</strong> that you want to make</td><td></td><td></td></tr><tr><td><strong>Reframe</strong> to get unstuck</td><td></td><td></td></tr><tr><td><strong>Value</strong> that is important to you</td><td></td><td></td></tr><tr><td><strong>New</strong> choice to consider</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr><tr><td><strong>Title</strong> for a project you’re working on</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Pattern</strong> that helps scattered thoughts snap into place</td><td></td><td></td></tr><tr><td><strong>Next step</strong> to experiment with</td><td></td><td></td></tr><tr><td><strong>Need</strong> that might explain a pattern of reactions</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Affirmation</strong> that empowers you</td><td></td><td></td></tr><tr><td><strong>Question</strong> that helps you focus</td><td></td><td></td></tr><tr><td><strong>Name</strong> that clarifies an idea</td><td></td><td></td></tr><tr><td><strong>Reframe</strong> to get unstuck</td><td></td><td></td></tr><tr><td><strong>Value</strong> that is important to you</td><td></td><td></td></tr><tr><td><strong>New</strong> choice to consider</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr></tbody></table>
 
 ## Method
 
@@ -35,29 +35,51 @@ In this way, there are many ways to detect a Ping. For me, I know I'm encounteri
 
 Ping Practice is a loop with 6 steps within it.
 
-1. The first step is **Notice**. This means **** being aware and present so that you can notice things that "Ping" something within you.
-2. The second step follows quickly after the first: **Naming**. Giving some language – no matter how rough – to what Pinged for you. _The most important thing in this moment is making sure the name you give to the Ping is clear and descriptive enough for your future self to recall what you were referring to._
-3. The third steps is to **Revisit** previous Pings. The cadence with which you revisit previous can vary. _The most important thing is that you revisit regularly._
-4. The fourth step happens as you Revisit: **Engaging.** For a Ping to acquire meaning, you need to:
+1. The first step is **Notice**. \
+   \
+   This means **** being aware and present so that you can notice things that "Ping" something within you.
+2. The second step follows quickly after the first: **Naming**. Giving some language – no matter how rough – to what Pinged for you. \
+   \
+   _The most important thing in this moment is making sure the name you give to the Ping is clear and descriptive enough for your future self to recall what you were referring to._
+3. The third steps is to **Revisit** previous Pings. \
+   \
+   The cadence with which you revisit can vary. _The most important thing is that you revisit regularly._
+4. The fourth step happens as you Revisit: **Engaging.** \
+   ****\
+   ****For a Ping to acquire meaning, you need to:
    * _Edit_ Pings so the language you use to represent them better reflects what it was that you initially Noticed.
    * _Re_s_pond_ to Pings as a way of exploring all that a particular Ping could contain/bring up for you.
    * _Relate_ Pings to one another to help identify and name patterns that could help to explain your resonance with a particular set of Pings.
-5. The purpose of Ping Practice is to turn the little things you notice (Pings) into insights that you can apply. A core part of the "applying" part is making sure Pings are easy for you to **Remember** in the small windows you have opportunities to apply them. This means placing the Pings that are important to you in places where you will you be able to recall them when you need to.
-6. The last step before the Ping Practice cycle repeat itself is **Applying**. Taking the insights you have converged on and acting on them. Doing so will cause you to **Notice** new things which starts the cycle all over again.
+5. The purpose of Ping Practice is to turn the little things you notice (Pings) into insights that you can apply. A core part of the "applying" part is making sure Pings are easy for you to **Remember** in the small windows you have opportunities to apply them. \
+   \
+   This means placing the Pings that are important to you in places where you will you be able to recall them when you need to.
+6. The last step before the Ping Practice cycle repeat itself is **Applying**. \
+   \
+   Taking the insights you have converged on and acting on them. Doing so will cause you to **Notice** new things which starts the cycle all over again.
 
 ## Impact
 
-_#TODO: why is Ping Practice important to me? Why might other people find it useful.valuable?_
+Ping Practice has impacted me in a range of ways.&#x20;
 
-* **Improved memory and recall** which has enabled me to become better at improvising.
-  * Where "improvise" in this context means having a braoder range of ideas, examples, risks, questions, prompts, metaphors, etc. that I can draw on in the small moments I have opportunities to apply them.
-* **Greater awareness of reflexive thoughts**&#x20;
-  * When this awareness combines with an improved memory, I have come to feel equipped with a broader set of options and solutions to choose from when I encounter a blocker or challenge.
-* **Clearer thinking**
-* **Stronger voice**&#x20;
+*   **Improved memory and recall** \
+    ****\
+    ****Be it suggesting ideas in a meeting, responding to questions in conversation, citing references that informed how I came to hold a particular assumption, remembering what I've been doing with my time, etc.&#x20;
+
+
+*   **Greater awareness of reflexive thoughts**&#x20;
+
+    \
+    Taking note of, and naming, the moments where I feel moved has enabled me to see the connections between the stimuli I encounter and the thoughts those stimuli bring up for me. This awareness has enabled me to identify "reflexes" I want to reinforce and evolve past.\
+    &#x20;
+* **More generative** \
+  ****\
+  ****_Seed: it feels like I can think more thoughts because I can move through individual thoughts more quickly because I don’t carry a fear that if I move on from one for now it may be lost forever_
+* **Better ear for my internal monologue**
 * **Understanding of the range of "voices" in my mind**
-* **More self-acceptance / Less attachment**&#x20;
-  * _Something about there sensing a clearer boundary between the self-concept I hold and what I think/feel._
+*   **More self-acceptance / Less attachment**&#x20;
+
+    __\
+    _Something about there sensing a clearer boundary between the self-concept I hold and what I think/feel._
 
 ## Origin
 
