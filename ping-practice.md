@@ -61,25 +61,11 @@ Ping Practice is a loop with 6 steps within it.
 
 Ping Practice has impacted me in a range of ways.&#x20;
 
-*   **Improved memory and recall** \
-    ****\
-    ****Be it suggesting ideas in a meeting, responding to questions in conversation, citing references that informed how I came to hold a particular assumption, remembering what I've been doing with my time, etc.&#x20;
-
-
-*   **Greater awareness of reflexive thoughts**&#x20;
-
-    \
-    Taking note of, and naming, the moments where I feel moved has enabled me to see the connections between the stimuli I encounter and the thoughts those stimuli bring up for me. This awareness has enabled me to identify "reflexes" I want to reinforce and evolve past.\
-    &#x20;
-* **More generative** \
-  ****\
-  ****_Seed: it feels like I can think more thoughts because I can move through individual thoughts more quickly because I don’t carry a fear that if I move on from one for now it may be lost forever_
+* **Improved memory and recall**&#x20;
+* **Greater awareness of reflexive thoughts**&#x20;
 * **Better ear for my internal monologue**
-* **Understanding of the range of "voices" in my mind**
-*   **More self-acceptance / Less attachment**&#x20;
-
-    __\
-    _Something about there sensing a clearer boundary between the self-concept I hold and what I think/feel._
+* **More self-acceptance**&#x20;
+* **Generating more ideas**&#x20;
 
 ## Origin
 
