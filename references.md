@@ -16,6 +16,8 @@
 
 > Similarly, thought is a system. That system not only includes thoughts, 'felts' and feelings, but it includes the state of the body; it includes the whole of society – as thought is passing back and forth between people in a process by which thought evolved from ancient times.
 
+> ...it's implicit when you don't put it in words, and it can do all sorts of things. But now make it explicit and then you can at least see that thought is doing it. So you're getting some perception. By bringing it out you can see that this is what is happening, whereas if you don't make it explicit you can't see that thought is involved at all.
+
 ### Kevin Lynch [_What Time Is This Place_](https://mitpress.mit.edu/9780262620321/what-time-is-this-place/)__
 
 > If we examine the feelings that accompany daily life, we find that historic monuments occupy a small place.&#x20;
