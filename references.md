@@ -6,6 +6,8 @@
 
 ### David Bohm _Thought As A System_
 
+> ...if you have found the words which express the way you are actually thinking, the body will be affected.
+
 > Attention is really a potential to take us deeper.
 
 > ...thought is a very subtle set of reflexes which is potentially unlimited; you can add more and more and you can modify your reflexes.&#x20;
