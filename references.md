@@ -26,6 +26,10 @@
 
 ### Kevin Lynch [_What Time Is This Place_](https://mitpress.mit.edu/9780262620321/what-time-is-this-place/)__
 
+> An environment that facilitates recalling and learning is a way of linking the living moment to a wide span of time. Being alive is being awake in the present, secure in our ability to continue but alert to the new things that come streaming by. We feel our own rhythm, and feel also that it is part of the rhythm of the world.&#x20;
+
+> It is when local time, local place, and our own selves are secure that we are ready to face challenge, complexity, vast space, and the enormous future.
+
 > If we examine the feelings that accompany daily life, we find that historic monuments occupy a small place.&#x20;
 
 > To attempt to preserve all of the past would be life-denying.&#x20;
