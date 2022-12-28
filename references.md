@@ -8,6 +8,8 @@
 
 > To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought.
 
+> A mere smile or touch may signal our consciousness of an important occasion. Insofar as these gestures can be observed they are public. They are also fleeting, however and their meaning so eludes confident interpretation that they cannot provide the basis for group planning and action. They lack the firmness and objectivity of words and pictures.
+
 ### David Bohm _Thought As A System_
 
 > ...if you have found the words which express the way you are actually thinking, the body will be affected.
