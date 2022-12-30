@@ -1,5 +1,9 @@
 # Quotes
 
+### **Pharrell Williams**
+
+> ...still keep the same hunger. that hunger is to always be, 'man, i feel something. i gotta go put it down.' and you put it down. as long as you keep that...the conduit between those two places clear, for the energy to come through, you gonna always be ill.
+
 ### **Donald Judd**
 
 > Space is made by the artist or architect; it is not found or packaged. It is made by thought.
