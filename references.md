@@ -2,7 +2,7 @@
 
 ### **Pharrell Williams**
 
-> ...still keep the same hunger. that hunger is to always be, 'man, i feel something. i gotta go put it down.' and you put it down. as long as you keep that...the conduit between those two places clear, for the energy to come through, you gonna always be ill.
+> ...still keep the same hunger. That hunger is to always be, 'Man, I feel something. I gotta go put it down.' And you put it down. As long as you keep that...the conduit between those two places clear, for the energy to come through, you gonna always be ill.
 
 ### **Donald Judd**
 
