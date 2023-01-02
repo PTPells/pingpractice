@@ -48,7 +48,11 @@
 
 ### Annie Murphy Paul [_The Extended Mind_](https://anniemurphypaul.com/books/the-extended-mind/)__
 
-> Learning is moving in new ways.
+> ...our jottings build for us a series of ascending steps from which we can survey new vistas.
+
+> ...when a potentially relevant pattern is detected, it’s our interoceptive faculty that tips us off: with a shiver or a sigh, a quickening of the breath or a tensing of the muscles.
+
+> ...gesture represents the leading edge of our thought.
 
 ### Jacques Sojcher
 
