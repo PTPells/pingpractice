@@ -6,7 +6,7 @@ Ping Practice is and will always be a permanent work in progress.
 
 hi and welcome! I’m Peter.&#x20;
 
-Ping Practice is a place for me to experiment with strategies for becoming more effective at making meaning out of what I notice, think about, and react to.
+Ping Practice is a place for me to experiment with strategies for building self-knowledge.
 
 Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or read about [the experiment that started this](experiment-dailynotes.md).
 
@@ -15,6 +15,22 @@ Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or rea
 _Observations and loose thoughts._
 
 __
+
+<details>
+
+<summary>3 January 2023</summary>
+
+### Journaling and Self-Knowledge
+
+The path here started with journaling. Overwhelmed with thought, I turned to writing to "move through" what I was feeling. With time, journaling equipped me with new capacity and tools to "hold" more and "let go" more easily. It also summed into a body of self-knowledge I've drawn on to make choices of all kinds that continue to shape the experiences and impact I \[attempt to] have here.
+
+It feels good to say these words – "journaling" and "self-knowledge" – aloud again; they feel true, solid, capable of being build upon.&#x20;
+
+I've felt far away from this language and I'm grateful for Ashley, Kyle, and Obi for bringing me back to it. I feel at home in them and I'm eager to invite more people in using them.
+
+
+
+</details>
 
 <details>
 
