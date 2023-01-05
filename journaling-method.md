@@ -47,10 +47,12 @@ Ping Practice is a loop with 6 steps within it.
    ****For a Ping to acquire meaning, you need to:
    * _Edit_ Pings so the language you use to represent them better reflects what it was that you initially Noticed.
    * _Re_s_pond_ to Pings as a way of exploring all that a particular Ping could contain/bring up for you.
-   * _Relate_ Pings to one another to help identify and name patterns that could help to explain your resonance with a particular set of Pings.
-5. The purpose of Ping Practice is to turn the little things you notice (Pings) into insights that you can apply. A core part of the "applying" part is making sure Pings are easy for you to **Remember** in the small windows you have opportunities to apply them. \
+   * _Relate_ Pings to one another to help identify and name patterns that could help to explain your resonance with a particular Ping or set of Pings.
+5. The purpose of Ping Practice is to turn the little things you notice (Pings) into insights that you can apply/act on. A core part of the "applying" part is making sure Pings are easy for you to **Remember** in the small windows you have opportunities to apply them. \
    \
-   This means placing the Pings that are important to you in places where you will you be able to recall them when you need to.
+   This means two things:
+   1. Making Pings that are important to you memorable so that you can quickly recall them _and_
+   2. Organizing these Pings in places where you will you be able to easily "reach" for them when you have opportunities to act on them
 6. The last step before the Ping Practice cycle repeat itself is **Applying**. \
    \
    Taking the insights you have converged on and acting on them. Doing so will cause you to **Notice** new things which starts the cycle all over again.
