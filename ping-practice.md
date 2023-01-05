@@ -1,12 +1,10 @@
 # Ping Practice (Method)
 
-Ping Practice is a method I've developed for turning what I notice into insights I can use to make choices and take actions in my life.
+Ping Practice is a method I've developed for translating everyday experiences into insights and actions that align with what I need and value.
 
-> _"Insights?"_&#x20;
+Insights that can take the form of:
 
-Yep, insights like:
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Pattern</strong> that helps scattered thoughts snap into place</td><td></td><td></td></tr><tr><td><strong>Next step</strong> to experiment with</td><td></td><td></td></tr><tr><td><strong>Need</strong> that might explain a pattern of reactions</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Affirmation</strong> that empowers you</td><td></td><td></td></tr><tr><td><strong>Question</strong> that helps you focus</td><td></td><td></td></tr><tr><td><strong>Name</strong> that clarifies an idea</td><td></td><td></td></tr><tr><td><strong>Reframe</strong> to get unstuck</td><td></td><td></td></tr><tr><td><strong>Value</strong> that is important to you</td><td></td><td></td></tr><tr><td><strong>New</strong> choice to consider</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Affirmation</strong> that empowers you</td><td></td><td></td></tr><tr><td><strong>Question</strong> that creates clarity</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Need</strong> that motivates you to speak up</td><td></td><td></td></tr><tr><td><strong>Name</strong> that helps connect disparate experiences</td><td></td><td></td></tr><tr><td><strong>Value</strong> that informs a decision you need to make</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr><tr><td><strong>Awareness</strong> that enables you to detect what is happening and could happen next</td><td></td><td></td></tr></tbody></table>
 
 ## Method
 
@@ -27,7 +25,7 @@ The most important thing about Pings – and what differentiates them from other
 
 You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, and reflexive...as if what you are encountering relates to something within you.&#x20;
 
-In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I notice the hair on my arm standing up.&#x20;
+In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I feel something in my body (e.g. maybe I notice the hair on my arm standing up).
 
 <figure><img src=".gitbook/assets/Cards_Sketching.png" alt="A circular diagram showing Ping Practice&#x27;s steps: Name, Notice, Revisit, Edit/Respond/Relate, Remember, and Apply"><figcaption><p>Ping Practice</p></figcaption></figure>
 
@@ -38,7 +36,7 @@ Ping Practice is a loop with 6 steps within it.
 1. The first step is **Notice**. \
    \
    This means **** being aware and present so that you can notice things that "Ping" something within you.
-2. The second step follows quickly after the first: **Naming**. Giving some language – no matter how rough – to what Pinged for you. \
+2. The second step follows quickly after the first: **Naming**. Giving some language – no matter how rough – to what Pinged for you and locating this ping in the place where you've put all of the other pings you've logged before.\
    \
    _The most important thing in this moment is making sure the name you give to the Ping is clear and descriptive enough for your future self to recall what you were referring to._
 3. The third steps is to **Revisit** previous Pings. \
