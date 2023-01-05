@@ -1,4 +1,4 @@
-# Ping Practice (Method)
+# Journaling Method
 
 Ping Practice is a method I've developed for translating everyday experiences into insights and actions that align with what I need and value.
 
@@ -12,8 +12,8 @@ Insights that can take the form of:
 
 Ping Practice is made up of two core components:
 
-1. A type of thought called a "[Ping](ping-practice.md#ping)"
-2. A [process](ping-practice.md#process) for uncovering the meaning within these "Pings"
+1. A type of thought called a "[Ping](journaling-method.md#ping)"
+2. A [process](journaling-method.md#process) for uncovering the meaning within these "Pings"
 
 ### Ping
 

@@ -7,7 +7,7 @@ This is a place for me to think about Ping Practice, the site this page exists w
 ### #TODO
 
 * [x] Finish writing [Experiment: WeeklyNotes page](experiment-weeklynotes.md)
-* [ ] Make edits to [Ping Practice page](ping-practice.md) based on feedback Laurel shared
+* [ ] Make edits to [Ping Practice page](journaling-method.md) based on feedback Laurel shared
 * [ ] Draft page for Alt Twitter experiment
 * [ ] Draft page for the Ping Practice app
 
