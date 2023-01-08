@@ -14,7 +14,38 @@ Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or rea
 
 _Observations and loose thoughts._
 
-__
+<details>
+
+<summary>8 January 2023</summary>
+
+### Reminders&#x20;
+
+When I start the process of thinking about something I need to do (e.g. a conversation I need to lead, a decision I need to make, a set of slides I need to produce, etc.) that is not yet clearly "scoped" in my mind, I'll usually create a new section in my "scratch" file.
+
+I'll title that section the name of the thing I'm needing to do and within it, add a few, standard sub-sections. \[i]
+
+Lately, when thinking about doing something that I'm less practiced with, I've started adding a new section titled, "Reminders."
+
+Within this section, I'll place things, that well, I find myself needing to be reminded of in order to "embody" the space the thinking I need to do exists within.
+
+For example, in the moments before writing this, I was sketching out what it might look like to send an email at some  cadence that serves as _invitation_ for people _into_ the work I'm doing to refine and actualize [the app](app.md).&#x20;
+
+Doing the above feels new for me and I found the reminders (see screenshot below) effective for inspiring me to "keep going" in moments when uncertainty tempts me to stop.
+
+![](<.gitbook/assets/image (1).png>)
+
+\---
+
+i. The "standard sub-sections" I add are:
+
+* Objective
+  * _"What impact is/are the actions I am trying to define an effort to accomplish? For who?"_
+* Decision(s) to be made
+  * If the outcome of this thinking is me making a decision: "_How can I articulate the decision(s) in a way that makes it clear what this decision will, and crucially, will NOT impact?"_
+* Open Questions
+  * _"What questions are emerge as I inhabit the space of this challenge/objective/etc.?_
+
+</details>
 
 <details>
 
