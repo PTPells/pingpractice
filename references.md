@@ -1,5 +1,9 @@
 # Quotes
 
+### **Abby Smith Rumsey**
+
+> We use technology to accumulate facts about the natural and social worlds. But facts are only incidental to memory. They sometimes even get in the way of thoughtful concentration and problem solving. It is the ability for information to be useful both now and in the future that counts. And it is our emotions that tell what is valuable for our survival and well-being.
+
 ### **Pharrell Williams**
 
 > ...still keep the same hunger. That hunger is to always be, 'Man, I feel something. I gotta go put it down.' And you put it down. As long as you keep that...the conduit between those two places clear, for the energy to come through, you gonna always be ill.
