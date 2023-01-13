@@ -34,6 +34,8 @@
 
 > ...it's implicit when you don't put it in words, and it can do all sorts of things. But now make it explicit and then you can at least see that thought is doing it. So you're getting some perception. By bringing it out you can see that this is what is happening, whereas if you don't make it explicit you can't see that thought is involved at all.
 
+> ...when an insight is put into words, what is it that puts it into words? Is it thought or is it the insight? I want to suggest that the insight itself will be an insight into the words which express it properly. It's almost as though the words are coming out from a loudspeaker, rather than by somebody trying to get them out.
+
 ### Kevin Lynch [_What Time Is This Place_](https://mitpress.mit.edu/9780262620321/what-time-is-this-place/)__
 
 > An environment that facilitates recalling and learning is a way of linking the living moment to a wide span of time. Being alive is being awake in the present, secure in our ability to continue but alert to the new things that come streaming by. We feel our own rhythm, and feel also that it is part of the rhythm of the world.&#x20;
