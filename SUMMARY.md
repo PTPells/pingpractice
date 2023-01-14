@@ -3,7 +3,7 @@
 * [🪐 welcome](README.md)
 * [Interviews](practices.md)
 * [App](app.md)
-* [Journaling Method](journaling-method.md)
+* [Method](method.md)
 * [Quotes](references.md)
 * [Questions](questions.md)
 * [Experiment: DailyNotes](experiment-dailynotes.md)

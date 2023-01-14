@@ -1,4 +1,4 @@
-# Journaling Method
+# Method
 
 Ping Practice is a method I've developed for translating everyday experiences into insights and actions that align with what I need and value.
 
@@ -12,8 +12,8 @@ Insights that can take the form of:
 
 Ping Practice is made up of two core components:
 
-1. A type of thought called a "[Ping](journaling-method.md#ping)"
-2. A [process](journaling-method.md#process) for uncovering the meaning within these "Pings"
+1. A type of thought called a "[Ping](method.md#ping)"
+2. A [process](method.md#process) for uncovering the meaning within these "Pings"
 
 ### Ping
 
@@ -21,9 +21,9 @@ Ping Practice assumes that within the tiny, everyday, and easy-to-dismiss moment
 
 A ping can take on any form: word, phrase, title, rhyme, name, lyric, quote, place, color, texture, melody, idea, feeling, etc.
 
-The most important thing about Pings – and what differentiates them from other thoughts – is that a Ping is something that moves you or "clicks" in some visceral way.&#x20;
+The most important thing about Pings – and what differentiates them from other thoughts – is that a Ping is something that moves you, "clicks," or otherwise resonates in your body.
 
-You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, and reflexive...as if what you are encountering relates to something within you.&#x20;
+You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, and reflexive...as if what you are encountering relates to something that's been latent within you.&#x20;
 
 In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I feel something in my body (e.g. maybe I notice the hair on my arm standing up).
 
@@ -67,7 +67,5 @@ Ping Practice has impacted me in a range of ways.&#x20;
 * **More self-acceptance**&#x20;
 * **Generating more ideas**&#x20;
 
-## Origin
 
-_#TODO: where does Ping Practice come from? What is a reaction to? What is it trying to achieve?_
 
