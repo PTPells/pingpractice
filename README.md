@@ -1,7 +1,7 @@
 # 🪐 welcome
 
 {% hint style="info" %}
-Ping Practice is and will always be a permanent work in progress.
+This space is, and will always be, a permanent work in progress.
 {% endhint %}
 
 hi and welcome! I’m Peter.&#x20;
