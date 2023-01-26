@@ -1,5 +1,9 @@
 # Quotes
 
+### **Beyoncé in** [Life is but a Dream](https://youtu.be/VJizQTAySGQ?t=5204)
+
+> When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and eventually become we’re supposed to be.&#x20;
+
 ### **Abby Smith Rumsey**
 
 > We use technology to accumulate facts about the natural and social worlds. But facts are only incidental to memory. They sometimes even get in the way of thoughtful concentration and problem solving. It is the ability for information to be useful both now and in the future that counts. And it is our emotions that tell what is valuable for our survival and well-being.
