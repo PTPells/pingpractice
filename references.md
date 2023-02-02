@@ -30,6 +30,8 @@
 
 > A mere smile or touch may signal our consciousness of an important occasion. Insofar as these gestures can be observed they are public. They are also fleeting, however and their meaning so eludes confident interpretation that they cannot provide the basis for group planning and action. They lack the firmness and objectivity of words and pictures.
 
+> It is a common tendency to regard feeling and thought as opposed, the one registering subjective states, the other reporting on objective reality. In fact, they lie near the two ends of an experiential continuum, and both are ways of knowing.
+
 ### David Bohm _Thought As A System_
 
 > ...if you have found the words which express the way you are actually thinking, the body will be affected.
