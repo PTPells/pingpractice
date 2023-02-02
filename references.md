@@ -1,8 +1,12 @@
 # Quotes
 
-### **Beyoncé in** [Life is but a Dream](https://youtu.be/VJizQTAySGQ?t=5204)
+### **Beyoncé** [Life is but a Dream](https://youtu.be/VJizQTAySGQ?t=5204)
 
 > When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and eventually become we’re supposed to be.&#x20;
+
+### **Kengo Kuma** [**Anti-Object**](https://www.worldcat.org/title/anti-object-the-dissolution-and-disintegration-of-architecture/oclc/905264086?referer=null\&ht=edition)****
+
+> All ideas come from sensation or reflection. Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished?
 
 ### **Abby Smith Rumsey**
 
@@ -15,6 +19,10 @@
 ### **Donald Judd**
 
 > Space is made by the artist or architect; it is not found or packaged. It is made by thought.
+
+### Marshall McLuhan [Understanding Media](https://en.wikipedia.org/wiki/Understanding\_Media) ****&#x20;
+
+> The oral man's inner world is a tangle of complex emotions and feelings that the Western practical man has long ago eroded or suppressed within himself in the interest of efficiency and practicality.
 
 ### **Yi-Fu Tuan** [**Space and Place**](https://www.upress.umn.edu/book-division/books/space-and-place)
 
