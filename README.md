@@ -16,6 +16,18 @@ _Observations and loose thoughts._
 
 <details>
 
+<summary>3 February 2023</summary>
+
+### Prompts&#x20;
+
+I value it when a space, person, etc. invites me to say aloud something for the first time.
+
+This happened during [today's are.na walkthrough](https://www.are.na/are-na-team/02-03-23-channel-walkthroughs-ft-luiza-dale-peter-pelberg-noa-mori-njari-anderson): _I appreciate prompts that are proximate and clear enough that I can immediately pick them up/reach for them and in doing so, be moved to see something that feels new, fresh...something I might not have seen otherwise._
+
+</details>
+
+<details>
+
 <summary>8 January 2023</summary>
 
 ### Reminders&#x20;
