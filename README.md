@@ -16,6 +16,31 @@ _Observations and loose thoughts._
 
 <details>
 
+<summary>5 February 2023</summary>
+
+### Making Space, Collaboratively
+
+Some loose/quick/initial thoughts on space...
+
+* I resonate with spaces where I, and the people who are present with me in it, feel safe and empowered to improvise&#x20;
+  * Where "improvise" in this context means the ability to notice new information, without judgement, and make choices that they think cohere with what the people who share in the space are present to create.&#x20;
+* I feel empowered to participate in a space when ([source](https://twitter.com/pingpractice/status/1577778444296929280?s=20\&t=66lYHsjFlZDKZxR8LT\_f\_g)):
+  * There is a clear and shared objective for what we are trying to make (defined in the broadest of terms)
+  * I trust that others will check whether they’ve understood what I’ve said in the way I intended it
+  * I trust that I will have an opportunity to repair harm if/when I cause it
+  * I trust that I will be seen for what I know and have experienced
+  * I trust I will be listened to
+  * I trust that others will assume I am acting in good faith
+  * I know that we have practices/traditions in places to remember the choices we make and why
+* I enjoy playing the role of someone who:
+  * Helps the group decide what they are committing to making and why&#x20;
+  * Supplies the group with the clarity they need to deploy the expertise they've developed.&#x20;
+    * Where "deploy" could mean things like: assessing risk, creating an artifact, determining whether a piece of new information is notable enough to be shared with the rest of the group
+
+</details>
+
+<details>
+
 <summary>3 February 2023</summary>
 
 ### Prompts&#x20;
