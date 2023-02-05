@@ -33,7 +33,7 @@ Some loose/quick/initial thoughts on space...
   * I trust that others will assume I am acting in good faith
   * I know that we have practices/traditions in places to remember the choices we make and why
 * I enjoy playing the role of someone who:
-  * Helps the group decide what they are committing to making and why&#x20;
+  * Creating the conditions necessary for the group to decide what they will commit to making and why&#x20;
   * Supplies the group with the clarity they need to deploy the expertise they've developed.&#x20;
     * Where "deploy" could mean things like: assessing risk, creating an artifact, determining whether a piece of new information is notable enough to be shared with the rest of the group
 
