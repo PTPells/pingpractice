@@ -4,7 +4,7 @@ Ping Practice is a method I've developed for translating everyday experiences in
 
 Insights that can take the form of:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Affirmation</strong> that empowers you</td><td></td><td></td></tr><tr><td><strong>Question</strong> that creates clarity</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Need</strong> that motivates you to speak up</td><td></td><td></td></tr><tr><td><strong>Name</strong> that helps connect disparate experiences</td><td></td><td></td></tr><tr><td><strong>Value</strong> that informs a decision you need to make</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr><tr><td><strong>Awareness</strong> that enables you to detect what is happening and could happen next</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Affirmation</strong> that empowers you to take a next step</td><td></td><td></td></tr><tr><td><strong>Question</strong> that creates clarity</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Need</strong> that motivates you to speak up</td><td></td><td></td></tr><tr><td><strong>Name</strong> that helps connect disparate experiences</td><td></td><td></td></tr><tr><td><strong>Value</strong> that informs a decision you need to make</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr><tr><td><strong>Awareness</strong> that enables you to detect what is happening and could happen next</td><td></td><td></td></tr></tbody></table>
 
 ## Method
 
