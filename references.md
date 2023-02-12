@@ -1,5 +1,11 @@
 # Quotes
 
+
+
+### Yi-Fu Tuan [Life as a Field Trip](https://www.are.na/block/20278793)&#x20;
+
+> A special target of examination ought to be how societies differ in making room for pauses in the midst of life, for it is during such pauses that individuals are able to appraise the meaning of what they have undergone.
+
 ### **Beyoncé** [Life is but a Dream](https://youtu.be/VJizQTAySGQ?t=5204)
 
 > When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and eventually become we’re supposed to be.&#x20;
