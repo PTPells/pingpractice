@@ -19,7 +19,7 @@ The above became clear to me in the summer of 2021.&#x20;
 
 I was feeling:&#x20;
 
-* Angry when I would see other people publicly exploring ideas and think about all of the times that I’d been too afraid to do the same _and_
+* Angry/sad when I would see other people publicly exploring ideas and think about all of the times that I’d been too afraid to do the same _and_
 * Afraid of a future where I regretted not overcoming the insecurity and self-doubt that kept me small and afraid of “speaking up.”
 
 I brought language to these feelings and this need in a moment where I had become confident I was capable of evolving when certain conditions were met, clear enough about what I thought those conditions were, and motivated by the prospect of a future where I felt lighter.
