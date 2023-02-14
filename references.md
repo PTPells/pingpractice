@@ -1,6 +1,10 @@
-# Quotes
+# References
 
 
+
+### Abby Smith Rumsey [When We Are No More](https://www.google.com/books/edition/When\_We\_Are\_No\_More/9Y8yEAAAQBAJ?hl=en)&#x20;
+
+> ...analog information has a greater integrity—of the literal kind—and more accurately mirrors the embodied mind in time and space. But it is less flexible and faithful as a means of analysis, comparison, and communication over long distances.
 
 ### Yi-Fu Tuan [Life as a Field Trip](https://www.are.na/block/20278793)&#x20;
 

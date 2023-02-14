@@ -3,7 +3,7 @@
 * [🪐 welcome](README.md)
 * [About](about.md)
 * [Need: Memory](need-memory.md)
-* [Quotes](references.md)
+* [References](references.md)
 * [Method](method.md)
 * [App](app.md)
 * [Interviews](practices.md)
