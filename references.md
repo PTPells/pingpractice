@@ -2,23 +2,27 @@
 
 
 
-### Abby Smith Rumsey [When We Are No More](https://www.google.com/books/edition/When\_We\_Are\_No\_More/9Y8yEAAAQBAJ?hl=en)&#x20;
+### Plato [_Phaedrus_](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DPhaedrus%3Apage%3D275)__
 
-> ...analog information has a greater integrity—of the literal kind—and more accurately mirrors the embodied mind in time and space. But it is less flexible and faithful as a means of analysis, comparison, and communication over long distances.
+> For this invention \[writing] will produce forgetfulness in the minds of those who learn to use it, because they will not practice their memory. Their trust in writing, produced by external characters which are no part of themselves, will discourage the use of their own memory within them. You have invented an elixir not of memory, but of reminding; and you offer your pupils the appearance of wisdom, not true wisdom, for they will read many things without instruction and will therefore seem \[275b] to know many things, when they are for the most part ignorant and hard to get along with, since they are not wise, but only appear wise.
 
-### Yi-Fu Tuan [Life as a Field Trip](https://www.are.na/block/20278793)&#x20;
+###
+
+### Yi-Fu Tuan [_Life as a Field Trip_](https://www.are.na/block/20278793) __&#x20;
 
 > A special target of examination ought to be how societies differ in making room for pauses in the midst of life, for it is during such pauses that individuals are able to appraise the meaning of what they have undergone.
 
-### **Beyoncé** [Life is but a Dream](https://youtu.be/VJizQTAySGQ?t=5204)
+### **Beyoncé** [_Life is but a Dream_](https://youtu.be/VJizQTAySGQ?t=5204)__
 
 > When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and eventually become we’re supposed to be.&#x20;
 
-### **Kengo Kuma** [**Anti-Object**](https://www.worldcat.org/title/anti-object-the-dissolution-and-disintegration-of-architecture/oclc/905264086?referer=null\&ht=edition)****
+### **Kengo Kuma** [_**Anti-Object**_](https://www.worldcat.org/title/anti-object-the-dissolution-and-disintegration-of-architecture/oclc/905264086?referer=null\&ht=edition)_****_
 
 > All ideas come from sensation or reflection. Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished?
 
-### **Abby Smith Rumsey**
+### Abby Smith Rumsey [_When We Are No More_](https://www.google.com/books/edition/When\_We\_Are\_No\_More/9Y8yEAAAQBAJ?hl=en) __&#x20;
+
+> ...analog information has a greater integrity—of the literal kind—and more accurately mirrors the embodied mind in time and space. But it is less flexible and faithful as a means of analysis, comparison, and communication over long distances.
 
 > We use technology to accumulate facts about the natural and social worlds. But facts are only incidental to memory. They sometimes even get in the way of thoughtful concentration and problem solving. It is the ability for information to be useful both now and in the future that counts. And it is our emotions that tell what is valuable for our survival and well-being.
 
@@ -30,11 +34,11 @@
 
 > Space is made by the artist or architect; it is not found or packaged. It is made by thought.
 
-### Marshall McLuhan [Understanding Media](https://en.wikipedia.org/wiki/Understanding\_Media) ****&#x20;
+### Marshall McLuhan [_Understanding Media_](https://en.wikipedia.org/wiki/Understanding\_Media) _****_&#x20;
 
 > The oral man's inner world is a tangle of complex emotions and feelings that the Western practical man has long ago eroded or suppressed within himself in the interest of efficiency and practicality.
 
-### **Yi-Fu Tuan** [**Space and Place**](https://www.upress.umn.edu/book-division/books/space-and-place)
+### **Yi-Fu Tuan** [_**Space and Place**_](https://www.upress.umn.edu/book-division/books/space-and-place)__
 
 > To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought.
 
@@ -100,7 +104,7 @@
 
 > Ones tastes tends to propel you into the same areas over and over again.
 
-### **Kevin Lynch** [**The Image of the City**](https://en.wikipedia.org/wiki/The\_Image\_of\_the\_City)
+### **Kevin Lynch** [_**The Image of the City**_](https://en.wikipedia.org/wiki/The\_Image\_of\_the\_City)__
 
 > Most objects which we are accustomed to call beautiful, such as a painting or a tree, are single-purpose things, in which, through long development or the impress of one will, there is an intimate, visible linkage from the fine detail to the total structure.
 
@@ -108,17 +112,17 @@
 
 > Concepts of size may depend in part on how well a structure can be grasped.
 
-### **Christopher Alexander** [**Making the Garden**](https://www.firstthings.com/article/2016/02/making-the-garden)
+### **Christopher Alexander** [_**Making the Garden**_](https://www.firstthings.com/article/2016/02/making-the-garden)__
 
 > To have something solid that I could be sure of, I started by examining the smallest particles of functional effect that I could discern in buildings, paying attention to small and sometimes barely significant aspects of the ways that buildings affect people. My purpose in doing this was to focus on the smallest particles of fact that I could be certain of: something that was extraordinarily difficult given the porridge of mush that then passed for architectural theory. In those early years, my studies were based on the most ordinary, miniscule observations about usefulness and the effect of buildings on the people who lived in them, always keeping the observations modest, ­reliable, and detailed—small enough and solid enough that I could be sure that they were true.
 
 > When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed.
 
-### **Marshall McLuhan** [**Understanding Media**](https://en.wikipedia.org/wiki/Understanding\_Media)
+### **Marshall McLuhan** [_**Understanding Media**_](https://en.wikipedia.org/wiki/Understanding\_Media)__
 
 > Plainly, to store is to expedite, since what is stored is also more accessible than what has to be gathered.
 
-### **Christopher Alexander** [**The Timeless Way of Building**](https://en.wikipedia.org/wiki/The\_Timeless\_Way\_of\_Building)
+### **Christopher Alexander** [_**The Timeless Way of Building**_](https://en.wikipedia.org/wiki/The\_Timeless\_Way\_of\_Building)__
 
 > ...the town slowly gets its structure from the incremental aggregation of their individual acts.
 
