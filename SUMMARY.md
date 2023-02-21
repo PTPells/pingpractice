@@ -7,7 +7,7 @@
 * [Method](method.md)
 * [App](app.md)
 * [Interviews](practices.md)
-* [Questions](questions.md)
+* [Prompts](prompts.md)
 * [Experiment: DailyNotes](experiment-dailynotes.md)
 * [Experiment: Spark Email](experiment-spark-email.md)
 * [Experiment: Voice memos](experiment-voice-memos.md)
