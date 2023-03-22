@@ -6,9 +6,13 @@
 This experiment started on 6 Sep 2021 and concluded on 8 December 2021.
 {% endhint %}
 
-### Description&#x20;
+This was an experiment to simulate the "quick capture" and "revisit" experience I had been imagining for [the app](app.md) by stringing existing tools together into a workflow that felt somewhat cogent.
 
+The goals here being to learn:
 
+1. _What did I notice myself doing/needing after having a reasonable "stock" of cards?_
+2. _What – if anything – might I need develop a habit of making cards?_
+3. _What would I write cards about and what form(s) would cards take?_
 
 ### Impact & Conclusions
 
@@ -29,19 +33,17 @@ The intention I had here was to:
 
 I used two iOS apps for this experiment:
 
-1. [Paper Plane](https://apps.apple.com/us/app/paper-plane-email/id1486124719) for quickly getting down resonant thoughts so that I could explore and refine them at a later time. \[i]&#x20;
+1. [Paper Plane](https://apps.apple.com/us/app/paper-plane-email/id1486124719) for quickly getting down resonant thoughts so that I could explore and refine them at a later time using the Spark Mail app. \[i]&#x20;
 2. [Spark Mail](https://sparkmailapp.com/) for receiving the emails I sent to myself using Paper Plane.\[ii]&#x20;
 
-![A screenshot of the Paper Plane iPhone app that I used for quickly capturing resonant thoughts during this experiment.](.gitbook/assets/image.png)
+<figure><img src=".gitbook/assets/image.png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
 
-![](<.gitbook/assets/image (3).png>)
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Spark Mail app's inbox where the "cards" I drafted using the Paper Plane app "landed."</p></figcaption></figure>
 
-The workflow during this experiment was as follows...
-
-
+<figure><img src=".gitbook/assets/IMG_6631.jpg" alt=""><figcaption><p>Card detail view within the Spark Mail app.</p></figcaption></figure>
 
 \---
 
-i. I considered using [Drafts](https://paperplane.williamhockey.com/) instead of Paper Plane because of the edit history and metadata Drafts exposes about each draft you create. Although, I decided against using it because the actual input doesn’t feel quite like how I imagine the cards input to feel: fast, simple, and detached from the future.
+_i. I considered using_ [_Drafts_](https://paperplane.williamhockey.com/) _instead of Paper Plane because of the edit history and metadata Drafts exposes about each draft you create. Although, I decided against using it because the actual input didn't feel quite like how I imagine the cards input to feel: fast, simple, and detached from the future._
 
-ii. I set up a new, dedicated email account for receiving the thoughts I was jotting down with Paper Plane so as not to muddle this experience with the existing email workflows and habits I'd established.
+_ii. I set up a new, dedicated email account for receiving the thoughts I was jotting down with Paper Plane so as not to muddle this experience with the existing email workflows and habits I'd established._

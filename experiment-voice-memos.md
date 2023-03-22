@@ -18,7 +18,7 @@ To be able to balance the tension between wanting to remain present in these mom
 
 Inspired by how Natalia had been using voice notes in the stream we maintain together, I thought I'd try out using speech  instead. &#x20;
 
-### Constraints
+### Filters
 
 * No edits&#x20;
 
