@@ -1,3 +1,7 @@
+---
+description: Trying a new medium (speech) to capture pings.
+---
+
 # Experiment/Voice memos
 
 {% hint style="info" %}
@@ -23,6 +27,19 @@ Inspired by how Natalia had been using voice notes in the stream we maintain tog
 * No edits&#x20;
 
 ### Observations
+
+#### **9 April 2023**
+
+On Saturday, I was making coffee and I wanted to "capture" the sound of the coffee dripping down from the V60 cone into the coffee that had already accumulated in the caraffe atop which the V60 rested.
+
+So, I [took out my phone and started recording](https://www.dropbox.com/s/2ni1our7u5lgebm/Making%20as%20describing.m4a?dl=0). Not too long after, I started talking about something else.
+
+I've noticed this happen a few times: what prompts me to start recording a voice memo ends up not being what I end up spending the majority of the momo talking about.
+
+Right now, I see two bits of information in the pattern above:
+
+1. I feel comfortable talking \[aloud] with myself. It feels natural to me. Once I get going, I do not seem to have difficulty knowing "where to go" next and/or how to go about getting there and ultimately "landing" the note.
+2. It's important that [the app](app.md) make capturing a voice memo as easy as snapping a photo. This way, people feel inclined to act on those little instincts to capture something which could lead to some larger expression.
 
 #### **20 February 2023**
 
