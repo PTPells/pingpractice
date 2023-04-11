@@ -1,4 +1,4 @@
-# Experiment: Voice memos
+# Experiment/Voice memos
 
 {% hint style="info" %}
 This experiment is ongoing. It started on 28 January 2023&#x20;
@@ -52,8 +52,8 @@ I miss the ability to edit/iterate upon what I've said. \
 Example: tonight I sketched [Creating Space](https://www.dropbox.com/s/mlnqccqstomynf6/Creating%20Space.m4a?dl=0). \
 \
 Upon finishing, I thought, _"Hold on, I don't feel like 'creating space' quite captures what I'm trying to express here. I think what I'm trying to expresss is closer to, 'I am drawn to co-creating space with other people in service of making an impact together.'"_\
-__\
-__I suppose I could've recorded another sketch, but for a reason I have not yet named, I didn't.&#x20;
+\
+I suppose I could've recorded another sketch, but for a reason I have not yet named, I didn't.&#x20;
 
 And so to me, that obviously "imprecise" thought lies hanging.&#x20;
 
