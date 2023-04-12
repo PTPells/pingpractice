@@ -9,7 +9,7 @@ At various moments throughout this exploration, ideas, hypotheses, designs will 
 1. Stable and solid enough to build upon&#x20;
 2. Definitive and clear enough for other people to react to
 
-This page offers an overview of the conversations I've hosted/led/facilitated/convened around these "moments."
+This page offers an overview of the conversations I've hosted/led/facilitated/convened around these "moments."&#x20;
 
 ## [phase-2.md](phase-2.md "mention")
 
@@ -17,13 +17,9 @@ During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) a
 
 Prior to there being a prototype, the set of ideas that comprise this exploration existed in a relatively fluid and shapeless manner.\
 \
-The prototype, if effective, would bring some definition and boundary around this set of ideas and enable the people I would end up sharing it with to determine: _Do people see/feel/imagine themselves using this app within their current, everyday lives alongside everything else they were doing and needing/wanting to do?_
+We intended the prototype to bring some definition to this set of ideas and enable the people I would end up sharing it with. The objective of these conversations being to determine: _Do people see/feel/imagine themselves using this app within their current, everyday lives alongside everything else they were doing and needing/wanting to do?_
 
 Investigating the above would help us to decide whether we would continue investing time and energy into making this tool.
-
-\---
-
-i. "Us" = David and I, in collaboration with the people with whom I talked with.
 
 ### [phase-1.md](phase-1.md "mention")
 
