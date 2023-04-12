@@ -13,13 +13,13 @@ This page offers an overview of the conversations I've hosted/led/facilitated/co
 
 ## [phase-2.md](phase-2.md "mention")
 
-During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made [the app](../app.md) into a tappable prototype.
-
-Prior to there being a prototype, the set of ideas that comprise this exploration existed in a relatively fluid and shapeless manner.\
+During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I brought the network of ideas [the app](../app.md) into a shape people could observe and experience by creating a tappable prototype.\
 \
-We intended the prototype to bring some definition to this set of ideas and enable the people I would end up sharing it with. The objective of these conversations being to determine: _Do people see/feel/imagine themselves using this app within their current, everyday lives alongside everything else they were doing and needing/wanting to do?_
+To decide whether we would continue investing time and energy into making the app a reality, I hosted a series of conversations as a way to explore/answer the following question:
 
-Investigating the above would help us to decide whether we would continue investing time and energy into making this tool.
+> _Do people see/feel/imagine themselves using this app within their current, everyday lives alongside everything else they were doing and needing/wanting to do?_
+
+
 
 ### [phase-1.md](phase-1.md "mention")
 
