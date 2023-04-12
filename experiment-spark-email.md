@@ -36,7 +36,7 @@ I used two iOS apps for this experiment:
 1. [Paper Plane](https://apps.apple.com/us/app/paper-plane-email/id1486124719) for quickly getting down resonant thoughts so that I could explore and refine them at a later time using the Spark Mail app. \[i]&#x20;
 2. [Spark Mail](https://sparkmailapp.com/) for receiving the emails I sent to myself using Paper Plane.\[ii]&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Spark Mail app's inbox where the "cards" I drafted using the Paper Plane app "landed."</p></figcaption></figure>
 

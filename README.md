@@ -94,7 +94,7 @@ For example, in the moments before writing this, I was sketching out what it mig
 
 Doing the above feels new for me and I found the reminders (see screenshot below) effective for inspiring me to "keep going" in moments when uncertainty tempts me to stop.
 
-![](<.gitbook/assets/image (1) (2).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 \---
 
