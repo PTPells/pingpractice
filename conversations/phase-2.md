@@ -4,7 +4,7 @@ description: Summary of the conversations the tappable prototype inspired.
 
 # Phase #2
 
-During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype so that people could experience and react to the ideas and assumptions latent within [the narrative](../app.md) that is informing [the shape and functionality](../app.md) this tool takes on.
+During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype so that people could experience and react to the ideas and assumptions latent within [the narrative](../app.md) that is informing the shape and functionality [the app](../app.md) takes on.
 
 21 people to tried the prototype in conversations that invited them to:
 
@@ -20,6 +20,22 @@ These conversations were oriented around learning and deciding:
 What follows are the key findings these conversations surfaced.
 
 ## Findings
+
+#### 1. Customization is crucial
+
+Some people appreciated how the interface appeared in grayscale. Some people were interested in being able to set a different color scheme.
+
+Some people found the font legible. Some people found it felt too formal.
+
+Also, consensuses did not emerge in various places. Like what might be more intuitive ways to name the `Say more` and `Favorite` buttons or what lenses people consider to be more useful than others.
+
+Common among the above is the importance of acknowledging and accepting that what people need to feel at ease and empowered to journal varies.&#x20;
+
+As such, the app needs to offer people the ability to synchronize how the app looks, feels, and functions with the sensibilities they've developed.
+
+
+
+
 
 #### Overall
 
