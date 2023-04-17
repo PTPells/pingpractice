@@ -4,7 +4,7 @@ description: Summary of the conversations the tappable prototype inspired.
 
 # Phase #2
 
-During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype so that people could experience and react to the ideas and assumptions latent within [the narrative](../app.md) that is informing the shape and functionality [the app](../app.md) takes on.
+During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype. The objective here being to create a way for people to experience and react to the ideas and assumptions latent within [the narrative](../app.md) that is informing the shape and functionality [the app](../app.md) takes on.
 
 21 people to tried the prototype in conversations that invited them to:
 
@@ -35,9 +35,11 @@ As such, the app needs to offer people the ability to synchronize how the app lo
 
 #### 2. Reinforce relationship building
 
-> _What happens if you noticing yourself using the app to capture ideas/thoughts/questions/etc. relevant to something specific you are trying to make, do, or otherwise express?_&#x20;
+> _What happens if you notice yourself using the app to capture ideas/thoughts/questions/etc. relevant to something specific you are trying to make, do, or otherwise express?_&#x20;
 
-People asked versions of the above throughout the prototype conversations. And while I'm not yet sure how the app might enable you to represent these relationship(s), I think it's important to make an explicit choice here. Reason: failing to make an explicit choice would mean _not_ considering the impact on people who I think might resort to feeling like they would need to "hold" these relationships themselves or store them elsewhere and therefore limiting their capacity to sense-making.&#x20;
+People asked versions of the above throughout the prototype conversations. And while I'm not yet sure how the app might enable you to represent these relationship(s), I think it's important to make an explicit choice here.&#x20;
+
+Reason: I think neglecting to think intentionally about this choice could result in people attempting to "hold" these relationships in their minds or store them elsewhere. In either case, I think peoples' ability to use the tool to make sense and meaning could be impacted.
 
 #### 3. Meaning making happens over time
 
@@ -62,9 +64,21 @@ This adjustment in language feels significant in that it continues to be a remin
 1. Ensure the method and app meets people where they are
 2. Embrace, share, and [feel at home](https://ping-practice.gitbook.io/pings/#3-january-2023) in my own story&#x20;
 
-#### Keep things snappy and simple
+#### Keep things snappy, simple, and uncluttered
+
+People consistently named simplicity as the most noticable facet of the app.
+
+Some people anticipated that the moment they needed to start thinking about the interface is the same moment they would be likely to stop finding the app useful.
 
 #### Prompts are curious
+
+People seemed to see and resonate with the prompts, and how they were presented, in a range of ways.
+
+Set on a black background, some people appreciated how _distinct_ the prompts felt from the rest of the app and reacted to how focused they felt looking at them as a result.
+
+Some people wondered whether there could be a future where prompts could be presented _within_ cards that invite you to explore a thought in ways you hadn't yet considered.
+
+Some people entered the idea of it being possible to share prompts/see prompts authored by other people.
 
 #### Make many doorways
 
