@@ -29,27 +29,48 @@ Some people found the font legible. Some people found it felt too formal.
 
 Also, consensuses did not emerge in various places. Like what might be more intuitive ways to name the `Say more` and `Favorite` buttons or what lenses people consider to be more useful than others.
 
-Common among the above is the importance of acknowledging and accepting that what people need to feel at ease and empowered to journal varies.&#x20;
+Common among the above is the importance of acknowledging that what people need to feel at ease and empowered to journal varies.&#x20;
 
-As such, the app needs to offer people the ability to synchronize how the app looks, feels, and functions with the sensibilities they've developed.
+As such, the app needs to offer people the ability to synchronize how the app looks, feels, and functions with the personal sensibilities they've developed.
 
-#### 2. Meaning making happens over time
+#### 2. Reinforce relationship building
 
-#### 3. Time feels natural
+> _What happens if you noticing yourself using the app to capture ideas/thoughts/questions/etc. relevant to something specific you are trying to make, do, or otherwise express?_&#x20;
 
-#### 4. Embrace "journaling"
+People asked versions of the above throughout the prototype conversations. And while I'm not yet sure how the app might enable you to represent these relationship(s), I think it's important to make an explicit choice here. Reason: failing to make an explicit choice would mean _not_ considering the impact on people who I think might resort to feeling like they would need to "hold" these relationships themselves or store them elsewhere and therefore limiting their capacity to sense-making.&#x20;
 
-#### 5. Keep things snappy and simple
+#### 3. Meaning making happens over time
 
-#### 6. Prompts are curious
+dd
 
-#### 7. Make many doorways
 
-#### 8. Consider color
 
-#### 9. Reinforce relationship building
+#### Time feels natural
 
-#### 10. Be a good neighbor
+The prototype is opinionated about defaulting to organizing thoughts by time.
+
+People found navigating thoughts this way to be intuitive and relatively unremarkable.
+
+#### Embrace "journaling"
+
+Coming into these conversations, I hadn't developed a practice of using the word "journal" / "journaling" to describe the app and method.
+
+Leaving these conversations, it became clear that "journaling" is  what this is.
+
+This adjustment in language feels significant in that it continues to be a reminder to:
+
+1. Ensure the method and app meets people where they are
+2. Embrace, share, and [feel at home](https://ping-practice.gitbook.io/pings/#3-january-2023) in my own story&#x20;
+
+#### Keep things snappy and simple
+
+#### Prompts are curious
+
+#### Make many doorways
+
+#### Consider color
+
+#### Be a good neighbor
 
 
 
