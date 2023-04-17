@@ -33,6 +33,26 @@ Common among the above is the importance of acknowledging and accepting that wha
 
 As such, the app needs to offer people the ability to synchronize how the app looks, feels, and functions with the sensibilities they've developed.
 
+#### 2. Meaning making happens over time
+
+#### 3. Time feels natural
+
+#### 4. Embrace "journaling"
+
+#### 5. Keep things snappy and simple
+
+#### 6. Prompts are curious
+
+#### 7. Make many doorways
+
+#### 8. Consider color
+
+#### 9. Reinforce relationship building
+
+#### 10. Be a good neighbor
+
+
+
 
 
 
