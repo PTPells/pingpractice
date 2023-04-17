@@ -43,17 +43,25 @@ Reason: I think neglecting to think intentionally about this choice could result
 
 #### 3. Meaning making happens over time
 
-dd
+If effective, the app will inspire people to revisit thoughts they captured previously. As such, they're likely to arrive with new information to imbue these "previously written thoughts" with and new meaning to find within them.&#x20;
 
+The app ought to account for this natural process and enable people to evolve cards (defined broadly) over time.&#x20;
 
+#### 4. Be a good neighbor
 
-#### Time feels natural
+It's important that the app compliment/enhance/extend/support/etc. peoples' existing journaling practices.
+
+This app and method is tightly scoped to turning tiny bits of resonance into action and change. It does not seek to assume responsibility for the many needs peoples' existing journaling practices help them to meet. As such, it's important that the design of this app evolve in ways that are informed by the journaling and reflecting people are already doing.
+
+As someone put it, _"I see this \[app] as a bookend \[to my existing journaling practice]."_
+
+#### 5. Time feels natural
 
 The prototype is opinionated about defaulting to organizing thoughts by time.
 
 People found navigating thoughts this way to be intuitive and relatively unremarkable.
 
-#### Embrace "journaling"
+#### 6. Embrace "journaling"
 
 Coming into these conversations, I hadn't developed a practice of using the word "journal" / "journaling" to describe the app and method.
 
@@ -64,13 +72,13 @@ This adjustment in language feels significant in that it continues to be a remin
 1. Ensure the method and app meets people where they are
 2. Embrace, share, and [feel at home](https://ping-practice.gitbook.io/pings/#3-january-2023) in my own story&#x20;
 
-#### Keep things snappy, simple, and uncluttered
+#### 7. Stay snappy, simple, and uncluttered
 
 People consistently named simplicity as the most noticable facet of the app.
 
 Some people anticipated that the moment they needed to start thinking about the interface is the same moment they would be likely to stop finding the app useful.
 
-#### Prompts are curious
+#### 8. Prompts are curious
 
 People seemed to see and resonate with the prompts, and how they were presented, in a range of ways.
 
@@ -80,35 +88,20 @@ Some people wondered whether there could be a future where prompts could be pres
 
 Some people entered the idea of it being possible to share prompts/see prompts authored by other people.
 
-#### Make many doorways
+#### 9. Make many doorways
 
-#### Consider color
+Everyone seemed to feel energized by the prospect of there being a large, and expanding, set of ways they could find specific thoughts and tease out patterns latent within and between them.&#x20;
 
-#### Be a good neighbor
+#### 10. Prioritize privacy and security
+
+The method and app assumes that you are being honest about what moves you.&#x20;
+
+As such, it's crucial that people be confident and certain that:
+
+* No one besides them will see anything they input unless they explicitly say otherwise.
+* What they use the app to express remains in their possession across time, regardless of whether the app is still operating.&#x20;
 
 
-
-
-
-
-
-#### Overall
-
-#### Actions
-
-_What about the design needs to evolve?_
-
-#### Conviction
-
-_What became **more** clear?_
-
-#### Curiosity
-
-_What became **less** clear?_
-
-#### Open
-
-_What new questions emerged?_
 
 
 
