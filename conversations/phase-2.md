@@ -4,7 +4,7 @@ description: Summary of the conversations the tappable prototype inspired.
 
 # Phase #2
 
-During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype. The objective was to create a way for people to experience and react to the ideas and assumptions latent within [the narrative](../app.md) that is informing the "shape" [the app](../app.md) takes on.
+During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype. The objective was to create a way for people to react to the ideas and assumptions latent within [the narrative](../app.md) that is informing the "shape" [the app](../app.md) takes on.
 
 21 people to tried the prototype in conversations that invited them to:
 
@@ -31,7 +31,7 @@ Also, consensuses did not emerge in various places. Like what might be more intu
 
 Common among the above is the importance of acknowledging that what people need to feel at ease and empowered to journal varies.&#x20;
 
-As such, the app needs to offer people the ability to synchronize how the app looks, feels, and functions with the personal sensibilities they've developed.
+As such, how the app looks and feels needs to reflect the personal sensibilities people have developed.
 
 #### 2. Reinforce relationship building
 
@@ -45,15 +45,13 @@ Reason: I think neglecting to think intentionally about this choice could result
 
 If effective, the app will inspire people to revisit thoughts they captured previously. As such, they're likely to arrive with new information to imbue these "previously written thoughts" with and new meaning to find within them.&#x20;
 
-The app ought to account for this natural process and enable people to evolve cards over time.&#x20;
+The app ought to account for this natural process and enable people to embed this meaning so that they can use them as guides.
 
 #### 4. Be a good neighbor
 
 It's important that the app compliment/enhance/extend/support/etc. peoples' existing journaling practices.
 
 This app and method is tightly scoped to turning tiny bits of resonance into insight and action. It does not seek to assume responsibility for the many needs peoples' existing journaling practices help them to meet. As such, it's important that the design of this app evolve in ways that are informed by the journaling and reflecting people are already doing.
-
-As someone put it, _"I see this \[app] as a bookend to my existing journaling practice."_
 
 #### 5. Time feels natural
 
@@ -69,7 +67,7 @@ Some people anticipated that the moment they needed to start thinking about the 
 
 #### 7. Prompts are curious
 
-People seemed to see and resonate with the prompts, and how they were presented, in a range of ways.
+People seemed to see and resonate with the prompts and how they were presented in a range of ways.
 
 Set on a black background, some people appreciated how _distinct_ the prompts felt from the rest of the app and reacted to how focused they felt looking at them as a result.
 
@@ -77,9 +75,13 @@ Some people wondered whether there could be a future where prompts could be pres
 
 Some people entered the idea of it being possible to share prompts/see prompts authored by other people.
 
+Whatever the implementation, it seems there more prompt experimenting to do.
+
 #### 8. Make many doorways
 
 Everyone seemed to feel energized by the prospect of there being a large, and expanding, set of ways they could find specific thoughts and tease out patterns latent within and between them.&#x20;
+
+One idea for how the app might act on this: offer people the ability to edit and expand the lenses/filters presented in the "for you" experience.
 
 #### 9. Prioritize privacy and security
 
@@ -100,6 +102,13 @@ This adjustment in language feels significant in that it continues to be a remin
 
 1. Ensure the method and app meets people where they are
 2. Embrace, share, and [feel at home](https://ping-practice.gitbook.io/pings/#3-january-2023) in my own story&#x20;
+
+## Open questions
+
+These conversations also exposed questions that have to be addressed. Questions like:
+
+* _How opinionated might the app be about guiding people to develop the kinds of "insights" and "meaning" the method draws inspiration from?_
+* _Where/how might people use the app to place/locate this meaning and insight in ways that it is available to them in the fleeting moments where they have opportunities to apply it?_
 
 
 
