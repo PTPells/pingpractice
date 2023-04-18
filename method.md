@@ -1,6 +1,6 @@
 # Method
 
-Ping Practice is a method I've developed for translating everyday experiences into insights and actions that align with what I need and value.
+Ping Practice is a method I'm developing for translating everyday experiences into insights and actions that align with what I need and value.
 
 Insights that can take the form of:
 
