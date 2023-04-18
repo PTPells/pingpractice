@@ -1,8 +1,19 @@
-# Experiment: DailyNotes
+# Experiment/DailyNotes
 
 {% hint style="success" %}
 This experiment is complete and I am continuing with the practice it helped me to start: regularly revisiting what I have thought about in the past.
 {% endhint %}
+
+By 2017, I had been writing sporadically for five years. Most often when I felt inspired.
+
+Writing proved to be a powerful tool for me. After I wrote, I would feel a range of things, all positive: untangled, unblocked, clear, relieved, settled, inspired, and empowered.
+
+_Sometimes_ something would bring me back to what I’d written in the past. Whenever I read this thinking I would feel a sense of perspective, progress, and gratitude for having this “foundation” to grow from and refer back to. As a result, I began to develop more confidence in my capacity to adapt and evolve.
+
+This practice of revisiting what and how my past self thought happened by chance. This experiment was borne out of me wanting to make this a regular practice; it was built on the following hypotheses:&#x20;
+
+1. I would write consistently if I no longer needed to decide “Where should I put this?” each time I felt inspired to say or save something that spoke to me _and_
+2. I would be able to make better sense of what I was thinking and feeling if I developed a habit of seeing what I’d written across time
 
 ### Description&#x20;
 
@@ -34,18 +45,7 @@ I wasn’t remembering these truths and that voice in the situations when I need
 
 The DailyNotes Experiment helped me to see and name this incoherence as [an unmet need related to recalling the past](need-memory.md).
 
-### Motivation&#x20;
 
-By 2017, I had been writing sporadically for five years. Most often when I felt inspired.
-
-Writing proved to be a powerful tool for me. After I wrote, I would feel a range of things, all positive: untangled, unblocked, clear, relieved, settled, inspired, and empowered.
-
-_Sometimes_ something would bring me back to what I’d written in the past. Whenever I read this thinking I would feel a sense of perspective, progress, and gratitude for having this “foundation” to grow from. As a result, I began to develop more confidence in my capacity to adapt and evolve.
-
-This practice of revisiting what and how my past self thought happened by chance. This experiment was borne out of me wanting to make this a regular practice; it was built on the following hypotheses:&#x20;
-
-1. I would write consistently if I no longer needed to decide “Where should I put this?” each time I felt inspired to say or save something that spoke to me _and_
-2. I would be able to make better sense of what I was thinking and feeling if I developed a habit of seeing what I’d written across time
 
 ### Details
 
