@@ -1,8 +1,8 @@
 # Method
 
-Ping Practice is a method I'm developing for translating everyday experiences into insights and actions that align with what I need and value.
+Ping Practice is a method I'm developing for translating everyday experiences into insights and actions that align with what you need and value.
 
-Insights that can take the form of:
+Insights that can take the form of things like:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Affirmation</strong> that empowers you to take a next step</td><td></td><td></td></tr><tr><td><strong>Question</strong> that creates clarity</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Need</strong> that motivates you to speak up</td><td></td><td></td></tr><tr><td><strong>Name</strong> that helps connect disparate experiences</td><td></td><td></td></tr><tr><td><strong>Value</strong> that informs a decision you need to make</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr><tr><td><strong>Awareness</strong> that enables you to detect what is happening and could happen next</td><td></td><td></td></tr></tbody></table>
 
@@ -41,8 +41,8 @@ Ping Practice is a loop with 6 steps within it.
    _The most important thing in this moment is making sure the name you give to the Ping is clear and descriptive enough for your future self to recall what you were referring to._
 3. The third steps is to **Revisit** previous Pings. \
    \
-   The cadence with which you revisit can vary. _The most important thing is that you revisit regularly._
-4. The fourth step happens as you Revisit: **Engaging.** \
+   The cadence with which you revisit can vary. _The most important thing is that you revisit regularly enough that you start to develop an ambient and intuitive sense for the what's been speaking to you._&#x20;
+4. The fourth step happens as you Revisit: **Elaborate.** \
    \
    For a Ping to acquire meaning, you need to:
    * _Edit_ Pings so the language you use to represent them better reflects what it was that you initially Noticed.
