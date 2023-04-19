@@ -26,14 +26,9 @@ During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) a
 2. Use the tappable prototype to “act out” something in response to each scenario
 3. Narrate the feelings, questions, ideas, uncertainties, etc. that emerged in their minds as they did "1." and "2."
 
-These conversations were oriented around learning and deciding:
+What follows are the [key findings](phase-2.md#key-findings), [questions](phase-2.md#open-questions), and [broader conclusions](phase-2.md#conclusions) these conversations surfaced.
 
-1. **Learning**: _Do people see/feel/imagine themselves using this app within their current everyday lives?_
-2. **Deciding**: _Will I continue investing time, and perhaps money, into turning this prototype into an app we can all use?_
-
-What follows are the key findings these conversations surfaced.
-
-## Findings
+## Key findings
 
 #### 1. Customization is crucial
 
@@ -124,7 +119,25 @@ These conversations also exposed questions that have to be addressed. Questions 
 * _How opinionated might the app be about guiding people to develop the kinds of "insights" and "meaning" the method draws inspiration from?_
 * _Where/how might people use the app to place/locate this meaning and insight in ways that it is available to them in the fleeting moments where they have opportunities to apply it?_
 
+## Conclusions
 
+Zooming out, this prototype, and these interviews, were oriented around the following:
+
+1. **Learning**: _Do people see/feel/imagine themselves using this app within their current everyday lives?_
+2. **Deciding**: _Will I continue investing time, and perhaps money, into turning this prototype into an app we can all use?_
+
+In short, I think the answer to both is “yes” with some nuance…
+
+There were some people who seemed to intuitively and clearly see the app complimenting practices and routines they’ve already established.&#x20;
+
+There were some people for whom using the app seemed a bit more like a stretch or departure from how they currently move about their days. &#x20;
+
+The key bit of information that seemed to predict how people responded to the prototype was whether  they already “reach for” journaling as a tool to help them process their experience and help catalyze action, and sometimes, stillness.
+
+This feels like an important overarching finding to me for it surfaces choices that I think will lead to additional clarity around:
+
+1. **Communication**: _To start, how might we conceive of the app? Might we position it as a “neighbor” to a journaling practice someone has already established? Might we position it as an “onramp” to developing a journaling practice? Something else?_
+2. **Product design**: _How opinionated (read: how quickly and explicitly) might the app need to demonstrate to people the value that can come with consistently noticing and naming tiny moments of resonance?_
 
 
 
