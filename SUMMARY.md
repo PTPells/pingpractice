@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🪐 welcome](README.md)
+* [🌞 welcome](README.md)
 * [About](about.md)
 * [Need: Memory](need-memory.md)
 * [References](references.md)

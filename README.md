@@ -1,4 +1,4 @@
-# 🪐 welcome
+# 🌞 welcome
 
 {% hint style="info" %}
 This space is, and will always be, a permanent work in progress.
