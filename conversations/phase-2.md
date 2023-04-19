@@ -4,7 +4,19 @@ description: Summary of the conversations the tappable prototype inspired.
 
 # Phase #2
 
-![A mockup of the app's start screen which prompts you to capture what you're noticing.](<../.gitbook/assets/image (5).png>)![A screenshot of a view within the app that allows you to browse cards one-by-one](<../.gitbook/assets/image (6).png>)![A screenshot of a view within the app that shows you a list of all the pings you've captured over time](<../.gitbook/assets/image (1).png>)
+<div>
+
+<figure><img src="../.gitbook/assets/Capture" alt=""><figcaption><p>Capture</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/One by one" alt=""><figcaption><p>One by one review</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/All pings" alt=""><figcaption><p>All pings</p></figcaption></figure>
+
+</div>
 
 During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype. The objective was to create a way for people to react to the ideas and assumptions latent within [the narrative](../app.md) that is informing the "shape" [the app](../app.md) takes on.
 
