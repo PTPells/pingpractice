@@ -23,7 +23,7 @@ This experiment started on 10 April 2023.
 
 <details>
 
-<summary>12 April</summary>
+<summary>12 April (search)</summary>
 
 <img src=".gitbook/assets/image (2) (2).png" alt="A screenshot showing me searching the Notion database that stores the Tweets I send from the Twitter account I set up to facilitate the &#x22;capture&#x22; phase of the journaling method." data-size="original">
 
@@ -41,7 +41,7 @@ Before Monday, I would've gone directly to Twitter to attempt the search above w
 
 <details>
 
-<summary>11 April</summary>
+<summary>11 April (day/time lens)</summary>
 
 ![Screenshot showing the advance filter option Notion offers when accessing a database on the iOS app.](<.gitbook/assets/image (4).png>)![A screenshot showing all of the pings I've posted on a particular day of the week. In this case, Wednesday.](<.gitbook/assets/image (2).png>)
 
