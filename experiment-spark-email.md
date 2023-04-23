@@ -6,6 +6,16 @@
 This experiment started on 6 Sep 2021 and concluded on 8 December 2021.
 {% endhint %}
 
+<div>
+
+<figure><img src=".gitbook/assets/image (3).png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Spark email app where cards accrued</p></figcaption></figure>
+
+</div>
+
 This was an experiment to simulate the "quick capture" and "revisit" experience I had been imagining for [the app](app.md) by stringing existing tools together into a workflow that felt somewhat cogent.
 
 The goals here being to learn:
@@ -35,12 +45,6 @@ I used two iOS apps for this experiment:
 
 1. [Paper Plane](https://apps.apple.com/us/app/paper-plane-email/id1486124719) for quickly getting down resonant thoughts so that I could explore and refine them at a later time using the Spark Mail app. \[i]&#x20;
 2. [Spark Mail](https://sparkmailapp.com/) for receiving the emails I sent to myself using Paper Plane.\[ii]&#x20;
-
-<figure><img src=".gitbook/assets/image (3).png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Spark Mail app's inbox where the "cards" I drafted using the Paper Plane app "landed."</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/IMG_6631.jpg" alt=""><figcaption><p>Card detail view within the Spark Mail app.</p></figcaption></figure>
 
 \---
 

@@ -1,5 +1,7 @@
 # Method
 
+<figure><img src=".gitbook/assets/Cards_Sketching.png" alt="A circular diagram showing Ping Practice&#x27;s steps: Name, Notice, Revisit, Edit/Respond/Relate, Remember, and Apply"><figcaption><p>Ping Practice</p></figcaption></figure>
+
 Ping Practice is a method I'm developing for translating everyday experiences into insights and actions that align with what you need and value.
 
 Insights that can take the form of things like:
@@ -26,8 +28,6 @@ The most important thing about Pings – and what differentiates them from other
 You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, and reflexive...as if what you are encountering relates to something that's been latent within you.&#x20;
 
 In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I feel something in my body (e.g. maybe I notice the hair on my arm standing up).
-
-<figure><img src=".gitbook/assets/Cards_Sketching.png" alt="A circular diagram showing Ping Practice&#x27;s steps: Name, Notice, Revisit, Edit/Respond/Relate, Remember, and Apply"><figcaption><p>Ping Practice</p></figcaption></figure>
 
 ### Process
 

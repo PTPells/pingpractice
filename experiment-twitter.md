@@ -18,6 +18,8 @@ This experimented started as an effort for [DG](https://www.davidgoligorsky.com/
 
 ## Impact & Conclusions
 
+What failed to emerge was the casual and consistent revisiting and subsequent serendipitous discovery [the method](method.md) suggests helps insights emerge.&#x20;
+
 ## Motivation&#x20;
 
 ## Details
