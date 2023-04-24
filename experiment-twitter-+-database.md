@@ -21,9 +21,23 @@ The [Twitter experiment](experiment-twitter.md) proved successful in so far as t
 
 ## Details
 
-## Observations
+## Log[^1]
 
-#### 24 April: Adding meaning to "Favoriting"
+
+
+#### 24 April
+
+_Dashboard_
+
+<figure><img src=".gitbook/assets/Ping Practice Interface Dashbaord.png" alt="Dashboard showing @pingpractice account activity over time"><figcaption><p>Dashboard showing @pingpractice account activity over time</p></figcaption></figure>
+
+Woah!&#x20;
+
+Now that I've got this dashboard set up, I'm immediately curious to see how - if at all – this view provides me a lens through which to look at, and engage with, this Ping Practice:
+
+
+
+_Adding meaning to "Favoriting"_
 
 <figure><img src=".gitbook/assets/Ping database dashboard.png" alt="A screenshot of the placeholder &#x22;Dashboard interface&#x22; that Airtable makes available."><figcaption><p>Airtable's "Dashboard" interface builder.</p></figcaption></figure>
 
@@ -59,6 +73,8 @@ I finished [this past Monday (10 April) feeling](https://twitter.com/pingpractic
 
 This led me to experience, and subsequently [develop a bit more conviction around](https://twitter.com/pingpractice/status/1645606642724261888), the utility of  [the app](app.md) offering people an easy way to see what they've said on days/time that are similar to the moments they currently find themselves to be in and/or curious about.
 
-In response, I created a new view within Notion that enables me to easily [see what I've said "on this day" across time](#user-content-fn-1)[^1].
+In response, I created a new view within Notion that enables me to easily [see what I've said "on this day" across time](#user-content-fn-2)[^2].
 
-[^1]: Ideally, the app will automatically know what day it is and surface relevant thoughts accordingly. Although, with this current set up in Notion, I'm still needing to manually input what day(s) of the week I'd like to see thoughts from.
+[^1]: Observations and updates
+
+[^2]: Ideally, the app will automatically know what day it is and surface relevant thoughts accordingly. Although, with this current set up in Notion, I'm still needing to manually input what day(s) of the week I'd like to see thoughts from.
