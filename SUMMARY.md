@@ -15,5 +15,5 @@
 * [Experiment/Spark email](experiment-spark-email.md)
 * [Experiment/Twitter](experiment-twitter.md)
 * [Experiment/Voice memos](experiment-voice-memos.md)
-* [Experiment/Twitter + Notion](experiment-twitter-+-notion.md)
+* [Experiment/Twitter + Database](experiment-twitter-+-database.md)
 * [Meta](meta.md)

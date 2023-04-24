@@ -2,7 +2,7 @@
 description: Experimenting with new ways to revisit Pings
 ---
 
-# Experiment/Twitter + Notion
+# Experiment/Twitter + Database
 
 {% hint style="info" %}
 This experiment started on 10 April 2023.
@@ -22,6 +22,20 @@ The [Twitter experiment](experiment-twitter.md) proved successful in so far as t
 ## Details
 
 ## Observations
+
+#### 24 April: Adding meaning to "Favoriting"
+
+<figure><img src=".gitbook/assets/Ping database dashboard.png" alt="A screenshot of the placeholder &#x22;Dashboard interface&#x22; that Airtable makes available."><figcaption><p>Airtable's "Dashboard" interface builder.</p></figcaption></figure>
+
+Discovering that Airtable makes it possible to associate an image with a record (or in this context, a Ping), is helping me to imagine a new potential choice to consider when revisiting: looking out for Pings that feel especially resonant so that I can consider elevating them in some way (e.g. associating an image, or other types of media) to deepen/enhance/extend the meaning/message of the Ping and my ability to remember that meaning/message.
+
+_Note: the above was prompted by me experimenting with setting up a "Dashboard" for the base I set up in Airtable. In doing so, I thought "Oh, it might be interesting to visualize how many Pings I've 'Favorited'."_
+
+_See:_ [_https://twitter.com/pingpractice/status/1650580408151740417_](https://twitter.com/pingpractice/status/1650580408151740417)
+
+
+
+
 
 #### 12 April: Search
 
