@@ -33,7 +33,7 @@ _Dashboard_
 
 Woah!&#x20;
 
-Now that I've got this dashboard set up, I'm immediately curious to see how - if at all – this view provides me a lens through which to look at, and engage with, this Ping Practice:
+Now that I've got this dashboard set up, I'm immediately curious to see how - if at all – this view provides me a lens through which to look at, and engage with, this Ping Practice.
 
 
 
