@@ -38,7 +38,7 @@ Ping Practice is a loop with 6 steps within it.
    This means being aware and present so that you can notice things that "Ping" something within you.
 2. The second step follows quickly after the first: **Naming**. Giving some language – no matter how rough – to what Pinged for you and locating this ping in the place where you've put all of the other pings you've logged before.\
    \
-   _The most important thing in this moment is making sure the name you give to the Ping is clear and descriptive enough for your future self to recall what you were referring to._
+   _The most important thing in this moment is making sure the name you give to the Ping is specific enough for your future self to recall what you were referring to._
 3. The third steps is to **Revisit** previous Pings. \
    \
    The cadence with which you revisit can vary. _The most important thing is that you revisit regularly enough that you start to develop an ambient and intuitive sense for the what's been speaking to you._&#x20;
