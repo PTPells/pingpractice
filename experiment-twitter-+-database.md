@@ -25,6 +25,12 @@ The [Twitter experiment](experiment-twitter.md) proved successful in so far as t
 
 
 
+#### 26 April
+
+<figure><img src=".gitbook/assets/Screenshot 2023-04-26 at 10.48.17 AM.png" alt=""><figcaption></figcaption></figure>
+
+Added a "Pin" field that I'm thinking I can use to mark and quickly return to thoughts I want to more easily revisit.
+
 #### 24 April
 
 _Dashboard_
