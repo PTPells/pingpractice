@@ -17,7 +17,7 @@ During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) a
 \
 To decide whether we would continue investing time and energy into making the app a reality, I hosted a series of conversations as a way to explore/answer the following question:
 
-> _Do people see/feel/imagine themselves using this app within their current, everyday lives alongside everything else they were doing and needing/wanting to do?_
+> _Do people see themselves using this app within their current, everyday lives alongside everything else they're doing?_
 
 
 
