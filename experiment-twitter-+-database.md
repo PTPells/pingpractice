@@ -25,6 +25,12 @@ The [Twitter experiment](experiment-twitter.md) proved successful in so far as t
 
 
 
+#### 27 April
+
+<figure><img src=".gitbook/assets/Screenshot 2023-04-27 at 12.29.03 PM.png" alt="A screenshot showing a new view within the Airtable database I set up that shows &#x22;Pings&#x22; I&#x27;ve pinned."><figcaption><p>Using the new "📍Pinned" view for the first time.</p></figcaption></figure>
+
+I'm starting to use the "Pin" field I set up yesterday which in turn inspired me to add an image today. Cool!
+
 #### 26 April
 
 <figure><img src=".gitbook/assets/Screenshot 2023-04-26 at 10.48.17 AM.png" alt=""><figcaption></figcaption></figure>
