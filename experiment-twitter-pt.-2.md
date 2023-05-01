@@ -2,15 +2,15 @@
 description: Experimenting with new ways to revisit Pings
 ---
 
-# Experiment/Twitter + Database
+# Experiment/Twitter Pt. 2
 
 {% hint style="info" %}
 This experiment started on 10 April 2023.
 {% endhint %}
 
-The [Twitter experiment](experiment-twitter.md) proved successful in so far as the behavior it was intended to help me evaluate – [noticing and naming Pings](method.md) – [stuck](experiment-twitter.md#impact-and-conclusions). At the time of writing (23 April 2023), I've jotted down 2,300+ Pings and I continue doing so most days.
+The [Twitter experiment](experiment-twitter-pt.-1.md) proved successful in so far as the behavior it was intended to help me evaluate – [noticing and naming Pings](method.md) – [stuck](experiment-twitter-pt.-1.md#impact-and-conclusions). At the time of writing (23 April 2023), I've jotted down 2,300+ Pings and I continue doing so most days.
 
-[Motived to experiment](experiment-twitter.md#impact-and-conclusions) with ways to simulate the serendipitous revisiting and discovery [the app describes](app.md) and prompted by a conversation with [Prateek](https://prtksxna.com/), this experiment is an effort to prototype a distinct place I can go to revisit and discover past Pings.\
+[Motived to experiment](experiment-twitter-pt.-1.md#impact-and-conclusions) with ways to simulate the serendipitous revisiting and discovery [the app describes](app.md) and prompted by a conversation with [Prateek](https://prtksxna.com/), this experiment is an effort to prototype a distinct place I can go to revisit and discover past Pings.\
 
 
 ## Research questions&#x20;
