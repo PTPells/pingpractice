@@ -23,13 +23,21 @@ The [Twitter experiment](experiment-twitter-pt.-1.md) proved successful in so fa
 
 ## Log[^1]
 
+#### \[#TODO] 30 April: Prompting / Scripting
 
+_Think: Obi, studio, Apple Notes, sitting down to write/reflect Sunday eve._
 
-#### 27 April
+<figure><img src=".gitbook/assets/30-April-DailyNotes-Airtable" alt="A screenshot with two applications next to each other: Airtable and Apple&#x27;s TextEdit. Airtable is showing a list of pings from the past week. TextEdit is showing the 04.30.md DailyNote."><figcaption><p>Left: All pings from the past 7 days (Airtable). Right: 04.30.md note within <a href="experiment-dailynotes.md">DailyNotes</a>.</p></figcaption></figure>
+
+####
+
+#### 27 April: Pinned
 
 <figure><img src=".gitbook/assets/Screenshot 2023-04-27 at 12.29.03 PM.png" alt="A screenshot showing a new view within the Airtable database I set up that shows &#x22;Pings&#x22; I&#x27;ve pinned."><figcaption><p>Using the new "📍Pinned" view for the first time.</p></figcaption></figure>
 
 I'm starting to use the "Pin" field I set up yesterday which in turn inspired me to add an image today. Cool!
+
+_Aside: I wonder if it might be interesting to call – what I'd previosuly been referring to as "Favorites" – simply "Active"...at least by default. Keep it simple, generic, and uncomplicated by people bringing existing meaning and expectation(s) to the word._
 
 #### 26 April
 

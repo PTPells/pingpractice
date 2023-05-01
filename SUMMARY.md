@@ -16,4 +16,5 @@
 * [Experiment/Twitter Pt. 1](experiment-twitter-pt.-1.md)
 * [Experiment/Voice memos](experiment-voice-memos.md)
 * [Experiment/Twitter Pt. 2](experiment-twitter-pt.-2.md)
+* [Experiment/Method](experiment-method.md)
 * [Meta](meta.md)
