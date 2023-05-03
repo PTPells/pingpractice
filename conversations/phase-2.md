@@ -1,5 +1,5 @@
 ---
-description: Summary of the conversations the tappable prototype inspired.
+description: Tappable prototype.
 ---
 
 # Phase #2

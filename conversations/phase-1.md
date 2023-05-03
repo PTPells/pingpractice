@@ -1,3 +1,7 @@
+---
+description: Discovery.
+---
+
 # Phase #1
 
 Between August 2021 and August 2022, I talked with \~30 people who I knew to be thoughtful and creative.&#x20;
