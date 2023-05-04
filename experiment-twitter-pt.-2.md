@@ -23,7 +23,19 @@ The [Twitter experiment](experiment-twitter-pt.-1.md) proved successful in so fa
 
 ## Log[^1]
 
-#### 3 May: Prompting / Scripting
+#### 3 May
+
+#### Improv
+
+The reflection/observation below is leading me to see a potential way through the blockage I've felt posting more publicly...
+
+What if I act like Obi does:&#x20;
+
+1. Book "studio sessions" for myself. As in: I'll commit to making something to share at a specific time and place for some bounded period of time.
+2. In the time between each "improve sessions" I'll log all the ideas that surface to me in a consistent place.
+3. When I arrive at the "studio" I'll "swipe through" the ideas that I've accrued through "2." and act on one that speaks to me.
+
+#### Prompting / Scripting
 
 <figure><img src=".gitbook/assets/30-April-DailyNotes-Airtable" alt="A screenshot with two applications next to each other: Airtable and Apple&#x27;s TextEdit. Airtable is showing a list of pings from the past week. TextEdit is showing the 04.30.md DailyNote."><figcaption><p>Left: All pings from the past 7 days (Airtable). Right: 04.30.md note within <a href="experiment-dailynotes.md">DailyNotes</a>.</p></figcaption></figure>
 
