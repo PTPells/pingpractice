@@ -23,13 +23,19 @@ The [Twitter experiment](experiment-twitter-pt.-1.md) proved successful in so fa
 
 ## Log[^1]
 
-#### \[#TODO] 30 April: Prompting / Scripting
-
-_Think: Obi, studio, Apple Notes, sitting down to write/reflect Sunday eve._
+#### 3 May: Prompting / Scripting
 
 <figure><img src=".gitbook/assets/30-April-DailyNotes-Airtable" alt="A screenshot with two applications next to each other: Airtable and Apple&#x27;s TextEdit. Airtable is showing a list of pings from the past week. TextEdit is showing the 04.30.md DailyNote."><figcaption><p>Left: All pings from the past 7 days (Airtable). Right: 04.30.md note within <a href="experiment-dailynotes.md">DailyNotes</a>.</p></figcaption></figure>
 
-####
+I jotted down – what felt like – a bunch of thoughts in my Drop Journal this past week. On Sunday (30 April), I sat down at my computer to try to make some sense of them ahead of the week I'm currently in.
+
+To ready myself for this sensemaking, I created a view of what I'd dropped in my journal over the past seven days and brought up the `04.30.md` note within my [DailyNotes](experiment-dailynotes.md) alongside it. Raw material and a surface to sort through it.
+
+In doing the above, I was wanting to revisit the specific things I'd been thinking about. More specifically, I was wanting to arrive back in the headspace those thoughts emerged within. Seeing everything together in a moment where I felt like I had the space and energy to think was wonderful.
+
+Reflecting on the above brought me back to what Obi shared during the [first set of conversations](conversations/phase-2.md). Obi shared that when he arrives in the studio for a recording session, he'll often pull up his Apple Notes to review what he's been thinking about to see if anything there inspires/moves him to make music to.
+
+The connection I'm drawing here between the experience I had on Sunday and the experience Obi shared with me some months ago feels fresh and notable to me. I think it's because I'm starting to see a more visceral connections between these contexts/applications: improvisation and bringing together/readying the "raw material" to do so.
 
 #### 27 April: Pinned
 
