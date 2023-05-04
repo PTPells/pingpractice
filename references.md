@@ -14,7 +14,7 @@
 
 ### **Beyoncé** [_Life is but a Dream_](https://youtu.be/VJizQTAySGQ?t=5204)
 
-> When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and eventually become we’re supposed to be.&#x20;
+> When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and we eventually become what we’re supposed to be.&#x20;
 
 ### **Kengo Kuma** [_**Anti-Object**_](https://www.worldcat.org/title/anti-object-the-dissolution-and-disintegration-of-architecture/oclc/905264086?referer=null\&ht=edition)
 
