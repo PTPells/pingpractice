@@ -26,6 +26,8 @@ The [Twitter experiment](experiment-twitter-pt.-1.md) proved successful in so fa
 ### 5 May
 
 {% embed url="https://youtube.com/shorts/NEuTCdH3v0k" %}
+Showing workflow for marking a thread as "🟢 Active" in Airtable.
+{% endembed %}
 
 #### Marking a thread as active
 
