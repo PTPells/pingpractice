@@ -25,6 +25,8 @@ The [Twitter experiment](experiment-twitter-pt.-1.md) proved successful in so fa
 
 ### 5 May
 
+{% embed url="https://youtube.com/shorts/NEuTCdH3v0k" %}
+
 #### Marking a thread as active
 
 I find myself needing some extra support as I move into creating public doorways into this project (I'm thinking about a conversational video format to start. E.g. TikTok or Instagram Reels).
@@ -34,7 +36,7 @@ To provide that support, I'm going to experiment with doing the following:
 1. Creating a thread to "host" / "hold" the conversation about this voice I find myself wanting to use
 2. Marking this thread as 🟢`Active` so that it's easy for me to revisit.
 3. Associating a picture with this thread so that it's more memorable and easier for me to arrive into the mindset it's asking me to.
-4. Using Airtable's native Commenting feature to hold any thoughts that may emerge in the future around this. _Note: this one feels notable in so far as it's the first time I'm branching out from Twitter as the sold mode of composing._
+4. Using Airtable's native Commenting feature to hold any thoughts that may emerge in the future. _Note: this one feels notable in so far as it's the first time I'm branching out from Twitter as the sold mode of composing._
 
 ### 3 May
 
