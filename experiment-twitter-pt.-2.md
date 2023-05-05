@@ -23,17 +23,7 @@ The [Twitter experiment](experiment-twitter-pt.-1.md) proved successful in so fa
 
 ## Log[^1]
 
-#### 3 May
-
-#### Improv
-
-The reflection/observation below is leading me to see a potential way through the blockage I've felt posting more publicly...
-
-What if I act like Obi does:&#x20;
-
-1. Book "studio sessions" for myself. As in: I'll commit to making something to share at a specific time and place for some bounded period of time.
-2. In the time between each "improve sessions" I'll log all the ideas that surface to me in a consistent place.
-3. When I arrive at the "studio" I'll "swipe through" the ideas that I've accrued through "2." and act on one that speaks to me.
+### 3 May
 
 #### Prompting / Scripting
 
@@ -49,7 +39,19 @@ Reflecting on the above brought me back to what Obi shared during the [first set
 
 The connection I'm drawing here between the experience I had on Sunday and the experience Obi shared with me some months ago feels fresh and notable to me. I think it's because I'm starting to see a more visceral connections between these contexts/applications: improvisation and bringing together/readying the "raw material" to do so.
 
-#### 27 April: Pinned
+#### Improv
+
+The reflection/observation above is leading me to see a potential way through the blockage I've felt posting more publicly...
+
+What if I act like Obi does:&#x20;
+
+1. Book "studio sessions" for myself. As in: I'll commit to making something to share at a specific time and place for some bounded period of time.
+2. In the time between each "improve sessions" I'll log all the ideas that surface to me in a consistent place.
+3. When I arrive at the "studio" I'll "swipe through" the ideas that I've accrued through "2." and act on one that speaks to me.
+
+### 27 April&#x20;
+
+#### Pinned
 
 <figure><img src=".gitbook/assets/Screenshot 2023-04-27 at 12.29.03 PM.png" alt="A screenshot showing a new view within the Airtable database I set up that shows &#x22;Pings&#x22; I&#x27;ve pinned."><figcaption><p>Using the new "📍Pinned" view for the first time.</p></figcaption></figure>
 
@@ -57,15 +59,15 @@ I'm starting to use the "Pin" field I set up yesterday which in turn inspired me
 
 _Aside: I wonder if it might be interesting to call – what I'd previosuly been referring to as "Favorites" – simply "Active"...at least by default. Keep it simple, generic, and uncomplicated by people bringing existing meaning and expectation(s) to the word._
 
-#### 26 April
+### 26 April
 
 <figure><img src=".gitbook/assets/Screenshot 2023-04-26 at 10.48.17 AM.png" alt=""><figcaption></figcaption></figure>
 
 Added a "Pin" field that I'm thinking I can use to mark and quickly return to thoughts I want to more easily revisit.
 
-#### 24 April
+### 24 April
 
-_Dashboard_
+#### Dashboard
 
 <figure><img src=".gitbook/assets/Ping Practice Interface Dashbaord.png" alt="Dashboard showing @pingpractice account activity over time"><figcaption><p>Dashboard showing @pingpractice account activity over time</p></figcaption></figure>
 
@@ -75,7 +77,7 @@ Now that I've got this dashboard set up, I'm immediately curious to see how - if
 
 
 
-_Adding meaning to "Favoriting"_
+#### Adding meaning to "Favoriting"
 
 <figure><img src=".gitbook/assets/Ping database dashboard.png" alt="A screenshot of the placeholder &#x22;Dashboard interface&#x22; that Airtable makes available."><figcaption><p>Airtable's "Dashboard" interface builder.</p></figcaption></figure>
 
@@ -89,7 +91,9 @@ _See:_ [_https://twitter.com/pingpractice/status/1650580408151740417_](https://t
 
 
 
-#### 12 April: Search
+### 12 April
+
+#### Search
 
 <figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -103,7 +107,9 @@ I then went to Notion to search for `pronoun` which quickly returned what I've s
 
 Before Monday, I would've gone directly to Twitter to attempt the search above which  past experiences have led me to doubt whether that search would return the Tweets I'm fairly certain existed.
 
-#### 11 April: Day/time lens/filter
+### 11 April
+
+#### Day/time lens/filter
 
 ![Screenshot showing the advance filter option Notion offers when accessing a database on the iOS app.](<.gitbook/assets/image (4).png>)![A screenshot showing all of the pings I've posted on a particular day of the week. In this case, Wednesday.](<.gitbook/assets/image (2).png>)
 
