@@ -1,5 +1,5 @@
 ---
-description: Experimenting with new ways to revisit Pings
+description: Facilitating other people through the method using existing apps.
 ---
 
 # Experiment/Method
