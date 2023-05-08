@@ -24,7 +24,7 @@ I was feeling:&#x20;
 
 I brought language to these feelings and this need in a moment where I had become confident I was capable of evolving when certain conditions were met, clear enough about what I thought those conditions were, and motivated by the prospect of a future where I felt lighter.
 
-With the above in place, I began experimenting with solutions.
+With the above in place, I began [experimenting with solutions](experiments/).
 
 
 
