@@ -23,13 +23,55 @@ The [Twitter experiment](experiment-twitter-pt.-1.md) proved successful in so fa
 
 ## Log[^1]
 
+### 7 May
+
+#### IDs + Record linking
+
+<div>
+
+<figure><img src=".gitbook/assets/Record linking.jpeg" alt="Airtable screenshot showing how to link records together."><figcaption><p>Searching for a record to link to the current one.</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/Record linking (1).jpeg" alt="Airtable screenshot showing ID on each record."><figcaption><p>Showing the new ID field visible on the card.</p></figcaption></figure>
+
+</div>
+
+Ok! Two adjustments tonight that I feel energized about...
+
+1. I added an `ID` field to the Airtable base and exposed it on cards in the `🟢 Active` view. This field will get automatically populated each time a new record is added.
+2. I added a field that will enable me to link records together.
+
+When I combine the following three things:
+
+1. The two adjustments above&#x20;
+2. The language shift from `📍Pinned` to `🟢 Active`,&#x20;
+3. The assumptions that I'll continue regularly revisiting the "`🟢 Active"`view
+
+... I can start to see a future where:
+
+1. I'm able to recall the `IDs` of cards that are important/meaningful to me at any given time **from memory**.\
+
+2. I'm revisiting, referencing, refining, and expanding these cards more often and by extension, they're becoming more meaningful.\
+
+
+_Note: the two scearios I'm describing above already happens to me at work with_ [_Phabricator_](https://phabricator.wikimedia.org/) \
+\
+_It usually goes like this..._\
+\
+_We'll start work on a range of tickets. There will be some subset of these tickets that I/we reference more often than others. As this happens, I start to memorize the numbers of these tickets. And then, because I've memorized these ticket numbers, I end up referencing these tickets in conversation and in my own thinking/writing more often._ \
+\
+_In doing so, I end up revisiting these tickets to contribute new information (no matter how small) and refine what's already there. I also link to these tickets In new tickets I create and comments I write_
+
+_ii._&#x20;
+
 ### 5 May
+
+#### Marking a thread as active
 
 {% embed url="https://youtube.com/shorts/NEuTCdH3v0k" %}
 Showing workflow for marking a thread as "🟢 Active" in Airtable.
 {% endembed %}
-
-#### Marking a thread as active
 
 I find myself needing some extra support as I move into creating public doorways into this project (I'm thinking about a conversational video format to start. E.g. TikTok or Instagram Reels).
 
