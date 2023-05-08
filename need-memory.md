@@ -11,7 +11,7 @@ This need remains unmet. I am actively [working on a solution](app.md) to addres
 
 ### Context
 
-The [DailyNotes experiment](experiment-dailynotes.md) was successful in so far as it helped me to develop a consistent writing practice and through it, identify things I thought to be true.
+The [DailyNotes experiment](experiments/dailynotes.md) was successful in so far as it helped me to develop a consistent writing practice and through it, identify things I thought to be true.
 
 Although, the experiment left me with an unmet need. I wasn’t remembering these truths and my voice in the situations when I needed them most: the tiny, fast, reflexive moments in my everyday life where there were fleeting opportunities for me to put them into practice, to move in new ways, to make different choices instead of getting stuck in habits/ways of thinking that were no longer useful to me, and ultimately, to learn and evolve.
 

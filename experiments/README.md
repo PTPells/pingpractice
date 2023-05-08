@@ -1,0 +1,5 @@
+# Experiments
+
+## Experiments
+
+<table><thead><tr><th>Name</th><th data-type="select">State</th><th>Prompt</th><th>Start</th></tr></thead><tbody><tr><td><a href="method-facilitation.md">Method Facilitation </a></td><td></td><td></td><td>2023 <br>(April)</td></tr><tr><td><a href="twitter-pt.-2.md">Twitter Pt. 2</a></td><td></td><td></td><td>2023 <br>(April)</td></tr><tr><td><a href="voice-memos.md">Voice memos</a></td><td></td><td></td><td>2023<br>(January)</td></tr><tr><td><a href="twitter-pt.-2.md">Twitter Pt. 1</a></td><td></td><td></td><td>2021 (December)</td></tr><tr><td><a href="quick-capture.md">Quick capture</a></td><td></td><td></td><td>2021 <br>(September)</td></tr><tr><td><a href="weeklynotes.md">WeeklyNotes</a></td><td></td><td><em>How might I hold myself accountable to articulating and embodying intentions that emerged through the DailyNotes practice I'd developed?</em></td><td>2020 (February)</td></tr><tr><td><a href="dailynotes.md">DailyNotes</a></td><td></td><td><em>What might happen if I relieve myself of having to think answer "Where should I put this?" each time I felt moved to say or save something?</em></td><td>2017</td></tr></tbody></table>

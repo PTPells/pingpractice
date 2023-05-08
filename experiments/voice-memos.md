@@ -2,7 +2,7 @@
 description: Trying a new medium (speech) to capture pings.
 ---
 
-# Experiment/Voice memos
+# Voice memos
 
 {% hint style="info" %}
 This experiment is ongoing. It started on 28 January 2023&#x20;
@@ -39,7 +39,7 @@ I've noticed this happen a few times: what prompts me to start recording a voice
 Right now, I see two bits of information in the pattern above:
 
 1. I feel comfortable talking \[aloud] with myself. It feels natural to me. Once I get going, I do not seem to have difficulty knowing "where to go" next and/or how to go about getting there and ultimately "landing" the note.
-2. It's important that [the app](app.md) make capturing a voice memo as easy as snapping a photo. This way, people feel inclined to act on those little instincts to capture something which could lead to some larger expression.
+2. It's important that [the app](../app.md) make capturing a voice memo as easy as snapping a photo. This way, people feel inclined to act on those little instincts to capture something which could lead to some larger expression.
 
 #### **20 February 2023**
 

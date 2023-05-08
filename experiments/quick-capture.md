@@ -1,4 +1,4 @@
-# Experiment/Spark email
+# Quick capture
 
 
 
@@ -8,15 +8,15 @@ This experiment started on 6 Sep 2021 and concluded on 8 December 2021.
 
 <div>
 
-<figure><img src=".gitbook/assets/image (3).png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Spark email app where cards accrued</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Spark email app where cards accrued</p></figcaption></figure>
 
 </div>
 
-This was an experiment to simulate the "quick capture" and "revisit" experience I had been imagining for [the app](app.md) by stringing existing tools together into a workflow that felt somewhat cogent.
+This was an experiment to simulate the "quick capture" and "revisit" experience I had been imagining for [the app](../app.md) by stringing existing tools together into a workflow that felt somewhat cogent.
 
 The goals here being to learn:
 
@@ -30,13 +30,13 @@ The goals here being to learn:
 
 ### Motivation&#x20;
 
-The [DailyNotes experiment](experiment-dailynotes.md) led me to see [improving my memory and recall](need-memory.md) as core to helping me evolve past reflexes that were no longer useful to me.&#x20;
+The [DailyNotes experiment](dailynotes.md) led me to see [improving my memory and recall](../need-memory.md) as core to helping me evolve past reflexes that were no longer useful to me.&#x20;
 
 Drawing inspiration from flash cards, [spaced repetition](https://en.wikipedia.org/wiki/Spaced\_repetition), and [lateral thinking techniques](https://en.wikipedia.org/wiki/Lateral\_thinking) (namely [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique\_Strategies)) I sought to come up with a flow that would enable me to quickly create and revisit digital cards.
 
 The intention I had here was to:
 
-1. Keep [the things I was working on and towards](experiment-weeklynotes.md) present in my mind throughout the day _and_
+1. Keep [the things I was working on and towards](weeklynotes.md) present in my mind throughout the day _and_
 2. Make it easy for me to "reach" for a stock of strategies (read: quotes I found inspirational, things I thought to be true, etc.) I could use in moments where I felt faced with a choice that would could bring me in or out of alignment with how I was trying to be and what I was trying to do.
 
 ### Details

@@ -1,14 +1,14 @@
 # 🌞 welcome
 
 {% hint style="info" %}
-This space is, and will always be, a permanent work in progress.
+This place is, and will always be, a work in progress.
 {% endhint %}
 
 hi and welcome! I’m Peter.&#x20;
 
-Ping Practice is a place for me to experiment with strategies for building the self-knowledge I need to translate everyday experiences into insights and actions that align with what I need and value.
+Ping Practice is a place for me to experiment with strategies for unblocking myself.&#x20;
 
-Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or read about [the experiment that started this](experiment-dailynotes.md).
+Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or read about [the experiment that started this](experiments/dailynotes.md).
 
 ## Stream
 
