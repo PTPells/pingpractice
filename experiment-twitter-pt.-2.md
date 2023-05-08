@@ -61,9 +61,9 @@ _It usually goes like this..._\
 \
 _We'll start work on a range of tickets. There will be some subset of these tickets that I/we reference more often than others. As this happens, I start to memorize the numbers of these tickets. And then, because I've memorized these ticket numbers, I end up referencing these tickets in conversation and in my own thinking/writing more often._ \
 \
-_In doing so, I end up revisiting these tickets to contribute new information (no matter how small) and refine what's already there. I also link to these tickets In new tickets I create and comments I write_
+_In doing so, I end up revisiting these tickets to contribute new information (no matter how small) and refine what's already there. I also link to these tickets in the new tickets I create and comments I write elsewhere._&#x20;
 
-_ii._&#x20;
+[_All of this sums into discrete artifacts that reflect and "hold" what I/the team actually thinks and are linked together creating a legible record of what we did and did not decide/make over time the impact of which is, I think a team that can learn and evolve together and therefore feel more fluid making decisions, experimenting and trying things out._](#user-content-fn-2)[^2]
 
 ### 5 May
 
@@ -176,8 +176,10 @@ I finished [this past Monday (10 April) feeling](https://twitter.com/pingpractic
 
 This led me to experience, and subsequently [develop a bit more conviction around](https://twitter.com/pingpractice/status/1645606642724261888), the utility of  [the app](app.md) offering people an easy way to see what they've said on days/time that are similar to the moments they currently find themselves to be in and/or curious about.
 
-In response, I created a new view within Notion that enables me to easily [see what I've said "on this day" across time](#user-content-fn-2)[^2].
+In response, I created a new view within Notion that enables me to easily [see what I've said "on this day" across time](#user-content-fn-3)[^3].
 
 [^1]: Observations and updates
 
-[^2]: Ideally, the app will automatically know what day it is and surface relevant thoughts accordingly. Although, with this current set up in Notion, I'm still needing to manually input what day(s) of the week I'd like to see thoughts from.
+[^2]: this feels important.
+
+[^3]: Ideally, the app will automatically know what day it is and surface relevant thoughts accordingly. Although, with this current set up in Notion, I'm still needing to manually input what day(s) of the week I'd like to see thoughts from.
