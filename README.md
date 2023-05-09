@@ -6,7 +6,7 @@ This place is, and will always be, a work in progress.
 
 hi and welcome! I’m Peter.&#x20;
 
-Ping Practice is a place for me to experiment with strategies for unblocking myself.&#x20;
+Ping Practice is a place where I experiment with strategies to help me be open, clear, and present with the uncertainty that comes with living.
 
 Read more [about me](about.md), [get in touch](mailto:peter@pelberg.com), or read about [the experiment that started this](experiments/dailynotes.md).
 
