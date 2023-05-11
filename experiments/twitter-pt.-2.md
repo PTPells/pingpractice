@@ -35,7 +35,7 @@ Okay! Something is connecting and I'd like to try to map it out...
 
 I notice [the current Airtable set up](twitter-pt.-2.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../need-memory.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-2)[^2] _within_ the fleeting moments where I/he[^3] has sensed opportunities to apply them.
 
-Naming the above feels notable. Reason: in coming to realize this impact, I think I'm also starting to see the behaviors that may be contributing this slight behavior change emerging:
+Naming the above feels notable. Reason: in coming to realize this impact, I think I'm also starting to see the factors that may be contributing this slight behavior change emerging:
 
 1. I'm revisiting `🟢 Active` often.&#x20;
 2. In revisiting, I'm engaging with/"picking up"/thinking/considering what's there. Said another way, when I'm in `🟢 Active` , I'm active! I'm asking myself questions like, _"Is this card still relevant? How might I make this language more memorable? What picture/video might illustrate the essence of this card?"_
