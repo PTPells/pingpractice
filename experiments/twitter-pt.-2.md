@@ -23,6 +23,21 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ## Log[^1]
 
+### 11 May
+
+#### `🟢 Active` View and Jigs
+
+Okay! Something is connecting and I'd like to try to map it out...
+
+I notice [the current Airtable set up](twitter-pt.-2.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../need-memory.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-2)[^2] _within_ the fleeting moments where I/he[^3] has sensed opportunities to apply them.
+
+Naming the above feels notable. Reason: in coming to realize this impact, I think I'm also starting to see the behaviors that may be contributing this slight behavior change emerging:
+
+1. I'm revisiting `🟢 Active` often.&#x20;
+2. In revisiting, I'm engaging with/"picking up"/thinking/considering what's there. Said another way, when I'm in `🟢 Active` , I'm active! I'm asking myself questions like, _"Is this card still relevant? How might I make this language more memorable? What picture/video might illustrate the essence of this card?"_
+
+Put simply, I think "1." and "2." are causing these cards, and the messages they represent, to remain present in my mind when I'm out in the world, away from this interface.
+
 ### 7 May
 
 #### IDs + Record linking
@@ -63,7 +78,7 @@ _We'll start work on a range of tickets. There will be some subset of these tick
 \
 _In doing so, I end up revisiting these tickets to contribute new information (no matter how small) and refine what's already there. I also link to these tickets in the new tickets I create and comments I write elsewhere._&#x20;
 
-[_All of this sums into discrete artifacts that reflect and "hold" what I/the team actually thinks and are linked together creating a legible record of what we did and did not decide/make over time the impact of which is, I think a team that can learn and evolve together and therefore feel more fluid making decisions, experimenting and trying things out._](#user-content-fn-2)[^2]
+[_All of this sums into discrete artifacts that reflect and "hold" what I/the team actually thinks and are linked together creating a legible record of what we did and did not decide/make over time the impact of which is, I think a team that can learn and evolve together and therefore feel more fluid making decisions, experimenting and trying things out._](#user-content-fn-4)[^4]
 
 ### 5 May
 
@@ -154,7 +169,11 @@ _See:_ [_https://twitter.com/pingpractice/status/1650580408151740417_](https://t
 
 #### Search
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Just now, I was [saying something in @pingpractice](https://twitter.com/pingpractice/status/1646205350817955843?s=20). In the process, I noticed myself making a choice _not_ to use a possessive pronoun.  In making this choice, I thought to myself, "Oh this would be a good convention/pattern to name in the ["Personal syntax" are.na channel](https://www.are.na/peter-pelberg/personal-syntax) I started."
 
@@ -176,10 +195,14 @@ I finished [this past Monday (10 April) feeling](https://twitter.com/pingpractic
 
 This led me to experience, and subsequently [develop a bit more conviction around](https://twitter.com/pingpractice/status/1645606642724261888), the utility of  [the app](../app.md) offering people an easy way to see what they've said on days/time that are similar to the moments they currently find themselves to be in and/or curious about.
 
-In response, I created a new view within Notion that enables me to easily [see what I've said "on this day" across time](#user-content-fn-3)[^3].
+In response, I created a new view within Notion that enables me to easily [see what I've said "on this day" across time](#user-content-fn-5)[^5].
 
 [^1]: Observations and updates
 
-[^2]: this feels important.
+[^2]: "Allow blockers to reveal themselves through action." is the card I'm referring to here.
 
-[^3]: Ideally, the app will automatically know what day it is and surface relevant thoughts accordingly. Although, with this current set up in Notion, I'm still needing to manually input what day(s) of the week I'd like to see thoughts from.
+[^3]: this third person stuff gets complicated quickly!
+
+[^4]: this feels important.
+
+[^5]: Ideally, the app will automatically know what day it is and surface relevant thoughts accordingly. Although, with this current set up in Notion, I'm still needing to manually input what day(s) of the week I'd like to see thoughts from.
