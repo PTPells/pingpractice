@@ -27,6 +27,10 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 #### `🟢 Active` View and Jigs
 
+{% embed url="https://youtu.be/0sQO-Z4uXGg" %}
+Walkthrough of Drop Journal `🟢 Active` view as of 11 May 2023.
+{% endembed %}
+
 Okay! Something is connecting and I'd like to try to map it out...
 
 I notice [the current Airtable set up](twitter-pt.-2.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../need-memory.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-2)[^2] _within_ the fleeting moments where I/he[^3] has sensed opportunities to apply them.
