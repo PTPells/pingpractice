@@ -38,6 +38,11 @@ Naming the above feels notable. Reason: in coming to realize this impact, I thin
 
 Put simply, I think "1." and "2." are causing these cards, and the messages they represent, to remain present in my mind when I'm out in the world, away from this interface.
 
+_Resulting questions_&#x20;
+
+* [ ] _How opinionated/explicit should the interface be about prompting you to remove threads that are no longer meaningful to you from `🟢 Active?` E.g. Would it be useful for there to be some  limit to the number of threads/cards that can be active at any point in time?_
+* [ ] _How might the interface encourage you to iterate towards making these cards more memorable and meaningful? E.g. do cards within active have an upward character count?_&#x20;
+
 ### 7 May
 
 #### IDs + Record linking
