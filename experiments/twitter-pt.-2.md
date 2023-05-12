@@ -23,6 +23,14 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ## Log[^1]
 
+### 12 May
+
+#### Resonance Button + Count
+
+<figure><img src="../.gitbook/assets/Airtable resonance button and count.png" alt=""><figcaption></figcaption></figure>
+
+_#TODO_
+
 ### 11 May
 
 #### `🟢 Active` View and Jigs
