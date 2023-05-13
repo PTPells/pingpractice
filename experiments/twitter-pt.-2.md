@@ -35,6 +35,8 @@ I'm thinking this could be an effective way for my present self to say something
 
 While it feels important to me that interface present information/cues without being too opinionated about what – if any – action you take in response, I can immediately see the answer to the above being helpful for deciding what you might consider sketching a guide/tool for.
 
+Unfortunately, Airtable does not support scripts, and by extension the `✚` button on mobile :/
+
 ### 11 May
 
 #### `🟢 Active` View and Jigs
