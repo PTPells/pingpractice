@@ -27,9 +27,13 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 #### Resonance Button + Count
 
-<figure><img src="../.gitbook/assets/Airtable resonance button and count.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Airtable resonance button and count.png" alt="The new &#x22;+&#x22; button that appears on each Ping. When clicked, the integer in the &#x22;Resonance count&#x22; field gets incremented by one."><figcaption><p>The new "+" button that appears on each Ping. When clicked, the integer in the "Resonance count" field gets incremented by one.</p></figcaption></figure>
 
-_#TODO_
+Today, I added a button that, when clicked, increments an integer within the newly-added `Resonance count` field by one.&#x20;
+
+I'm thinking this could be an effective way for my present self to say something to the effect of, _"Hey, you seem to be curious about this."_ to my future self. A future self that could be wondering, "_What has been connecting/resonating with you lately?"_
+
+While it feels important to me that interface present information/cues without being too opinionated about what – if any – action you take in response, I can immediately see the answer to the above being helpful for deciding what you might consider sketching a guide/tool for.
 
 ### 11 May
 
