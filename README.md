@@ -4,7 +4,7 @@
 This place is, and will always be, a work in progress.
 {% endhint %}
 
-hi and welcome! I’m Peter.&#x20;
+hi and welcome! I’m Peter ^ \_ ^&#x20;
 
 Ping Practice is a place where I experiment with strategies to help me be open, clear, and present with the uncertainty that comes with living.
 
