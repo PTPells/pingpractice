@@ -2,15 +2,15 @@
 description: Experimenting with new ways to revisit Pings
 ---
 
-# Twitter Pt. 2
+# Revisiting
 
 {% hint style="info" %}
 This experiment started on 10 April 2023.
 {% endhint %}
 
-The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the behavior it was intended to help me evaluate – [noticing and naming Pings](../method.md) – stuck[^1].&#x20;
+The [Twitter experiment](twitter.md) proved successful in so far as the behavior it was intended to help me evaluate – [noticing and naming Pings](../method.md) – stuck[^1].&#x20;
 
-[Motived to experiment](twitter-pt.-1.md#impact-and-conclusions) with ways to simulate the serendipitous revisiting and discovery [the app describes](../app.md) and prompted by a conversation with [Prateek](https://prtksxna.com/), this experiment is an effort to prototype a distinct place I can go to revisit and discover past Pings.\
+[Motived to experiment](twitter.md#impact-and-conclusions) with ways to simulate the serendipitous revisiting and discovery [the app describes](../app.md) and prompted by a conversation with [Prateek](https://prtksxna.com/), this experiment is an effort to prototype a distinct place I can go to revisit and discover past Pings.\
 
 
 ## Research questions&#x20;
@@ -47,7 +47,7 @@ Walkthrough of Drop Journal `🟢 Active` view as of 11 May 2023.
 
 Okay! Something is connecting and I'd like to try to map it out...
 
-I notice [the current Airtable set up](twitter-pt.-2.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../need-memory.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-3)[^3] _within_ the fleeting moments where I/he[^4] has sensed opportunities to apply them.
+I notice [the current Airtable set up](revisiting.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../need-memory.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-3)[^3] _within_ the fleeting moments where I/he[^4] has sensed opportunities to apply them.
 
 Naming the above feels notable. Reason: in coming to realize this impact, I think I'm also starting to see the factors that may be contributing this slight behavior change emerging:
 
