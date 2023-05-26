@@ -12,6 +12,3 @@ Unbeknownst to me at the time, [this first experiment](experiments/dailynotes.md
 
 Until now, I’ve kept these experiments to myself. This place is a way to make what I'm learning legible enough for my future self to build on. It also serves as a reference, an anchor...a "place" I can leave from, come back to, and use to orient when I feel "far away."
 
-
-
-<figure><img src=".gitbook/assets/Ping-Practice.png" alt=""><figcaption></figcaption></figure>

@@ -38,9 +38,8 @@ Each phase of the experiment is meant to guide people through, what I currently 
 
 1. **Name** moments when you notice yourself stuck or moved
 2. **Revisit** what you've named to explore and elaborate on what speaks to you
-3. **Create** cues and prompts your future self can remember in the fleeting moments when you sense opportunities to apply them.
-4. **Make choices** that align with what you believe, need, and value.
+3. **Create** cues and prompts your future self can call on to unblock yourself
+4. **Make self-supporting choices**
 
 To provide some orientation as experimenters go about doing the above, each has sketched out a few outcomes they would feel energized about realizing by thee end of the four week experiment.
 
-## Observations
