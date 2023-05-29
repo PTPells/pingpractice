@@ -16,8 +16,8 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ## Research questions&#x20;
 
-1. _Does the journaling method reliably lead people to developing insights and a practice of unblocking themselves?_
-2. _How might the method, the way it's communicated, and the design of the_ [_first app iteration_](../app.md) _be improved to increase the likelihood that people develop a practice of unblocking themselves?_
+1. _What happens when there is a dedicated place for me to browse, search, edit, elaborate on, and organize the Pings I capture? What do I notice myself instinctively needing/wanting to do? What do I notice myself NOT instinctively doing/thinking about?_
+2. _How might the design of the_ [_first app iteration_](../app.md) _need to evolve in order to more reliably lead people to develop a practice of arriving at the insights and creating the meaningful artifacts that will help them unblock themselves?_
 
 ## Impact & Conclusions
 
@@ -26,8 +26,6 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 ## Details
 
 \#TODO
-
-
 
 ## Log[^2]
 
