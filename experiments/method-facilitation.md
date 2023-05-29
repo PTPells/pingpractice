@@ -22,6 +22,10 @@ This experiment is an effort to answer the following research questions:
 
 ## Impact & Conclusions
 
+{% hint style="info" %}
+_Conclusions will be documented once experiment concludes._
+{% endhint %}
+
 ## Experiment Design
 
 What follows is an outline of how I've structured this initial experiment. &#x20;
