@@ -8,6 +8,8 @@ description: Experimenting with new ways to revisit Pings
 This experiment started on 10 April 2023.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/Journaling Method (1) (1).png" alt=""><figcaption><p>Improvised Drop Journal experience using existing apps.</p></figcaption></figure>
+
 The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the behavior it was intended to help me evaluate – [noticing and naming Pings](../method.md) – stuck[^1].&#x20;
 
 [Motived to experiment](twitter-pt.-1.md#impact-and-conclusions) with ways to simulate the serendipitous revisiting and discovery [the app describes](../app.md) and prompted by a conversation with [Prateek](https://prtksxna.com/), this experiment is an effort to prototype a distinct place I can go to revisit and discover past Pings.\
