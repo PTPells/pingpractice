@@ -11,7 +11,7 @@
   * [Phase #2](conversations/phase-2.md)
 * [Experiments](experiments/README.md)
   * [Method Facilitation](experiments/method-facilitation.md)
-  * [Revisiting](experiments/twitter-pt.-2.md)
+  * [Drop Journal v0.1](experiments/drop-journal-v0.1.md)
   * [Voice memos](experiments/voice-memos.md)
   * [Twitter](experiments/twitter-pt.-1.md)
   * [Quick capture](experiments/quick-capture.md)

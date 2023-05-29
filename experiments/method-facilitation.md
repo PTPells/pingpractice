@@ -11,7 +11,7 @@ This experiment started on 7 April 2023.\
 
 To date, [I](../about.md)[ have been](../about.md) the main research subject [on a quest](../need-memory.md) to remember what I learn and believe in the fleeting moments where I sense opportunities to apply them.
 
-This experiment marks the first time other people will be experimenting with [the method](../method.md) with me by using [the improvised capture and revisiting workflows.](twitter-pt.-2.md)
+This experiment marks the first time other people will be experimenting with [the method](../method.md) with me by using [the improvised capture and revisiting workflows.](drop-journal-v0.1.md)
 
 ## Research questions&#x20;
 

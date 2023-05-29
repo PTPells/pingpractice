@@ -1,8 +1,8 @@
 ---
-description: Experimenting with new ways to revisit Pings
+description: Using existing apps to approximate Drop Journal design
 ---
 
-# Revisiting
+# Drop Journal v0.1
 
 {% hint style="info" %}
 This experiment started on 10 April 2023.
@@ -53,7 +53,7 @@ Walkthrough of Drop Journal `🟢 Active` view as of 11 May 2023.
 
 Okay! Something is connecting and I'd like to try to map it out...
 
-I notice [the current Airtable set up](twitter-pt.-2.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../need-memory.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-3)[^3] _within_ the fleeting moments where I/he[^4] has sensed opportunities to apply them.
+I notice [the current Airtable set up](drop-journal-v0.1.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../need-memory.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-3)[^3] _within_ the fleeting moments where I/he[^4] has sensed opportunities to apply them.
 
 Naming the above feels notable. Reason: in coming to realize this impact, I think I'm also starting to see the factors that may be contributing this slight behavior change emerging:
 
