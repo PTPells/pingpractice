@@ -4,6 +4,20 @@
 "Ping Practice" is a working name.
 {% endhint %}
 
+<div>
+
+<figure><img src=".gitbook/assets/Capture" alt=""><figcaption><p>Capture</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/One by one" alt=""><figcaption><p>One by one review</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/All pings" alt=""><figcaption><p>All pings</p></figcaption></figure>
+
+</div>
+
 Ping Practice is a bit like "Apple Photos or Google Photos for your thoughts."&#x20;
 
 The app combines a way to quickly capture tiny thoughts with a “for you” page that resurfaces these thoughts at a later time so that you can make sense of them.
