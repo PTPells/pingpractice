@@ -5,8 +5,7 @@ description: Facilitating other people through the method.
 # Method Facilitation
 
 {% hint style="info" %}
-This experiment started on 7 April 2023.\
-
+This experiment started on 7 April 2023.
 {% endhint %}
 
 To date, [I](../about.md)[ have been](../about.md) the main research subject [on a quest](../need-memory.md) to remember what I learn and believe in the fleeting moments where I sense opportunities to apply them.
