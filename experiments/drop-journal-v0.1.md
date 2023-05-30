@@ -29,6 +29,25 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ## Log[^2]
 
+### 29 May
+
+_I want to tidy these notes up..._
+
+* instinct to archive "..reliably produce coherent structure" (bit of language I resonated with and have since used)
+* adding comment to contextualize a quick ping "urgency instilled"
+* amazing how quickly i can remember the moments these thoughts emerged within. reminds me of the bit about forgetting:
+  * I have more to say here, but the important thing to me in this moment is the freedom from thinking that it is me who is breaking. It is not me. It is the tools themselves and I need more from them. [source](http://maybeuseful.org/posts/Forgetting/)
+* i'd like to see what's resonated with me over time
+* i'd like to be able to turn a ping into a timer
+  * context: [https://twitter.com/pingpractice/status/1648571314687586304](https://twitter.com/pingpractice/status/1648571314687586304)
+* maybe there's an activity feed?
+  * [https://twitter.com/pingpractice/status/1650384272770088960](https://twitter.com/pingpractice/status/1650384272770088960)
+  * another way to find your way back
+  *   something about the idea of "bumping" something to the top (actually, maybe it's a "resonance" view sorted from highest to lowest?)
+
+      \
+
+
 ### 12 May
 
 #### Resonance Button + Count
