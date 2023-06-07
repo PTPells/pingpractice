@@ -29,6 +29,14 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ## Log[^2]
 
+### 6 June&#x20;
+
+<figure><img src="../.gitbook/assets/IMG_82FD41932DD8-1.jpeg" alt="" width="188"><figcaption><p>The view I typically land on when opening my Drop Journal.</p></figcaption></figure>
+
+When I open Airtable in low-intent moments to browse through past pings, I notice myself gravitating towards shorter entries and quickly bypassing longer ones.&#x20;
+
+I wonder if this pattern could be explained, in part, by how little attention I feel motivated to expend in these in-between moments and how quickly something needs to grab my attention for me to become engaged.&#x20;
+
 ### 29 May
 
 _I want to tidy these notes up..._
