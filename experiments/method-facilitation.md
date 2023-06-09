@@ -35,7 +35,7 @@ Everyone, regardless of how familiar they were with this project, has been doing
 
 1. Using Broadcast + Twitter to name (read: ascribe language to) moments when they notice themselves stuck or moved
 2. Using Airtable or Notion) to revisit the what they are naming
-3. Meeting with [me](../about.md) for thirty minutes each week (for four weeks) to reflect on what they're noticing
+3. Meeting with [me](../about.md) a few times to reflect on what they're noticing
 
 Each phase of the experiment is meant to guide people through, what I currently understand to be, the four key moments of the method:
 
