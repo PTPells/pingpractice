@@ -8,9 +8,11 @@ description: Facilitating other people through the method.
 This experiment started on 7 April 2023.
 {% endhint %}
 
-To date, [I](../about.md)[ have been](../about.md) the main research subject [on a quest](../need-memory.md) to remember what I learn and believe in the fleeting moments where I sense opportunities to apply them.
+<figure><img src="../.gitbook/assets/Journaling Method (1).png" alt=""><figcaption></figcaption></figure>
 
-This experiment marks the first time other people will be experimenting with [the method](../method.md) with me by using [the improvised capture and revisiting workflows.](drop-journal-v0.1.md)
+To date, [I](../about.md)[ have been](../about.md) the main research subject [on a quest](../need-memory.md) to develop a practice of unblocking myself.
+
+This experiment marks the first time other people will be experimenting with [the method](../method.md) by using [the improvised capture and revisiting workflows.](drop-journal-v0.1.md)
 
 ## Research questions&#x20;
 
@@ -27,14 +29,14 @@ _Conclusions will be documented once experiment concludes._
 
 ## Experiment Design
 
-What follows is an outline of how I've structured this initial experiment. &#x20;
+_What follows is an outline of how this initial experiment is being structured_.
 
 The initial cohort of experimenters included six people, five of which were familiar with, and in some cases, contributing to this project prior to the experiment beginning.
 
 Everyone, regardless of how familiar they were with this project, has been doing the following:
 
-1. Using Broadcast + Twitter to name (read: ascribe language to) moments when they notice themselves stuck or moved
-2. Using Airtable or Notion) to revisit the what they are naming
+1. Using Broadcast + Twitter to name moments when they notice themselves stuck and/or moved
+2. Using Airtable to revisit the what they are naming
 3. Meeting with [me](../about.md) a few times to reflect on what they're noticing
 
 Each phase of the experiment is meant to guide people through, what I currently understand to be, the four key moments of the method:
@@ -44,5 +46,5 @@ Each phase of the experiment is meant to guide people through, what I currently 
 3. **Create** cues and prompts your future self can call on to unblock yourself
 4. **Make self-supporting choices**
 
-To provide some orientation as experimenters go about doing the above, each has sketched out a few outcomes they would feel energized about realizing by thee end of the four week experiment.
+To provide some orientation as experimenters go about doing the above, each has sketched out a few outcomes they would feel energized about realizing by the end of the week experiment.
 
