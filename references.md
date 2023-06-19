@@ -2,6 +2,14 @@
 
 
 
+### Feist  [_Broken Record Interview_](https://youtu.be/6Ih6RjRYepA?t=1728)
+
+> It was a way to strip myself of all of the rules that I'd come up with that they were like collated invisibly over time. \
+> \
+> Like, "_Okay , I don't, I shouldn't do that anymore because that didn't work. Okay, so now I have rule number one. Now, I shouldn't play multiple shows in the same city because it seems that by the third show it's strange and it doesn't feel right. So, okay, no more multiples. Or like, technically I should use my pedal chain this way because that's the way that seems to work best_."\
+> \
+> I had kind of collected this armature of all of these things that I knew in air quotes because I...was just limiting myself. I created all these conditions that kind of disempowered me at the core where I thought that I could only be what I am and do what I do if these conditions were in place. And so, slowly slowly slowly I lost my scissor kicking punk clarity of vision and I became, like, a professional who in that transition kind of lost access to like the primary energetic truth surge that it makes sound out of my body.
+
 ### Plato [_Phaedrus_](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DPhaedrus%3Apage%3D275)
 
 > For this invention \[writing] will produce forgetfulness in the minds of those who learn to use it, because they will not practice their memory. Their trust in writing, produced by external characters which are no part of themselves, will discourage the use of their own memory within them. You have invented an elixir not of memory, but of reminding; and you offer your pupils the appearance of wisdom, not true wisdom, for they will read many things without instruction and will therefore seem \[275b] to know many things, when they are for the most part ignorant and hard to get along with, since they are not wise, but only appear wise.
