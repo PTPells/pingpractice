@@ -29,7 +29,21 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ## Log[^2]
 
-### 6 June&#x20;
+###
+
+### 25 June 2023
+
+_Automations_
+
+<figure><img src="../.gitbook/assets/Active ping automation.png" alt=""><figcaption><p>"Each morning, email me a list of the pings I've marked as active"</p></figcaption></figure>
+
+Woah, this morning (Sunday) as I was revisiting the pings I've sent over the past week I learned about the "Automation" functionality Airtable offers.
+
+To start, I've set up an automation that will send me an email me each morning with a list of the pings within the "🟢 Active" view. _This view is filled with the pings I've said I'd like to remember / keep top of mind._
+
+I think I was immediately attracted to the potential of [the Automation functionality](https://support.airtable.com/docs/getting-started-with-airtable-automations) because I've noticed myself **not** revisiting the intentions within the  "🟢 Active" view consistently. As a result, when I do revisit the view, I find the pings that are there stale/no longer as resonant or relevant. I wonder if the view itself being more present in my mind might cause me to more actively tend to and use the space for what I originally needed it for: to help me remember the intentions I'm trying to embody.
+
+### 6 June  2023
 
 <figure><img src="../.gitbook/assets/IMG_82FD41932DD8-1.jpeg" alt="" width="188"><figcaption><p>The view I typically land on when opening my Drop Journal.</p></figcaption></figure>
 
@@ -37,7 +51,7 @@ When I open Airtable in low-intent moments to browse through past pings, I notic
 
 I wonder if this pattern could be explained, in part, by how little attention I feel motivated to expend in these in-between moments and how quickly something needs to grab my attention for me to become engaged.&#x20;
 
-### 29 May
+### 29 May 2023
 
 _I want to tidy these notes up..._
 
@@ -56,7 +70,7 @@ _I want to tidy these notes up..._
       \
 
 
-### 12 May
+### 12 May 2023
 
 #### Resonance Button + Count
 
@@ -70,7 +84,7 @@ While it feels important to me that interface present information/cues without b
 
 Unfortunately, Airtable does not support scripts, and by extension the `✚` button on mobile :/
 
-### 11 May
+### 11 May 2023
 
 #### `🟢 Active` View and Jigs
 
@@ -94,7 +108,7 @@ _Resulting questions_&#x20;
 * [ ] _How opinionated/explicit should the interface be about prompting you to remove threads that are no longer meaningful to you from `🟢 Active?` E.g. Would it be useful for there to be some  limit to the number of threads/cards that can be active at any point in time?_
 * [ ] _How might the interface encourage you to iterate towards making these cards more memorable and meaningful? E.g. do cards within active have an upward character count?_&#x20;
 
-### 7 May
+### 7 May 2023
 
 #### IDs + Record linking
 
@@ -136,7 +150,7 @@ _In doing so, I end up revisiting these tickets to contribute new information (n
 
 [_All of this sums into discrete artifacts that reflect and "hold" what I/the team actually thinks and are linked together creating a legible record of what we did and did not decide/make over time the impact of which is, I think a team that can learn and evolve together and therefore feel more fluid making decisions, experimenting and trying things out._](#user-content-fn-5)[^5]
 
-### 5 May
+### 5 May 2023
 
 #### Marking a thread as active
 
@@ -153,7 +167,7 @@ To provide that support, I'm going to experiment with doing the following:
 3. Associating a picture with this thread so that it's more memorable and easier for me to arrive into the mindset it's asking me to.
 4. Using Airtable's native Commenting feature to hold any thoughts that may emerge in the future. _Note: this one feels notable in so far as it's the first time I'm branching out from Twitter as the sold mode of composing._
 
-### 3 May
+### 3 May 2023
 
 #### Prompting / Scripting
 
@@ -179,7 +193,7 @@ What if I act like Obi does:&#x20;
 2. In the time between each "improve sessions" I'll log all the ideas that surface to me in a consistent place.
 3. When I arrive at the "studio" I'll "swipe through" the ideas that I've accrued through "2." and act on one that speaks to me.
 
-### 27 April&#x20;
+### 27 April 2023
 
 #### Pinned
 
@@ -189,13 +203,13 @@ I'm starting to use the "Pin" field I set up yesterday which in turn inspired me
 
 _Aside: I wonder if it might be interesting to call – what I'd previosuly been referring to as "Favorites" – simply "Active"...at least by default. Keep it simple, generic, and uncomplicated by people bringing existing meaning and expectation(s) to the word._
 
-### 26 April
+### 26 April 2023
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-04-26 at 10.48.17 AM.png" alt=""><figcaption></figcaption></figure>
 
 Added a "Pin" field that I'm thinking I can use to mark and quickly return to thoughts I want to more easily revisit.
 
-### 24 April
+### 24 April 2023
 
 #### Dashboard
 
@@ -221,7 +235,7 @@ _See:_ [_https://twitter.com/pingpractice/status/1650580408151740417_](https://t
 
 
 
-### 12 April
+### 12 April 2023
 
 #### Search
 
@@ -241,7 +255,7 @@ I then went to Notion to search for `pronoun` which quickly returned what I've s
 
 Before Monday, I would've gone directly to Twitter to attempt the search above which  past experiences have led me to doubt whether that search would return the Tweets I'm fairly certain existed.
 
-### 11 April
+### 11 April 2023
 
 #### Day/time lens/filter
 
