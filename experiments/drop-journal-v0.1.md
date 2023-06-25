@@ -35,13 +35,25 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 _Automations_
 
-<figure><img src="../.gitbook/assets/Active ping automation.png" alt=""><figcaption><p>"Each morning, email me a list of the pings I've marked as active"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Active ping automation.png" alt="Screenshot showing Airtable&#x27;s &#x22;Automation&#x22; functionality in the desktop Mac app"><figcaption><p>"Each morning, email me a list of the pings I've marked as active"</p></figcaption></figure>
 
 Woah, this morning (Sunday) as I was revisiting the pings I've sent over the past week I learned about the "Automation" functionality Airtable offers.
 
 To start, I've set up an automation that will send me an email me each morning with a list of the pings within the "🟢 Active" view. _This view is filled with the pings I've said I'd like to remember / keep top of mind._
 
 I think I was immediately attracted to the potential of [the Automation functionality](https://support.airtable.com/docs/getting-started-with-airtable-automations) because I've noticed myself **not** revisiting the intentions within the  "🟢 Active" view consistently. As a result, when I do revisit the view, I find the pings that are there stale/no longer as resonant or relevant. I wonder if the view itself being more present in my mind might cause me to more actively tend to and use the space for what I originally needed it for: to help me remember the intentions I'm trying to embody.
+
+_Say more_
+
+<div data-full-width="false">
+
+<figure><img src="../.gitbook/assets/Comments as draft space (1).PNG" alt="Screenshot showing Airtable commenting functionality in iOS app" width="188"><figcaption><p>Using comments as a draft space</p></figcaption></figure>
+
+</div>
+
+I continue to love having the ability to "say more" about a ping that speaks to me as I'm going back and revisiting.
+
+Earlier today, I happened upon a ping about a new potential are.na channel and immediately felt compelled to start using Airtable's commenting feature to start drafting a potential description for the yet-to-be created channel. A little bit of movement and progress made possible by the tool I needed in that very moment being close by!
 
 ### 6 June  2023
 
