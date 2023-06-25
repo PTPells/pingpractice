@@ -2,6 +2,12 @@
 
 
 
+### Massanobu Fukuoka [_The One-Straw Revolution_](https://www.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919)
+
+> Nature , or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamor caused by desire and by the activity of the discriminating mind.
+
+
+
 ### Feist  [_Broken Record Interview_](https://youtu.be/6Ih6RjRYepA?t=1728)
 
 > It was a way to strip myself of all of the rules that I'd come up with that they were like collated invisibly over time. \
