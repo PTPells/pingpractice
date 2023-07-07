@@ -31,6 +31,24 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ###
 
+###
+
+### 7 July 2023
+
+_Making "🟢 Active" a daily act_
+
+I'm coming to find that what I need to be reminded of is dynamic; it varies day-by-day. And yet, I'm still not yet feeling like the "🟢 Active" view inspires me to revisit and reprogram it at a commensurate cadence. &#x20;
+
+The [automated email](drop-journal-v0.1.md#25-june-2023) is helping some. Seeing the "🟢 Active" email arrive each day has caused the space itself to become more top of mind, but I've yet to find myself going into Airtable and asking myself, _"Which of these are still relevant for today? Which is relevant for today that might not currently be represented?"_ and acting on the answers.&#x20;
+
+With this context in mind, an idea emerged this past weekend (30 June): I set an intention for a defined period of time:
+
+<figure><img src="../.gitbook/assets/ActivePing-30June.png" alt="Screenshot of ping that reads, &#x22;for this weekend, please choose closeness&#x22;" width="375"><figcaption><p>Intention for set for the weekend of 30 June</p></figcaption></figure>
+
+This worked for me! I remembered the intention and for the most part, embodied it.
+
+The success of this little experiment brought me back to think about  "🟢 Active" and wondering whether the pings within it ought to be bounded by time in some way. I feel like I'd rather arrive in active and there be nothing there than arrive there and the contents feel stale. I worry that in the latter scenario, the value of the view itself starts to degrade over time. I also wonder how the view might feel more delightful, more inspiring...I want to arrive in "🟢 Active" and feel pulled to touch things, move things, "pick things up," etc.&#x20;
+
 ### 25 June 2023
 
 _Automations_
