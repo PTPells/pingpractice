@@ -2,6 +2,10 @@
 
 
 
+{% hint style="success" %}
+This experiment is complete. 11 years later, I continue writing myself a letter each year. Usually, in the fall or winter.
+{% endhint %}
+
 <div>
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-07-20 at 11.02.07 PM.png" alt=""><figcaption><p>The first "yearly-letter" I wrote on 31 December 2012.</p></figcaption></figure>
