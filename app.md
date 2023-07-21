@@ -18,32 +18,29 @@
 
 </div>
 
-Ping Practice is a bit like "Apple Photos or Google Photos for your thoughts."&#x20;
+You can think of the Ping Practice app as a pause button.&#x20;
 
-The app combines a way to quickly capture tiny thoughts with a “for you” page that resurfaces these thoughts at a later time so that you can make sense of them.
+When you sense yourself resonating with or resisting something, Ping Practice invites you to name what is giving rise to that sensation.
 
-“Sense” that could take the form of a:
+In the Ping Practice universe, we call these “pings.”
 
-* _Name to order a series of observations_
-* _Next step to experiment with_
-* _Need that might explain a pattern of reactions_
-* _Value that is important to you_
-* _Question that helps you focus_
-* _Affirmation that empowers you_
-* _Reminder that helps you stay on track and keep going_
-* _etc._
+No categorizing or sensemaking. In these tiny moments, you’re simply creating a breadcrumb for your future self.
 
-Ping Practice is built on [a methodology for turning everyday awareness into insights](https://ping-practice.gitbook.io/pings/ping-practice). Ping assumes that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues. Clues whose meaning gets unlocked through:
+Ping Practice treats each of these pings as standalone thoughts that you can leisurely explore and reflect on at a later time.
 
-1. Noticing&#x20;
-2. Naming&#x20;
-3. Revisiting&#x20;
-4. Engaging
-5. Remembering&#x20;
-6. Applying
+When you happen upon a past ping that resonates, Ping Practice meets you with tools to:
 
-Over the past five years, I've [experimented with various tools and workflows](https://ping-practice.gitbook.io/pings/about) that have helped me converge on this method and more recently, become clear about [the need for it to be more accessible](https://ping-practice.gitbook.io/pings/need-memory).
+* **Bump** pings you want to remember to the top
+* **Reply** to pings you have more to say about
+* **Edit** pings you’d like to refine&#x20;
+* **Explore** the relationships between pings using a range of filters&#x20;
 
-Ping Practice is an experiment to bring steps that have been spread across different apps, notebooks, text files, post-it notes, and 3x5 cards into a cohesive flow that feels simple, snappy, configurable, and small enough to be useful without having to think about.
+### Zooming out
 
-Ping Practice is trying to help you develop a practice of “connecting the dots” and acting on the insights you converge on.
+Ping Practice assumes insights and ideas start in our senses and become legible to our thinking minds through reflection.
+
+The idea was borne out of me [noticing a pattern](need-memory.md)...
+
+There were a shifting handful of intentions that felt important for me to remember in any given moment. Intentions that I was overriding because of the attraction I felt to the familiar and how afraid I was of uncertainty.
+
+Motivated by the fear of remaining stuck in old patterns,  in 2012, I started [experimenting with various tools and workflows](experiments/). Through 10 years of experimentation, the past 4.5 of which have overlapped with me [building and designing Wikipedia's core editing and communication tools](https://www.mediawiki.org/wiki/Editing\_team),  I converged on [the method](method.md) the Ping Practice app is built on.&#x20;
