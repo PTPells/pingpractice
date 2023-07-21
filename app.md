@@ -1,8 +1,8 @@
-# App
+---
+description: Develop a practice of unblocking yourself.
+---
 
-{% hint style="info" %}
-"Ping Practice" is a working name.
-{% endhint %}
+# App
 
 <div>
 
