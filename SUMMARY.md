@@ -17,5 +17,6 @@
   * [Quick capture](experiments/quick-capture.md)
   * [WeeklyNotes](experiments/weeklynotes.md)
   * [DailyNotes](experiments/dailynotes.md)
+  * [Yearly Letters](experiments/yearly-letters.md)
 * [Prompts](questions.md)
 * [Meta](meta.md)
