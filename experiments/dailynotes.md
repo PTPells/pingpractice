@@ -43,7 +43,7 @@ I started to see how these choices could bring me in more or less alignment with
 
 I wasn’t remembering these truths and that voice in the situations when I needed them most: moments when I had opportunities to put them into practice. There was still a disconnect between what I had "learned"  from and in the past and how I was thinking and acting in the present.
 
-The DailyNotes Experiment helped me to see and name this incoherence as [an unmet need related to recalling the past](../need-memory.md).
+The DailyNotes Experiment helped me to see and name this incoherence as [an unmet need related to recalling the past](../needs.md).
 
 ### Details
 

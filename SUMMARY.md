@@ -2,7 +2,7 @@
 
 * [🌞 welcome](README.md)
 * [About](about.md)
-* [Need: Memory](need-memory.md)
+* [Needs](needs.md)
 * [References](references.md)
 * [Method](method.md)
 * [App](app.md)

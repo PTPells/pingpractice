@@ -39,7 +39,7 @@ When you happen upon a past ping that resonates, Ping Practice meets you with to
 
 Ping Practice assumes insights and ideas start in our senses and become legible to our thinking minds through reflection.
 
-The idea was borne out of me [noticing a pattern](need-memory.md)...
+The idea was borne out of me [noticing a pattern](needs.md)...
 
 There were a shifting handful of intentions that felt important for me to remember in any given moment. Intentions that I was overriding because of the attraction I felt to the familiar and how afraid I was of uncertainty.
 

@@ -6,7 +6,7 @@ This experiment is complete. It clarified for me the power in compressing intent
 
 ### Description
 
-The [DailyNotes Experiment](dailynotes.md) helped me to become clear about [needing a way to remember](../need-memory.md) how I wanted to be and what I wanted to be working towards.
+The [DailyNotes Experiment](dailynotes.md) helped me to become clear about [needing a way to remember](../needs.md) how I wanted to be and what I wanted to be working towards.
 
 To hold myself accountable to articulating a set of intentions and to make it easier for me to remember them, I created a new page called WeeklyNotes. This was the single place where I would write and iterate on the intentions I was trying to keep top of mind for me during a given week.
 

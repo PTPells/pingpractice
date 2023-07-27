@@ -1,13 +1,13 @@
-# Need: Memory
+# Needs
 
 {% hint style="warning" %}
-This need remains unmet. I am actively [working on a solution](app.md) to address it.
+These needs remains unmet. I am actively [working on a solution](app.md) to address it.
 {% endhint %}
 
 ### Needs
 
-1. I need to remember what I have learned so that I am prepared to apply these lessons in the fleeting moments where I have opportunities to do so.
-2. I need to remember how and why I want to evolve so that I can resist reflexes to think and act in ways that are no longer useful to me and out of alignment with what I need/value/believe/etc.
+1. _I need to remember what I have learned and experienced so that I am prepared to apply these lessons in the fleeting moments where I have opportunities to do so._
+2. _I need to remember how and why I want to evolve so that I can resist reflexes to make choices borne out of an attraction to familiarity and a fear of uncertainty._
 
 ### Context
 

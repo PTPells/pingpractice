@@ -10,7 +10,7 @@ This experiment started on 7 April 2023.
 
 <figure><img src="../.gitbook/assets/Journaling Method (1).png" alt=""><figcaption></figcaption></figure>
 
-To date, [I](../about.md)[ have been](../about.md) the main research subject [on a quest](../need-memory.md) to develop a practice of unblocking myself.
+To date, [I](../about.md)[ have been](../about.md) the main research subject [on a quest](../needs.md) to develop a practice of unblocking myself.
 
 This experiment marks the first time other people will be experimenting with [the method](../method.md) by using [the improvised capture and revisiting workflows.](drop-journal-v0.1.md)
 

@@ -25,6 +25,6 @@ To decide whether we would continue investing time and energy into making the ap
 
 Between **August 2021** and **August 2022**, I talked with \~30 people who I knew to be intentional and creative.&#x20;
 
-I was motivated to develop a sense for whether the [need I had noticed](../need-memory.md) was a need other people experienced as well. This way, we ([David](https://www.davidgoligorsky.com/index.html) and I) could gauge the [the solution's ](../app.md)potential appeal and decide whether the need was a stable/durable enough reference point to orient the design of the app around.
+I was motivated to develop a sense for whether the [need I had noticed](../needs.md) was a need other people experienced as well. This way, we ([David](https://www.davidgoligorsky.com/index.html) and I) could gauge the [the solution's ](../app.md)potential appeal and decide whether the need was a stable/durable enough reference point to orient the design of the app around.
 
 ## &#x20;

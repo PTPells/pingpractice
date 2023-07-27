@@ -30,7 +30,7 @@ The goals here being to learn:
 
 ### Motivation&#x20;
 
-The [DailyNotes experiment](dailynotes.md) led me to see [improving my memory and recall](../need-memory.md) as core to helping me evolve past reflexes that were no longer useful to me.&#x20;
+The [DailyNotes experiment](dailynotes.md) led me to see [improving my memory and recall](../needs.md) as core to helping me evolve past reflexes that were no longer useful to me.&#x20;
 
 Drawing inspiration from flash cards, [spaced repetition](https://en.wikipedia.org/wiki/Spaced\_repetition), and [lateral thinking techniques](https://en.wikipedia.org/wiki/Lateral\_thinking) (namely [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique\_Strategies)) I sought to come up with a flow that would enable me to quickly create and revisit digital cards.
 
