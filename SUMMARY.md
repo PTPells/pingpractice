@@ -20,3 +20,4 @@
   * [Yearly Letters](experiments/yearly-letters.md)
 * [Prompts](questions.md)
 * [Meta](meta.md)
+* [Prototype: Ping Randomizer](prototype-ping-randomizer.md)
