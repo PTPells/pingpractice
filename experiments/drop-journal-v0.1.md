@@ -31,7 +31,15 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ###
 
-###
+### 18 August 2023
+
+_Sharing Pings with another person_
+
+Natalia and I talking led to me sharing my screen with her and scrolling back through Airtable, showing what's pinged for me recently.
+
+While doing so, I noticed myself feeling at ease and grateful. Both by the content of the pings I was revisiting and the space this friend has generously opened for me to do so.
+
+I also noticed this act prompted Natalia and I to talk about what we were both seeing. That part felt especially nourishing and inspiring to me.
 
 ### 7 July 2023
 
