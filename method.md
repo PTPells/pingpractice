@@ -1,21 +1,45 @@
+---
+description: Develop a practice of unblocking yourself.
+---
+
 # Method
 
 <figure><img src=".gitbook/assets/Cards_Sketching.png" alt="A circular diagram showing Ping Practice&#x27;s steps: Name, Notice, Revisit, Edit/Respond/Relate, Remember, and Apply"><figcaption><p>Ping Practice</p></figcaption></figure>
 
-Ping Practice is a method I'm developing for translating everyday experiences into insights and actions that align with what you need and value.
+Ping Practice is a method for developing a practice of unblocking yourself.
 
-Insights that can take the form of things like:
+You can think of the method a bit like using a pause button or a camera...
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Affirmation</strong> that empowers you to take a next step</td><td></td><td></td></tr><tr><td><strong>Question</strong> that creates clarity</td><td></td><td><p></p><p></p></td></tr><tr><td><strong>Need</strong> that motivates you to speak up</td><td></td><td></td></tr><tr><td><strong>Name</strong> that helps connect disparate experiences</td><td></td><td></td></tr><tr><td><strong>Value</strong> that informs a decision you need to make</td><td></td><td></td></tr><tr><td><strong>Reminder</strong> that helps you stay on track</td><td></td><td></td></tr><tr><td><strong>Awareness</strong> that enables you to detect what is happening and could happen next</td><td></td><td></td></tr></tbody></table>
+...when you notice yourself resonating with or resisting something, the method invites you to name what's giving rise to that sensation and then letting it go.&#x20;
 
-## Method
+No categorizing or sensemaking. In these tiny moments, you’re simply creating a breadcrumb for your future self.
 
-### Components
+"Pings" as we call them in the Ping Practice universe,  are treated as standalone, timestamped thoughts that you can leisurely browse, relate, and reflect on at a later time.&#x20;
 
-Ping Practice is made up of two core components:
+When you happen upon a past ping that resonates, the method invites you to:
 
-1. A type of thought called a "[Ping](method.md#ping)"
-2. A [process](method.md#process) for uncovering the meaning within these "Pings"
+1. **Bump** pings you want to remember to the top&#x20;
+2. **Reply** to pings you have more to say about&#x20;
+3. **Edit** pings you’d like to refine&#x20;
+4. **Identify** what might connect pings using a range of filters&#x20;
+
+The steps above are designed to help you carry a conversation with yourself so that you can:
+
+1. Become clear about the subliminal intentions/needs/values/goals/etc. that are important to you
+2. Create memorable cues your future self can use to remember these intentions and develop the capacities to embody them
+
+## Zooming out
+
+Ping Practice assumes that the insights and ideas that inspire movement start in our senses and become legible to our thinking minds through reflection.
+
+The idea was borne out of me [noticing a pattern](needs.md): there were a shifting handful of intentions that feel important for me to remember in any given moment.
+
+Intentions were, and still can, get overridden by the:
+
+1. **Familiarity habit** can tempt me with and&#x20;
+2. **Fear of uncertainty** that can come with making new choices.
+
+## Details
 
 ### Ping
 
@@ -41,11 +65,11 @@ Ping Practice is a loop with 6 steps within it.
    _The most important thing in this moment is making sure the name you give to the Ping is specific enough for your future self to recall what you were referring to._
 3. The third steps is to **Revisit** previous Pings. \
    \
-   The cadence with which you revisit can vary. _The most important thing is that you revisit regularly enough that you start to develop an ambient and intuitive sense for the what's been speaking to you._&#x20;
+   The cadence with which you revisit can vary. _The most important thing is that you spend enough time with what's pinged for you  to develop an ambient and intuitive sense for the what's been speaking to you._&#x20;
 4. The fourth step happens as you Revisit: **Elaborate.** \
    \
    For a Ping to acquire meaning, you need to:
-   * _Edit_ Pings so the language you use to represent them better reflects what it was that you initially Noticed.
+   * _Edit_ Pings so the language you use to represent them better reflects what it was that you initially noticed.
    * _Re_s_pond_ to Pings as a way of exploring all that a particular Ping could contain/bring up for you.
    * _Relate_ Pings to one another to help identify and name patterns that could help to explain your resonance with a particular Ping or set of Pings.
 5. The purpose of Ping Practice is to turn the little things you notice (Pings) into insights that you can apply/act on. A core part of the "applying" part is making sure Pings are easy for you to **Remember** in the small windows you have opportunities to apply them. \
@@ -56,16 +80,6 @@ Ping Practice is a loop with 6 steps within it.
 6. The last step before the Ping Practice cycle repeat itself is **Applying**. \
    \
    Taking the insights you have converged on and acting on them. Doing so will cause you to **Notice** new things which starts the cycle all over again.
-
-## Impact
-
-Ping Practice has impacted me in a range of ways.&#x20;
-
-* **Improved memory and recall**&#x20;
-* **Greater awareness of reflexive thoughts**&#x20;
-* **Better ear for my internal monologue**
-* **More self-acceptance**&#x20;
-* **Generating more ideas**&#x20;
 
 
 
