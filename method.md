@@ -21,7 +21,6 @@ When you happen upon a past ping that resonates, the method invites you to:
 1. **Bump** pings you want to remember to the top&#x20;
 2. **Reply** to pings you have more to say about&#x20;
 3. **Edit** pings you’d like to refine&#x20;
-4. **Identify** what might connect pings using a range of filters&#x20;
 
 The steps above are designed to help you carry a conversation with yourself so that you can:
 
