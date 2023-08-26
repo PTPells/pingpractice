@@ -19,7 +19,7 @@ This experiment marks the first time other people will be experimenting with [th
 This experiment is an effort to answer the following research questions:
 
 1. _Does the_ [_journaling method_](../method.md) _reliably lead people to developing a practice of unblocking themselves?_
-2. _How might the method, and the way it's communicated, be improved to more effectively people where they currently are?_
+2. _How might the method, and the way it's communicated, be improved to more effectively meet people where they currently are?_
 
 ## Impact & Conclusions
 
