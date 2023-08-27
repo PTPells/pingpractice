@@ -5,7 +5,7 @@
 * [Needs](needs.md)
 * [References](references.md)
 * [Method](method.md)
-* [App](app.md)
+* [Drop Journal](drop-journal.md)
 * [Conversations](conversations/README.md)
   * [Phase #1](conversations/phase-1.md)
   * [Phase #2](conversations/phase-2.md)

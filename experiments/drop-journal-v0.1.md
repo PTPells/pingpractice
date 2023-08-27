@@ -12,12 +12,12 @@ This experiment started on 10 April 2023.
 
 The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the behavior it was intended to help me evaluate – [noticing and naming Pings](../method.md) – stuck[^1].&#x20;
 
-[Motived to experiment](twitter-pt.-1.md#impact-and-conclusions) with ways to simulate the serendipitous revisiting and discovery [the app describes](../app.md) and prompted by a conversation with [Prateek](https://prtksxna.com/), this experiment is an effort to prototype a distinct place I can go to revisit and discover past Pings.
+[Motived to experiment](twitter-pt.-1.md#impact-and-conclusions) with ways to simulate the serendipitous revisiting and discovery [the app describes](../drop-journal.md) and prompted by a conversation with [Prateek](https://prtksxna.com/), this experiment is an effort to prototype a distinct place I can go to revisit and discover past Pings.
 
 ## Research questions&#x20;
 
 1. _What happens when there is a dedicated place for me to browse, search, edit, elaborate on, and organize the Pings I capture? What do I notice myself instinctively needing/wanting to do? What do I notice myself NOT instinctively doing/thinking about?_
-2. _How might the design of the_ [_first app iteration_](../app.md) _need to evolve in order to more reliably lead people to develop a practice of arriving at the insights and creating the meaningful artifacts that will help them unblock themselves?_
+2. _How might the design of the_ [_first app iteration_](../drop-journal.md) _need to evolve in order to more reliably lead people to develop a practice of arriving at the insights and creating the meaningful artifacts that will help them unblock themselves?_
 
 ## Impact & Conclusions
 
@@ -301,7 +301,7 @@ Before Monday, I would've gone directly to Twitter to attempt the search above w
 
 I finished [this past Monday (10 April) feeling](https://twitter.com/pingpractice/status/1645606642724261888?s=20) similar to how I remember myself [feeling the Monday before (3 April)](https://twitter.com/pingpractice/status/1643057038199787520).
 
-This led me to experience, and subsequently [develop a bit more conviction around](https://twitter.com/pingpractice/status/1645606642724261888), the utility of  [the app](../app.md) offering people an easy way to see what they've said on days/time that are similar to the moments they currently find themselves to be in and/or curious about.
+This led me to experience, and subsequently [develop a bit more conviction around](https://twitter.com/pingpractice/status/1645606642724261888), the utility of  [the app](../drop-journal.md) offering people an easy way to see what they've said on days/time that are similar to the moments they currently find themselves to be in and/or curious about.
 
 In response, I created a new view within Notion that enables me to easily [see what I've said "on this day" across time](#user-content-fn-6)[^6].
 

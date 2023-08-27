@@ -90,7 +90,7 @@ Lately, when thinking about doing something that I'm less practiced with, I've s
 
 Within this section, I'll place things, that well, I find myself needing to be reminded of in order to "embody" the space the thinking I need to do exists within.
 
-For example, in the moments before writing this, I was sketching out what it might look like to send an email at some  cadence that serves as _invitation_ for people _into_ the work I'm doing to refine and actualize [the app](app.md).&#x20;
+For example, in the moments before writing this, I was sketching out what it might look like to send an email at some  cadence that serves as _invitation_ for people _into_ the work I'm doing to refine and actualize [the app](drop-journal.md).&#x20;
 
 Doing the above feels new for me and I found the reminders (see screenshot below) effective for inspiring me to "keep going" in moments when uncertainty tempts me to stop.
 
