@@ -14,7 +14,7 @@ You can think of the method a bit like using a pause button or a camera...
 
 No categorizing or sensemaking. In these tiny moments, you’re simply creating a breadcrumb for your future self.
 
-"Pings" as we call them in the Ping Practice universe,  are treated as standalone, timestamped thoughts that you can leisurely browse, relate, and reflect on at a later time.&#x20;
+"Pings" as we call them in the Ping Practice universe [\[i\]](https://www.are.na/block/24322667),  are treated as standalone, timestamped thoughts that you can leisurely browse, relate, and reflect on at a later time.&#x20;
 
 When you happen upon a past ping that resonates, the method invites you to:
 
@@ -42,15 +42,13 @@ Intentions were, and still can, get overridden by the:
 
 ### Ping
 
-Ping Practice assumes that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues to new meaning and insight. I call these "Pings."
+Ping Practice assumes that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues to new meaning and insight. Let's call  these "Pings."
 
 A ping can take on any form: word, phrase, title, rhyme, name, lyric, quote, place, color, texture, melody, idea, feeling, etc.
 
-The most important thing about Pings – and what differentiates them from other thoughts – is that a Ping is something that moves you, "clicks," or otherwise resonates in your body.
+The most important thing about Pings – and what differentiates them from other thoughts – is that a Ping is something that moves you, "clicks," or otherwise causes you to feel something in your body.
 
-You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, and reflexive...as if what you are encountering relates to something that's been latent within you.&#x20;
-
-In this way, there are many ways to detect a Ping. For me, I know I'm encountering a Ping when I feel something in my body (e.g. maybe I notice the hair on my arm standing up).
+You are likely encountering a Ping if the movement or attraction you sense seems intuitive, automatic, reflexive, and happens without thinking...as if what you are encountering relates to something that's been latent within you.&#x20;
 
 ### Process
 
