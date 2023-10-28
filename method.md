@@ -42,7 +42,7 @@ Intentions were, and still can, get overridden by the:
 
 ### Ping
 
-Ping Practice assumes that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues to new meaning and insight. Let's call  these "Pings."
+Ping Practice assumes that within the tiny, everyday, and easy-to-dismiss moments of resonance are clues to new meaning and insight. Let's call  these "Pings."[\[ii\]](https://www.are.na/block/24322667)
 
 A ping can take on any form: word, phrase, title, rhyme, name, lyric, quote, place, color, texture, melody, idea, feeling, etc.
 
