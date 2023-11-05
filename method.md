@@ -4,7 +4,9 @@ description: Develop a practice of unblocking yourself.
 
 # Method
 
-<figure><img src=".gitbook/assets/Cards_Sketching.png" alt="A circular diagram showing Ping Practice&#x27;s steps: Name, Notice, Revisit, Edit/Respond/Relate, Remember, and Apply"><figcaption><p>Ping Practice</p></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/Ping Practice Method.png" alt=""><figcaption><p>Ping Practice Method</p></figcaption></figure>
 
 Ping Practice is a method for developing a practice of unblocking yourself.
 
