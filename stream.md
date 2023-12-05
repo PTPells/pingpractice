@@ -4,11 +4,9 @@ description: Observations and loose thoughts.
 
 # Stream
 
-<details>
+## 20 February 2023
 
-<summary>20 February 2023</summary>
-
-### Engaging
+### Conditions for contribution
 
 Some loose/quick/initial thoughts on space...
 
@@ -27,36 +25,7 @@ Some loose/quick/initial thoughts on space...
   * Supplies the group with the clarity they need to deploy the expertise they've developed.&#x20;
     * Where "deploy" could mean things like: assessing risk, creating an artifact, determining whether a piece of new information is notable enough to be shared with the rest of the group
 
-</details>
-
-<details>
-
-<summary>5 February 2023</summary>
-
-### Making Space, Collaboratively
-
-Some loose/quick/initial thoughts on space...
-
-* I resonate with spaces where I, and the people who are present with me in it, feel safe and empowered to improvise&#x20;
-  * Where "improvise" in this context means the ability to notice new information, without judgement, and make choices that they think cohere with what the people who share in the space are present to create.&#x20;
-* I feel empowered to participate in a space when ([source](https://twitter.com/pingpractice/status/1577778444296929280?s=20\&t=66lYHsjFlZDKZxR8LT\_f\_g)):
-  * There is a clear and shared objective for what we are trying to make (defined in the broadest of terms)
-  * I trust that others will check whether they’ve understood what I’ve said in the way I intended it
-  * I trust that I will have an opportunity to repair harm if/when I cause it
-  * I trust that I will be seen for what I know and have experienced
-  * I trust I will be listened to
-  * I trust that others will assume I am acting in good faith
-  * I know that we have practices/traditions in places to remember the choices we make and why
-* I enjoy playing the role of someone who:
-  * Creating the conditions necessary for the group to decide what they will commit to making and why&#x20;
-  * Supplies the group with the clarity they need to deploy the expertise they've developed.&#x20;
-    * Where "deploy" could mean things like: assessing risk, creating an artifact, determining whether a piece of new information is notable enough to be shared with the rest of the group
-
-</details>
-
-<details>
-
-<summary>3 February 2023</summary>
+## 3 February 2023
 
 ### Prompts&#x20;
 
@@ -64,11 +33,7 @@ I value it when a space, person, etc. invites me to say aloud something for the 
 
 This happened during [today's are.na walkthrough](https://www.are.na/are-na-team/02-03-23-channel-walkthroughs-ft-luiza-dale-peter-pelberg-noa-mori-njari-anderson): _I appreciate prompts that are proximate and clear enough that I can immediately pick them up/reach for them and in doing so, be moved to see something that feels new, fresh...something I might not have seen otherwise._
 
-</details>
-
-<details>
-
-<summary>8 January 2023</summary>
+## 8 January 2023
 
 ### Reminders&#x20;
 
@@ -97,11 +62,7 @@ i. The "standard sub-sections" I add are:
 * Open Questions
   * _"What questions are emerge as I inhabit the space of this challenge/objective/etc.?_
 
-</details>
-
-<details>
-
-<summary>3 January 2023</summary>
+## 3 January 2023
 
 ### Journaling and Self-Knowledge
 
@@ -111,13 +72,7 @@ It feels good to say these words – "journaling" and "self-knowledge" – aloud
 
 I've felt far away from this language and I'm grateful for Ashley, Kyle, and Obi for bringing me back to it. I feel at home in them and I'm eager to invite more people in using them.
 
-
-
-</details>
-
-<details>
-
-<summary>27 November 2022</summary>
+## 27 November 2022
 
 ### Questions
 
@@ -127,11 +82,7 @@ This leads me to a question that's something like: _"What could cause people to 
 
 That phrasing doesn't quite capture it, but it's a start.
 
-</details>
-
-<details>
-
-<summary>19 November 2022</summary>
+## 19 November 2022
 
 ### Micro-syntax
 
@@ -145,11 +96,7 @@ I find that doing the above helps break me out of the _"find the ideal"_ languag
 
 
 
-</details>
-
-<details>
-
-<summary>3 November 2022</summary>
+## 3 November 2022
 
 ### \[Reflex]
 
@@ -161,11 +108,7 @@ The idea here being these reflexes are likely related by a perceived unmet need,
 
 _Aside: I feel inclined to create a page titled something like "Thoughts." I'm imagining I'd use this page initially for: A) defining "thought types" and B) defining what I mean when I say "thought" considering how central that concept is to this practice._
 
-</details>
-
-<details>
-
-<summary>31 October 2022</summary>
+## 31 October 2022
 
 ### Thought types
 
@@ -197,11 +140,7 @@ I think I considered this notable because seeing myself using this pattern in a 
 
 _Aside: I'm reluctant to categorize the above as "tags" per se, but I think that's just because I have negative associations with a particular implementation of tags which I appreciate to be a far more open-ended concept. Maybe it would be worthwhile to talk about tags some more  and why I think the implementations I've seen have done little to guide me to use them in ways that make it easier for my future selves to find what they are looking for later. Think: topical and the moments tools often present people with the opportunities to apply them._
 
-</details>
-
-<details>
-
-<summary>28 October 2022</summary>
+## 28 October 2022
 
 ### Directing pings
 
@@ -217,11 +156,7 @@ _Thinking: these activity spaces would become more generative and richer, and th
 
 Wow. This place feels great to be in...I'm having fun ^ \_ ^ Thank you for the metaphor, Laurel!
 
-</details>
-
-<details>
-
-<summary>26 October 2022</summary>
+## 26 October 2022
 
 ### "Stream" Purpose
 
@@ -229,11 +164,7 @@ I think I'm going to constrain this stream to thoughts related to thoughts relat
 
 The above had been pretty much implicit in my mind, but sometimes I find it helpful to explicitly say or write out things out to reinforce them.
 
-</details>
-
-<details>
-
-<summary>24 October 2022</summary>
+## 24 October 2022
 
 ### "Where should I put this?"
 
@@ -249,17 +180,10 @@ I think writing out loose thoughts has helped me to become more effective at spo
 
 In this way, I think I'm starting to feel more confident in my ability to improvise.
 
-</details>
-
-<details>
-
-<summary>10 October 2022</summary>
+## 10 October 2022
 
 ### Ping Practice Flow&#x20;
 
 Sketches of what information I imagine Ping Practice to hold and how it will flow within the site.\
 &#x20;![](.gitbook/assets/PingPractice2.png)![](.gitbook/assets/Ping-Practice.png)
 
-
-
-</details>
