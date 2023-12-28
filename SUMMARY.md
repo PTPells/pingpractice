@@ -12,6 +12,7 @@
 * [Experiments](experiments/README.md)
   * [Method Facilitation](experiments/method-facilitation.md)
   * [Drop Journal v0.1](experiments/drop-journal-v0.1.md)
+  * [Drop Journal v1.0](experiments/drop-journal-v1.0.md)
   * [Voice memos](experiments/voice-memos.md)
   * [Twitter](experiments/twitter-pt.-1.md)
   * [Quick capture](experiments/quick-capture.md)
