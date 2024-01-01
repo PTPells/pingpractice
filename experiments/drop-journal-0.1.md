@@ -2,7 +2,7 @@
 description: Using existing apps to approximate Drop Journal design
 ---
 
-# Drop Journal v0.1
+# Drop Journal (0.1)
 
 {% hint style="info" %}
 This experiment started on 10 April 2023.
@@ -43,7 +43,7 @@ _Making "🟢 Active" a daily act_
 
 I'm coming to find that what I need to be reminded of is dynamic; it varies day-by-day. And yet, I'm still not yet feeling like the "🟢 Active" view inspires me to revisit and reprogram it at a commensurate cadence. &#x20;
 
-The [automated email](drop-journal-v0.1.md#25-june-2023) is helping some. Seeing the "🟢 Active" email arrive each day has caused the space itself to become more top of mind, but I've yet to find myself going into Airtable and asking myself, _"Which of these are still relevant for today? Which is relevant for today that might not currently be represented?"_ and acting on the answers.&#x20;
+The [automated email](drop-journal-0.1.md#25-june-2023) is helping some. Seeing the "🟢 Active" email arrive each day has caused the space itself to become more top of mind, but I've yet to find myself going into Airtable and asking myself, _"Which of these are still relevant for today? Which is relevant for today that might not currently be represented?"_ and acting on the answers.&#x20;
 
 With this context in mind, an idea emerged this past weekend (30 June): I set an intention for a defined period of time:
 
@@ -128,7 +128,7 @@ Walkthrough of Drop Journal `🟢 Active` view as of 11 May 2023.
 
 Okay! Something is connecting and I'd like to try to map it out...
 
-I notice [the current Airtable set up](drop-journal-v0.1.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../needs.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-2)[^2] _within_ the fleeting moments where I/he[^3] has sensed opportunities to apply them.
+I notice [the current Airtable set up](drop-journal-0.1.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](../needs.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-2)[^2] _within_ the fleeting moments where I/he[^3] has sensed opportunities to apply them.
 
 Naming the above feels notable. Reason: in coming to realize this impact, I think I'm also starting to see the factors that may be contributing this slight behavior change emerging:
 
