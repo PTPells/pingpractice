@@ -4,7 +4,7 @@ hi! I’m Peter. I work as a product manager at the [Wikimedia Foundation](https
 
 There, I help build the [core editing and communication experiences](https://www.mediawiki.org/wiki/Core\_Experiences) volunteers use to make [Wikipedia](https://en.wikipedia.org/wiki/List\_of\_Wikipedias) accurate and exhaustive.
 
-Reflection is a tool I depend on to process what I’m thinking, develop ideas, name what I’m noticing, and, more broadly, embody and evolve in the roles I play: collaborator, spouse, colleague, product manager, friend, godfather, son, brother, uncle, neighbor, soon-to-be father, etc.
+Reflection is a tool I depend on to process what I’m thinking, develop ideas, name what I’m noticing, and, more broadly, embody and evolve in the roles I play: collaborator, spouse, father, colleague, product manager, friend, godfather, son, brother, uncle, neighbor, soon-to-be father, etc.
 
 In 2012, motivated to become more effective at identifying patterns in what I thought about and reacted to, I [started an experiment](experiments/yearly-letters.md).&#x20;
 
