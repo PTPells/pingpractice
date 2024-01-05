@@ -2,6 +2,10 @@
 
 
 
+### Sheila Heti [_The Future of Memory_](https://youtu.be/h9O5Z7GtSbA?si=fGHrNH9JvOBMxPuW\&t=3058)
+
+> I kind of believe that when that feeling of wanting to write is coming up it’s because there’s a lot…of things that have mixed together in an interesting way and only in that moment will that interesting mixture come out
+
 ### Denise Scott Brown, Steven Izenour, and Robert Venturi  [_Learning from Las Vegas_](https://en.wikipedia.org/wiki/Learning\_from\_Las\_Vegas)
 
 > We look backward at history and tradition to go forward; we can also look downward to go upward. And withholding judgement may be used as a tool to make later judgement more sensitive. This is a way of learning from everything.
@@ -9,8 +13,6 @@
 ### Massanobu Fukuoka [_The One-Straw Revolution_](https://www.worldcat.org/title/one-straw-revolution-an-introduction-to-natural-farming/oclc/251203919)
 
 > Nature , or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamor caused by desire and by the activity of the discriminating mind.
-
-
 
 ### Feist  [_Broken Record Interview_](https://youtu.be/6Ih6RjRYepA?t=1728)
 
