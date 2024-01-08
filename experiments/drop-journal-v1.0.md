@@ -30,6 +30,20 @@ _#TODO_
 
 ## Log
 
+### 5 January 2023
+
+_Meaningful Artifacts_
+
+<figure><img src="../.gitbook/assets/Ping-Practice-Method-Diagram.png" alt="Work in progress Ping Practice method diagram Laurel Schwulst created"><figcaption><p>Iteration of Ping Practice method diagram by Laurel Schwulst.</p></figcaption></figure>
+
+Ping Practice is meant to help you become clear about what's meaningful to you and make that meaning memorable enough to embody.
+
+Although, as [Alex](https://www.alexhollender.info/), [Jeff](https://jnoh.net/), and [Laurel](https://laurelschwulst.com/) have identified, it's not yet clear to what extent – if any – Ping Practice (the app/tool) offers the affordances people need to be inspired and equipped to compile/create/converge on these meaningful artifacts.
+
+I think it's important to arrive at a clear opinion on the above – regardless of what that opinion is – because I think these artifacts are fundamental to addressing the [core needs](https://ping-practice.gitbook.io/pings/needs) Ping Practice is an effort to meet.&#x20;
+
+This topic feels quite big to me. To start, I'm thinking I'll review the meaningful and memorable Pings I've created over time.
+
 ### 31 December 2023
 
 _Notable Pings_
@@ -42,7 +56,7 @@ Every so often, [a Ping will emerge that feels distinct from other Pings](#user-
 
 _In my mind is the image of a natural dam giving way and with it, water flowing freely through – what had previously been – a constricted waterway._
 
-Last night, a Ping of this sort surfaced, "I'm creating _from_ a place. I'm not creating _to_ get to a place." This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-2)[^2]d and clear and how I might go about nurturing a creative practice (Ping Practice) in a way that harmonizes with  the reality of being a new father.
+Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-2)[^2]d and clear and how I might go about nurturing a creative practice in a way that harmonizes with being present as a new father.
 
 Beyond these Pings' power to unblock and generate new thoughts, they tend to be durable, relevant to the broader context/place[^3] I find myself within. In hindsight, these Pings also tend to be memorable. They can quickly bring me back into the moment they served me within...they can demarcate time.
 
