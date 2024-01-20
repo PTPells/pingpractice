@@ -34,13 +34,17 @@ _#TODO_
 
 _Artifacts_
 
-I'm feeling inspired by the prospect of a potential artifact that can serve as a dynamic/ever-evolving personal frame of reference, the primitives for which could be Moments/Events, Phases/Periods, and Cycles/Loops. _More on those another time._&#x20;
+![Screenshot of the "Character creation" Wikipedia article](<../.gitbook/assets/Screenshot 2024-01-19 at 6.12.50 PM.png>)![Early childhood developmental phases Carolyn Li-Madeo shared with me](<../.gitbook/assets/msg578802492-70058 (2).jpg>)![Screenshot of the "Wonder Weeks" app's childhood "leap" timeline. ](<../.gitbook/assets/IMG\_0099 (2).PNG>)
+
+I'm feeling inspired by the prospect of a potential artifact that can serve as a dynamic/ever-[evolving personal frame of reference](#user-content-fn-1)[^1], the primitives for which could be Moments/Events, Phases/Periods, and Cycles/Loops. _More on those another time._&#x20;
 
 In this moment, I could see this "frame of reference" containing the following:
 
 * _Fatherhood: an incrementing counter of the number of days it's been since Leila was born_
 * _Parent's visit: a decrementing counter of the number of days left until my parent depart for home._
 * _Leila's age: some kind of bounded block of time that gives some rough shape to what Leila is likely experiencing. E.g. development leaps she's going through, what she's likely to be needing in any given moment._
+
+
 
 ### 14 January 2023
 
@@ -73,13 +77,13 @@ _Notable Pings_
 
 <figure><img src="../.gitbook/assets/Ping-Creating from a place.jpg" alt="" width="375"><figcaption><p>Notable Ping (30 Dec 2023)</p></figcaption></figure>
 
-Every so often, [a Ping will emerge that feels distinct from other Pings](#user-content-fn-1)[^1]. I know I'm encountering a Ping of this sort when its emergence causes a flood of other Pings to surface or collect within it. Sometimes, these Pings have the effect of making movement clear in a context that I'd previously felt stuck within.&#x20;
+Every so often, [a Ping will emerge that feels distinct from other Pings](#user-content-fn-2)[^2]. I know I'm encountering a Ping of this sort when its emergence causes a flood of other Pings to surface or collect within it. Sometimes, these Pings have the effect of making movement clear in a context that I'd previously felt stuck within.&#x20;
 
 _In my mind is the image of a natural dam giving way and with it, water flowing freely through – what had previously been – a constricted waterway._
 
-Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-2)[^2]d and clear and how I might go about nurturing a creative practice in a way that harmonizes with being present as a new father.
+Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-3)[^3]d and clear and how I might go about nurturing a creative practice in a way that harmonizes with being present as a new father.
 
-Beyond these Pings' power to unblock and generate new thoughts, they tend to be durable, relevant to the broader context/place[^3] I find myself within. In hindsight, these Pings also tend to be memorable. They can quickly bring me back into the moment they served me within...they can demarcate time.
+Beyond these Pings' power to unblock and generate new thoughts, they tend to be durable, relevant to the broader context/place[^4] I find myself within. In hindsight, these Pings also tend to be memorable. They can quickly bring me back into the moment they served me within...they can demarcate time.
 
 The power and durability of these Pings leads me to wonder:
 
@@ -98,8 +102,10 @@ _Revisiting_&#x20;
 
 ###
 
-[^1]: E.g. ["Pick up the phone"](https://www.youtube.com/watch?v=avOU29QkuPk\&t=33s)
+[^1]: I think [character creation experiences](https://en.wikipedia.org/wiki/Character\_creation) in role-playing video games could be inspiring/instructive here.
 
-[^2]: [Creating from a place (YouTube)](https://www.youtube.com/watch?v=FlRLZzxCKZw)
+[^2]: E.g. ["Pick up the phone"](https://www.youtube.com/watch?v=avOU29QkuPk\&t=33s)
 
-[^3]: Where "context/place" here refers to something that spans time on the order of weeks.
+[^3]: [Creating from a place (YouTube)](https://www.youtube.com/watch?v=FlRLZzxCKZw)
+
+[^4]: Where "context/place" here refers to something that spans time on the order of weeks.
