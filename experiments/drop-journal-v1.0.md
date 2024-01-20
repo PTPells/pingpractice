@@ -30,15 +30,26 @@ _#TODO_
 
 ## Log
 
+### 19 January 2023
+
+_Artifacts_
+
+I'm feeling inspired by the prospect of a potential artifact that can serve as a dynamic/ever-evolving personal frame of reference, the primitives for which could be Moments/Events, Phases/Periods, and Cycles/Loops. _More on those another time._&#x20;
+
+In this moment, I could see this "frame of reference" containing the following:
+
+* _Fatherhood: an incrementing counter of the number of days it's been since Leila was born_
+* _Parent's visit: a decrementing counter of the number of days left until my parent depart for home._
+* _Leila's age: some kind of bounded block of time that gives some rough shape to what Leila is likely experiencing. E.g. development leaps she's going through, what she's likely to be needing in any given moment._
+
 ### 14 January 2023
 
-_Memorable Artifacts_
+_Artifacts_
 
 In thinking about the artifact(s) Ping Practice could inspire and empower you to make, new language surfaced for what I notice myself needing. I sense the questions that follow could eventually inform the "shape" of these yet-to-be-named artifacts...
 
 1. _Might I be more present and accepting of how I’m feeling if I can easily reference the "features" of the present moment  (e.g. responsibilities, interactions, choices, etc.)  that have been impacting me?_
-2. _Might I be able to more effectively embody an intention if it’s related to a defined/bounded phase/period of time?_&#x20;
-3. _Might I feel more grounded and present if I can easily reference intentions, events, phases, etc. i’ve ascribed names to?_
+2. _Might I be able to more effectively embody an intention if it’s bounded/related to a phase/period of time that I've named?_
 
 ### 5 January 2023
 
