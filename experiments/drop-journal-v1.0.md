@@ -30,9 +30,19 @@ _#TODO_
 
 ## Log
 
+### 14 January 2023
+
+_Memorable Artifacts_
+
+In thinking about the artifact(s) Ping Practice could inspire and empower you to make, new language surfaced for what I notice myself needing. I sense the questions that follow could eventually inform the "shape" of these yet-to-be-named artifacts...
+
+1. _Might I be more present and accepting of how I’m feeling if I can easily reference the "features" of the present moment  (e.g. responsibilities, interactions, choices, etc.)  that have been impacting me?_
+2. _Might I be able to more effectively embody an intention if it’s related to a defined/bounded phase/period of time?_&#x20;
+3. _Might I feel more grounded and present if I can easily reference intentions, events, phases, etc. i’ve ascribed names to?_
+
 ### 5 January 2023
 
-_Meaningful Artifacts_
+_Memorable Artifacts_
 
 <figure><img src="../.gitbook/assets/Ping-Practice-Method-Diagram.png" alt="Work in progress Ping Practice method diagram Laurel Schwulst created"><figcaption><p>Iteration of Ping Practice method diagram by Laurel Schwulst.</p></figcaption></figure>
 
