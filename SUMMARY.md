@@ -10,7 +10,7 @@
   * [Phase #1](conversations/phase-1.md)
   * [Phase #2](conversations/phase-2.md)
 * [Experiments](experiments/README.md)
-  * [Containment](experiments/containment.md)
+  * [Containers](experiments/containers.md)
   * [Method Facilitation](experiments/method-facilitation.md)
   * [Drop Journal (0.1)](experiments/drop-journal-v0.1.md)
   * [Ping Practice (1.0)](experiments/drop-journal-v1.0.md)
