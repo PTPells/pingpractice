@@ -81,7 +81,7 @@ Every so often, [a Ping will emerge that feels distinct from other Pings](#user-
 
 _In my mind is the image of a natural dam giving way and with it, water flowing freely through – what had previously been – a constricted waterway._
 
-Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-3)[^3]d and clear and how I might go about nurturing a creative practice in a way that harmonizes with being present as a new father.
+Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-3)[^3]d and clear and how I might go about nurturing [a creative practice that harmonizes with being present as a new father](https://www.youtube.com/watch?v=JRIosU6X060\&list=PLKUjvP9gOhhhrrTXtjXLMpfmrQ5\_6SshL).
 
 Beyond these Pings' power to unblock and generate new thoughts, they tend to be durable, relevant to the broader context/place[^4] I find myself within. In hindsight, these Pings also tend to be memorable. They can quickly bring me back into the moment they served me within...they can demarcate time.
 
