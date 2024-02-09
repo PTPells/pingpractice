@@ -30,13 +30,27 @@ _#TODO_
 
 ## Log
 
-### 19 January 2023
+### 8 February 2023&#x20;
+
+_Pace layers_
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p> Ping layer of abstraction (v0.1)</p></figcaption></figure>
+
+[Carolyn](http://carolynlimadeo.com/) helpfully posed a question some weeks ago that I remember as something like, _"What might it look like to look at Pings at various zoom levels?"_
+
+The notion of "zooming" immediately resonated, both in terms of the interface/navigation and this question of, _"How does Ping Practice inspire you to reliably translate these discrete 'captures' into wisdom?"_ \
+\
+This second bit led me to wonder, _"Might zoom in the Ping Practice Universe refer to compression?"_ "Compression" in the sense that Ping Practice is driving you to create tiny artifacts, broadly defined, that are [capable of describing a whole body of Pings/observations](#user-content-fn-1)[^1]. In this way, they can quickly help you identify the context you are present within, arrive into it, and [organize yourself into an entire way of being](#user-content-fn-2)[^2].
+
+The diagram above is a first pass at bringing some visual shape to the above. Next time, I'd like to walk through some actual examples to evaluate the extent to which this way of thinking reflects/describes what I've experinece with Ping Practice.
+
+### 19 January 2024
 
 _Artifacts_
 
 ![Screenshot of the "Character creation" Wikipedia article](<../.gitbook/assets/Screenshot 2024-01-19 at 6.12.50 PM.png>)![Early childhood developmental phases Carolyn Li-Madeo shared with me](<../.gitbook/assets/msg578802492-70058 (2).jpg>)![Screenshot of the "Wonder Weeks" app's childhood "leap" timeline. ](<../.gitbook/assets/IMG\_0099 (2).PNG>)
 
-I'm feeling inspired by the prospect of a potential artifact that can serve as a dynamic/ever-[evolving personal frame of reference](#user-content-fn-1)[^1], the primitives for which could be Moments/Events, Phases/Periods, and Cycles/Loops. _More on those another time._&#x20;
+I'm feeling inspired by the prospect of a potential artifact that can serve as a dynamic/ever-[evolving personal frame of reference](#user-content-fn-3)[^3], the primitives for which could be Moments/Events, Phases/Periods, and Cycles/Loops. _More on those another time._&#x20;
 
 In this moment, I could see this "frame of reference" containing the following:
 
@@ -46,7 +60,7 @@ In this moment, I could see this "frame of reference" containing the following:
 
 
 
-### 14 January 2023
+### 14 January 2024
 
 _Artifacts_
 
@@ -55,7 +69,7 @@ In thinking about the artifact(s) Ping Practice could inspire and empower you to
 1. _Might I be more present and accepting of how I’m feeling if I can easily reference the "features" of the present moment  (e.g. responsibilities, interactions, choices, etc.)  that have been impacting me?_
 2. _Might I be able to more effectively embody an intention if it’s bounded/related to a phase/period of time that I've named?_
 
-### 5 January 2023
+### 5 January 2024
 
 _Memorable Artifacts_
 
@@ -77,13 +91,13 @@ _Notable Pings_
 
 <figure><img src="../.gitbook/assets/Ping-Creating from a place.jpg" alt="" width="375"><figcaption><p>Notable Ping (30 Dec 2023)</p></figcaption></figure>
 
-Every so often, [a Ping will emerge that feels distinct from other Pings](#user-content-fn-2)[^2]. I know I'm encountering a Ping of this sort when its emergence causes a flood of other Pings to surface or collect within it. Sometimes, these Pings have the effect of making movement clear in a context that I'd previously felt stuck within.&#x20;
+Every so often, [a Ping will emerge that feels distinct from other Pings](#user-content-fn-4)[^4]. I know I'm encountering a Ping of this sort when its emergence causes a flood of other Pings to surface or collect within it. Sometimes, these Pings have the effect of making movement clear in a context that I'd previously felt stuck within.&#x20;
 
 _In my mind is the image of a natural dam giving way and with it, water flowing freely through – what had previously been – a constricted waterway._
 
-Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-3)[^3]d and clear and how I might go about nurturing [a creative practice that harmonizes with being present as a new father](https://www.youtube.com/watch?v=JRIosU6X060\&list=PLKUjvP9gOhhhrrTXtjXLMpfmrQ5\_6SshL).
+Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-5)[^5]d and clear and how I might go about nurturing [a creative practice that harmonizes with being present as a new father](https://www.youtube.com/watch?v=JRIosU6X060\&list=PLKUjvP9gOhhhrrTXtjXLMpfmrQ5\_6SshL).
 
-Beyond these Pings' power to unblock and generate new thoughts, they tend to be durable, relevant to the broader context/place[^4] I find myself within. In hindsight, these Pings also tend to be memorable. They can quickly bring me back into the moment they served me within...they can demarcate time.
+Beyond these Pings' power to unblock and generate new thoughts, they tend to be durable, relevant to the broader context/place[^6] I find myself within. In hindsight, these Pings also tend to be memorable. They can quickly bring me back into the moment they served me within...they can demarcate time.
 
 The power and durability of these Pings leads me to wonder:
 
@@ -102,10 +116,14 @@ _Revisiting_&#x20;
 
 ###
 
-[^1]: I think [character creation experiences](https://en.wikipedia.org/wiki/Character\_creation) in role-playing video games could be inspiring/instructive here.
+[^1]: Drawing inspiration from Jürgen Schmidhuber writing in [Driven by Compression Progress](https://www.are.na/block/12518234).
 
-[^2]: E.g. ["Pick up the phone"](https://www.youtube.com/watch?v=avOU29QkuPk\&t=33s)
+[^2]: "The power of meaning is that it completely organizes being." | [David Bohm](https://www.are.na/block/22989196)
 
-[^3]: [Creating from a place (YouTube)](https://www.youtube.com/watch?v=FlRLZzxCKZw)
+[^3]: I think [character creation experiences](https://en.wikipedia.org/wiki/Character\_creation) in role-playing video games could be inspiring/instructive here.
 
-[^4]: Where "context/place" here refers to something that spans time on the order of weeks.
+[^4]: E.g. ["Pick up the phone"](https://www.youtube.com/watch?v=avOU29QkuPk\&t=33s)
+
+[^5]: [Creating from a place (YouTube)](https://www.youtube.com/watch?v=FlRLZzxCKZw)
+
+[^6]: Where "context/place" here refers to something that spans time on the order of weeks.

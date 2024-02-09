@@ -8,7 +8,7 @@ This experiment started on 6 Sep 2021 and concluded on 8 December 2021.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt="A screenshot of the Paper Plane iPhone app&#x27;s compose view."><figcaption><p>Paper Plane app's "compose" view</p></figcaption></figure>
 
  
 
