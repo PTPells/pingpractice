@@ -1,6 +1,16 @@
+---
+description: Beginning with
+---
+
 # References
 
+### Dave Hickey [_A World Like Santa Barbara_](https://www.chronicle.com/article/a-world-like-santa-barbara/)
 
+> The world of art and letters is the site upon which we hone these skills, acquire the responsiveness, imagination, and flexibility to deal with this world, where we learn to appreciate its anxieties.
+
+> ...civilization must be defined by the ability of a diverse populace to tolerate and appreciate the anxiety of living in a tumultuous, heterogeneous urban world
+
+> ...human civilization, in the process of becoming less centralized and less authoritarian, has created modes of expression in which the burden of assigning meaning and value resides wholly within the colloquy of beholders.&#x20;
 
 ### Sheila Heti [_The Future of Memory_](https://youtu.be/h9O5Z7GtSbA?si=fGHrNH9JvOBMxPuW\&t=3058)
 
