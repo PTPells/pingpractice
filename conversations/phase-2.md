@@ -18,7 +18,7 @@ description: Tappable prototype.
 
 </div>
 
-During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype. The objective was to create a way for people to react to the ideas and assumptions latent within [the narrative](../drop-journal.md) that is informing the "shape" [the app](../drop-journal.md) takes on.
+During the winter of 2022, [David](https://www.davidgoligorsky.com/index.html) and I made a tappable prototype. The objective was to create a way for people to react to the ideas and assumptions latent within [the narrative](../app.md) that is informing the "shape" [the app](../app.md) takes on.
 
 21 people to tried the prototype in conversations that invited them to:
 

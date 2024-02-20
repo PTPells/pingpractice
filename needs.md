@@ -1,7 +1,7 @@
 # Needs
 
 {% hint style="warning" %}
-These needs remains unmet. I am actively [working on a solution](drop-journal.md) to address it.
+These needs remains unmet. I am actively [working on a solution](app.md) to address it.
 {% endhint %}
 
 ### Needs

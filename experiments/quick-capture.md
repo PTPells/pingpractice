@@ -16,7 +16,7 @@ This experiment started on 6 Sep 2021 and concluded on 8 December 2021.
 
 </div>
 
-This was an experiment to simulate the "quick capture" and "revisit" experience I had been imagining for [the app](../drop-journal.md) by stringing existing tools together into a workflow that felt somewhat cogent.
+This was an experiment to simulate the "quick capture" and "revisit" experience I had been imagining for [the app](../app.md) by stringing existing tools together into a workflow that felt somewhat cogent.
 
 The goals here being to learn:
 
