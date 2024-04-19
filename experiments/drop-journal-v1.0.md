@@ -30,7 +30,61 @@ _#TODO_
 
 ## Log
 
-### 8 February 2023&#x20;
+### 18 April 2024&#x20;
+
+We seem to have [arrived into language](https://pingpractice.org/) that is somewhat effective at helping people recognize "Pings" amongst the range of thoughts/feelings they experience.
+
+At the same time, a question [Alex](https://www.alexhollender.info/), [Carolyn](http://carolynlimadeo.com/), Ell, [Jeff](https://jnoh.net/),  and [Laurel](https://laurelschwulst.com/medium/writing/) identified remains answered: _What form does a Ping take on in the context, of say,_ [_the app_](../app.md) _we're building? \[i] Further, how might a Ping standout in relation to other digital formats/contexts? \[ii]_
+
+I'd like to begin sketching out some ideas by exploring the following upstream question:
+
+> _What might you need from Pings in order for them to be useful?_
+
+* A Ping needs to be able to transport you back to the "place" /moment it emerged within so that you can explore and uncover the meaning it might hold for you
+* There need to be many different ways you can arrive back to Pings so that you can:
+  * Increase the likelihood you might serendipitously/unintentionally happen upon a Ping that's meaningful to you&#x20;
+  * Triangulate your way back to Pings you don't remember the precise location of
+* A Ping needs to help you evaluate the extent to which you can depend/rely on it.&#x20;
+  * _Said another way: you need to know how "safe" it is to run/embody/apply a Ping in practice._
+* A Ping needs to remind you of you.
+* You need to feel safe iterating upon a Ping as it's meaning evolves over time.
+* A ping needs to be medium agnostic so that you feel empowered to capture a Ping in a way that feels most [convenient](voice-memos.md) and expressive of the moment you're capturing it within.
+
+Holding all of the above in mind, some ideas come to mind for what properties may end up comprising the Ping format we can not yet clearly see:
+
+* Capture date
+* Capture time
+* Capture location
+* Unique ID
+* Visit count
+* Visit log (day, time, etc.)
+* Number of replies (if any)
+* Medium&#x20;
+* Resonance count
+* Time elapsed since capture
+* Relationship to notable events/moments
+* Edit history
+* Time elapsed since last visit
+* Size
+* Places that reference this Ping
+  * _Ideally, "places" could include artifacts internal and external to Ping Practice app._
+* Time spent composing initial Ping
+* Cumulative time spent visiting Ping
+* Time of last edit
+* Total number of edits (human / bot)
+* Average time between visits
+* Average visits per day/week/month
+* [Assessment](https://en.wikipedia.org/wiki/Wikipedia:Content\_assessment)&#x20;
+
+
+
+***
+
+i. In this moment, I'm intentionally scoping this question to the app and excluding other contexts in which people might be capturing what – in this universe – are calling "Pings."
+
+ii. E.g. Instagram, Twitter, camera roll, TikTok, etc.
+
+### 8 February 2024
 
 _Pace layers_
 
