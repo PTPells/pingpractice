@@ -4,6 +4,10 @@ description: Beginning with
 
 # References
 
+### Moyra Davey [_Index Cards_](https://www.ndbooks.com/book/index-cards/)
+
+> Wehn away from his \[Roland Barthes] desk he used spring-activated-ballpoint pens that requried no fumbling with a cap, and wore jackets with pockets that would accommodate these tools. He maintained friends who would not question his habit of stopping, mid-walk, mid-sentence, to quickly note a thought.
+
 ### Dave Hickey [_A World Like Santa Barbara_](https://www.chronicle.com/article/a-world-like-santa-barbara/)
 
 > The world of art and letters is the site upon which we hone these skills, acquire the responsiveness, imagination, and flexibility to deal with this world, where we learn to appreciate its anxieties.
