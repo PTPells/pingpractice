@@ -20,6 +20,7 @@
   * [WeeklyNotes](experiments/weeklynotes.md)
   * [DailyNotes](experiments/dailynotes.md)
   * [Yearly Letters](experiments/yearly-letters.md)
+* [📔 Guides](guides.md)
 * [Prompts](questions.md)
 * [Meta](meta.md)
 * [Prototype: Ping Randomizer](prototype-ping-randomizer.md)
