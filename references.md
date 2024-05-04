@@ -10,9 +10,17 @@ description: Beginning with
 
 _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_stimulus.html)
 
+### **Beyoncé** [_Life is but a Dream_](https://youtu.be/VJizQTAySGQ?t=5204)
+
+> When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and we eventually become what we’re supposed to be.&#x20;
+
+### Dominique Foray _The Economics of Knowledge_
+
+> There is a big difference between the existence of knowledge in some other place and its availability to the right people in the right place at the right time. The crux of the matter is knowing how to integrate and organize fragmented, scattered and thinly spread knowledge.
+
 ### Moyra Davey [_Index Cards_](https://www.ndbooks.com/book/index-cards/)
 
-> Wehn away from his \[Roland Barthes] desk he used spring-activated-ballpoint pens that requried no fumbling with a cap, and wore jackets with pockets that would accommodate these tools. He maintained friends who would not question his habit of stopping, mid-walk, mid-sentence, to quickly note a thought.
+> When away from his \[Roland Barthes] desk he used spring-activated-ballpoint pens that required no fumbling with a cap, and wore jackets with pockets that would accommodate these tools. He maintained friends who would not question his habit of stopping, mid-walk, mid-sentence, to quickly note a thought.
 
 ### Dave Hickey [_A World Like Santa Barbara_](https://www.chronicle.com/article/a-world-like-santa-barbara/)
 
@@ -46,15 +54,9 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > For this invention \[writing] will produce forgetfulness in the minds of those who learn to use it, because they will not practice their memory. Their trust in writing, produced by external characters which are no part of themselves, will discourage the use of their own memory within them. You have invented an elixir not of memory, but of reminding; and you offer your pupils the appearance of wisdom, not true wisdom, for they will read many things without instruction and will therefore seem \[275b] to know many things, when they are for the most part ignorant and hard to get along with, since they are not wise, but only appear wise.
 
-###
-
 ### Yi-Fu Tuan [_Life as a Field Trip_](https://www.are.na/block/20278793)&#x20;
 
 > A special target of examination ought to be how societies differ in making room for pauses in the midst of life, for it is during such pauses that individuals are able to appraise the meaning of what they have undergone.
-
-### **Beyoncé** [_Life is but a Dream_](https://youtu.be/VJizQTAySGQ?t=5204)
-
-> When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and we eventually become what we’re supposed to be.&#x20;
 
 ### **Kengo Kuma** [_**Anti-Object**_](https://www.worldcat.org/title/anti-object-the-dissolution-and-disintegration-of-architecture/oclc/905264086?referer=null\&ht=edition)
 
@@ -68,7 +70,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 ### **Pharrell Williams**
 
-> ...still keep the same hunger. That hunger is to always be, 'Man, I feel something. I gotta go put it down.' And you put it down. As long as you keep that...the conduit between those two places clear, for the energy to come through, you gonna always be ill.
+> ...still keep the same hunger. That hunger is to always be, _'Man, I feel something. I gotta go put it down.'_ And you put it down. As long as you keep that...the conduit between those two places clear, for the energy to come through, you gonna always be ill.
 
 ### **Donald Judd**
 
@@ -142,7 +144,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 ### **Brian Eno** [**Interview with Rick Rubin**](https://podcasts.apple.com/ca/podcast/extended-cut-brian-eno/id1311004083?i=1000528018524)
 
-> Ones tastes tends to propel you into the same areas over and over again.
+> One's tastes tends to propel you into the same areas over and over again.
 
 ### **Kevin Lynch** [_**The Image of the City**_](https://en.wikipedia.org/wiki/The\_Image\_of\_the\_City)
 
