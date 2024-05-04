@@ -14,9 +14,21 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and we eventually become what we’re supposed to be.&#x20;
 
+### Rick Prelinger [_On the Virtues of Preexisting Material_](http://contentsmagazine.com/articles/on-the-virtues-of-preexisting-material/)
+
+> We’re often too quick to imagine that we’ve actually learned from the past. But new works often tend to recycle the same ideas over and over again into different media. To me this suggests that we might be more open to letting old works speak, that our task might not be so much to make new works but to build new platforms for old works to speak from.
+
 ### Dominique Foray _The Economics of Knowledge_
 
 > There is a big difference between the existence of knowledge in some other place and its availability to the right people in the right place at the right time. The crux of the matter is knowing how to integrate and organize fragmented, scattered and thinly spread knowledge.
+
+### Edmund Leach [_1967 Reith Lecture_](http://downloads.bbc.co.uk/radio4/transcripts/reith3\_colour.pdf)
+
+> This act of listening and understanding is an act of submission on your part.
+
+### Bret Victor
+
+> One's ability to articulate an idea always lags behind the understanding of the idea, and the understanding of an idea often lags behind the embodiment in which it is first given life. It can take a surprising amount of time to come to understand what a prototype is trying to "say", and longer still to say it oneself.
 
 ### Moyra Davey [_Index Cards_](https://www.ndbooks.com/book/index-cards/)
 
@@ -141,6 +153,10 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 ### **Antoine de Saint-Exupery**
 
 > Things are not quite real until they acquire names and can be classified in some way. Curiosity about places is part of a general curiosity about things, part of the need to label experiences so that they have a greater degree of permanence and fit into some conceptual scheme.
+
+### **Robert Greene** [_**Mastery**_](https://en.wikipedia.org/wiki/Mastery\_\(book\))
+
+> If we feel like we know something, our minds close off to other possibilities. We see reflections of the truth we’ve already assumed. Such feeling of superiority are often unconscious and stem from a fear of what is different or unknown.
 
 ### **Brian Eno** [**Interview with Rick Rubin**](https://podcasts.apple.com/ca/podcast/extended-cut-brian-eno/id1311004083?i=1000528018524)
 
