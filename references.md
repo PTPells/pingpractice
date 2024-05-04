@@ -4,6 +4,12 @@ description: Beginning with
 
 # References
 
+### Viktor Frankl\*
+
+> Between stimulus and response lies a space. In that space lie our freedom and power to choose a response. In our response lies our growth and our happiness.
+
+_\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_stimulus.html)
+
 ### Moyra Davey [_Index Cards_](https://www.ndbooks.com/book/index-cards/)
 
 > Wehn away from his \[Roland Barthes] desk he used spring-activated-ballpoint pens that requried no fumbling with a cap, and wore jackets with pockets that would accommodate these tools. He maintained friends who would not question his habit of stopping, mid-walk, mid-sentence, to quickly note a thought.
