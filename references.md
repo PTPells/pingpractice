@@ -48,6 +48,10 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > I kind of believe that when that feeling of wanting to write is coming up it’s because there’s a lot…of things that have mixed together in an interesting way and only in that moment will that interesting mixture come out
 
+### Carl Rogers _On Becoming a Person_ (1961)
+
+> ...I have almost invariably found that the very feeling which has seemed to me most private, most personal, and hence most incomprehensible by others, has turned out to be an expression for which there is a resonance in many other people.
+
 ### Denise Scott Brown, Steven Izenour, and Robert Venturi  [_Learning from Las Vegas_](https://en.wikipedia.org/wiki/Learning\_from\_Las\_Vegas)
 
 > We look backward at history and tradition to go forward; we can also look downward to go upward. And withholding judgement may be used as a tool to make later judgement more sensitive. This is a way of learning from everything.
@@ -198,9 +202,5 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 > Civilization advances by extending the number of important operations which we can perform without thinking about them.
 
 
-
-{% hint style="info" %}
-\#TODO: start at "Dominique Foray The Economics of Knowledge" on [maybeuseful quotes](http://maybeuseful.org/posts/quotes/) and continue going up.
-{% endhint %}
 
 \
