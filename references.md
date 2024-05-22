@@ -6,15 +6,21 @@ description: >-
 
 # References
 
+### **Beyoncé** [_Life is but a Dream_](https://youtu.be/VJizQTAySGQ?t=5204)
+
+> When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and we eventually become what we’re supposed to be.&#x20;
+
+### Christopher Alexander [_A City Is Not a Tree_](https://www.patternlanguage.com/archive/cityisnotatree.html)
+
+> Modern psychology treats thought as a process of fitting new situations into existing slots and pigeonholes in the mind. Just as you cannot put a physical thing into more than one physical pigeonhole at once, so, by analogy, the processes of thought prevent you from putting a mental construct into more than one mental category at once. Study of the origin of these processes suggests that they stem essentially from the organism's need to reduce the complexity of its environment by establishing barriers between the different events that it encounters.
+
+> These experiments suggest strongly that people have an underlying tendency, when faced by a complex organization, to reorganize it mentally in terms of non-overlapping units. The complexity of the semilattice is replaced by the simpler and more easily grasped tree form.
+
 ### Viktor Frankl\*
 
 > Between stimulus and response lies a space. In that space lie our freedom and power to choose a response. In our response lies our growth and our happiness.
 
 _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_stimulus.html)
-
-### **Beyoncé** [_Life is but a Dream_](https://youtu.be/VJizQTAySGQ?t=5204)
-
-> When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and we eventually become what we’re supposed to be.&#x20;
 
 ### Rick Prelinger [_On the Virtues of Preexisting Material_](http://contentsmagazine.com/articles/on-the-virtues-of-preexisting-material/)
 
