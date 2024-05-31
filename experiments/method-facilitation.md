@@ -20,7 +20,7 @@ This experiment started on 7 April 2023.
 
 To date, [I](../about.md)[ have been](../about.md) the main research subject [on a quest](../needs.md) to develop a practice of unblocking myself.
 
-This experiment marks the first time other people will be experimenting with [the method](../method.md) by using [the improvised capture and revisiting workflows.](drop-journal-v0.1.md)
+This experiment marks the first time other people will be experimenting with [the method](../method.md) by using [the improvised capture and revisiting workflows.](ping-practic-0.1.md)
 
 ## Research questions&#x20;
 
