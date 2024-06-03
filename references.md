@@ -10,6 +10,10 @@ description: >-
 
 > When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and we eventually become what we’re supposed to be.&#x20;
 
+### Jiddu Krishnamurti
+
+> Understanding of the self only arises in relationship, in watching yourself in relationship to people, ideas, and things; to trees, the earth, and the world around you and within you. Relationship is the mirror in which the self is revealed. Without self-knowledge there is no basis for right thought and action.
+
 ### Christopher Alexander [_A City Is Not a Tree_](https://www.patternlanguage.com/archive/cityisnotatree.html)
 
 > Modern psychology treats thought as a process of fitting new situations into existing slots and pigeonholes in the mind. Just as you cannot put a physical thing into more than one physical pigeonhole at once, so, by analogy, the processes of thought prevent you from putting a mental construct into more than one mental category at once. Study of the origin of these processes suggests that they stem essentially from the organism's need to reduce the complexity of its environment by establishing barriers between the different events that it encounters.
