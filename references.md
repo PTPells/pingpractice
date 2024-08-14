@@ -6,6 +6,10 @@ description: >-
 
 # References
 
+### Tinashe [_Broken Record (interview)_](https://youtu.be/Fww83dpNUj4?si=2J6SIzoLJph94nzK\&t=584)
+
+> I always try to be very purposeful about following my instinct. Making sure to record my initial instinct on a beat...that's really important too. Because a lot of the time, I think that's your best idea.
+
 ### **Beyoncé** [_Life is but a Dream_](https://youtu.be/VJizQTAySGQ?t=5204)
 
 > When you really pay attention there a certain little clues we get; it’s so crystal clear what the next step is. It’s just this puzzle and everything is in its right place. And as we grow, take the next step, the dots get connected and we eventually become what we’re supposed to be.&#x20;
