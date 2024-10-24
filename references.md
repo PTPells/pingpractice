@@ -6,6 +6,10 @@ description: >-
 
 # References
 
+### Adrian Piper, [Mythic Being 1973](https://youtu.be/jVcXb8En\_Tw?si=bU8qZv2o8N5U7EUs\&t=160)
+
+> I take selections from my journal on a systemic basis. The journal I've been keeping for quite a number of years and I memorize that selection during a particular month and it acts as a kind of mantra and acts as a kind of a focal point to which my thoughts return when I'm not thinking about anything in particular.&#x20;
+
 ### Tinashe [_Broken Record (interview)_](https://youtu.be/Fww83dpNUj4?si=2J6SIzoLJph94nzK\&t=584)
 
 > I always try to be very purposeful about following my instinct. Making sure to record my initial instinct on a beat...that's really important too. Because a lot of the time, I think that's your best idea.
