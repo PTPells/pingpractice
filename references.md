@@ -6,7 +6,13 @@ description: >-
 
 # References
 
-### Adrian Piper, [Mythic Being 1973](https://youtu.be/jVcXb8En\_Tw?si=bU8qZv2o8N5U7EUs\&t=160)
+### Neil Postman, [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
+
+> For even the simplest act of naming a thing is an act of thinking—of comparing one thing with others, selecting certain features in common, ignoring what is different, and making an imaginary category.
+
+> There is no such thing in nature as “man” or “tree.” The universe offers no such categories or simplifications; only flux and infinite variety. The photograph documents and celebrates the particularities of this infinite variety. Language makes them comprehensible.
+
+### Adrian Piper, [Mythic Being 1973](https://youtu.be/jVcXb8En_Tw?si=bU8qZv2o8N5U7EUs\&t=160)
 
 > I take selections from my journal on a systemic basis. The journal I've been keeping for quite a number of years and I memorize that selection during a particular month and it acts as a kind of mantra and acts as a kind of a focal point to which my thoughts return when I'm not thinking about anything in particular.&#x20;
 
@@ -32,7 +38,7 @@ description: >-
 
 > Between stimulus and response lies a space. In that space lie our freedom and power to choose a response. In our response lies our growth and our happiness.
 
-_\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_stimulus.html)
+_\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote_stimulus.html)
 
 ### Rick Prelinger [_On the Virtues of Preexisting Material_](http://contentsmagazine.com/articles/on-the-virtues-of-preexisting-material/)
 
@@ -42,7 +48,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > There is a big difference between the existence of knowledge in some other place and its availability to the right people in the right place at the right time. The crux of the matter is knowing how to integrate and organize fragmented, scattered and thinly spread knowledge.
 
-### Edmund Leach [_1967 Reith Lecture_](http://downloads.bbc.co.uk/radio4/transcripts/reith3\_colour.pdf)
+### Edmund Leach [_1967 Reith Lecture_](http://downloads.bbc.co.uk/radio4/transcripts/reith3_colour.pdf)
 
 > This act of listening and understanding is an act of submission on your part.
 
@@ -70,7 +76,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > ...I have almost invariably found that the very feeling which has seemed to me most private, most personal, and hence most incomprehensible by others, has turned out to be an expression for which there is a resonance in many other people.
 
-### Denise Scott Brown, Steven Izenour, and Robert Venturi  [_Learning from Las Vegas_](https://en.wikipedia.org/wiki/Learning\_from\_Las\_Vegas)
+### Denise Scott Brown, Steven Izenour, and Robert Venturi  [_Learning from Las Vegas_](https://en.wikipedia.org/wiki/Learning_from_Las_Vegas)
 
 > We look backward at history and tradition to go forward; we can also look downward to go upward. And withholding judgement may be used as a tool to make later judgement more sensitive. This is a way of learning from everything.
 
@@ -98,7 +104,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > All ideas come from sensation or reflection. Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished?
 
-### Abby Smith Rumsey [_When We Are No More_](https://www.google.com/books/edition/When\_We\_Are\_No\_More/9Y8yEAAAQBAJ?hl=en)&#x20;
+### Abby Smith Rumsey [_When We Are No More_](https://www.google.com/books/edition/When_We_Are_No_More/9Y8yEAAAQBAJ?hl=en)&#x20;
 
 > ...analog information has a greater integrity—of the literal kind—and more accurately mirrors the embodied mind in time and space. But it is less flexible and faithful as a means of analysis, comparison, and communication over long distances.
 
@@ -112,7 +118,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > Space is made by the artist or architect; it is not found or packaged. It is made by thought.
 
-### Marshall McLuhan [_Understanding Media_](https://en.wikipedia.org/wiki/Understanding\_Media)&#x20;
+### Marshall McLuhan [_Understanding Media_](https://en.wikipedia.org/wiki/Understanding_Media)&#x20;
 
 > The oral man's inner world is a tangle of complex emotions and feelings that the Western practical man has long ago eroded or suppressed within himself in the interest of efficiency and practicality.
 
@@ -178,7 +184,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > Things are not quite real until they acquire names and can be classified in some way. Curiosity about places is part of a general curiosity about things, part of the need to label experiences so that they have a greater degree of permanence and fit into some conceptual scheme.
 
-### **Robert Greene** [_**Mastery**_](https://en.wikipedia.org/wiki/Mastery\_\(book\))
+### **Robert Greene** [_**Mastery**_](https://en.wikipedia.org/wiki/Mastery_\(book\))
 
 > If we feel like we know something, our minds close off to other possibilities. We see reflections of the truth we’ve already assumed. Such feeling of superiority are often unconscious and stem from a fear of what is different or unknown.
 
@@ -186,7 +192,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > One's tastes tends to propel you into the same areas over and over again.
 
-### **Kevin Lynch** [_**The Image of the City**_](https://en.wikipedia.org/wiki/The\_Image\_of\_the\_City)
+### **Kevin Lynch** [_**The Image of the City**_](https://en.wikipedia.org/wiki/The_Image_of_the_City)
 
 > Most objects which we are accustomed to call beautiful, such as a painting or a tree, are single-purpose things, in which, through long development or the impress of one will, there is an intimate, visible linkage from the fine detail to the total structure.
 
@@ -200,11 +206,11 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote\_sti
 
 > When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed.
 
-### **Marshall McLuhan** [_**Understanding Media**_](https://en.wikipedia.org/wiki/Understanding\_Media)
+### **Marshall McLuhan** [_**Understanding Media**_](https://en.wikipedia.org/wiki/Understanding_Media)
 
 > Plainly, to store is to expedite, since what is stored is also more accessible than what has to be gathered.
 
-### **Christopher Alexander** [_**The Timeless Way of Building**_](https://en.wikipedia.org/wiki/The\_Timeless\_Way\_of\_Building)
+### **Christopher Alexander** [_**The Timeless Way of Building**_](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)
 
 > ...the town slowly gets its structure from the incremental aggregation of their individual acts.
 
