@@ -6,6 +6,12 @@ description: >-
 
 # References
 
+### Neil Postman, [Teaching as a Subversive Activity](https://en.wikipedia.org/wiki/Inquiry_education)
+
+> People and things are processes. Judgements convert them into fixed states.
+
+> The new education has as its purpose the development of a new kind of person, one who — as a result of internalizing a different series of concepts — is an actively inquiring, flexible, creative, innovative, tolerant, liberal personality who can face uncertainty and ambiguity without disorientation, who can formulate viable new meanings to meet changes in the environment which threaten individual and mutual survival.
+
 ### Neil Postman, [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
 
 > For even the simplest act of naming a thing is an act of thinking—of comparing one thing with others, selecting certain features in common, ignoring what is different, and making an imaginary category.
