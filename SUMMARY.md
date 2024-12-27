@@ -26,3 +26,4 @@
 * [Meta](meta.md)
 * [Prototype: Ping Randomizer](prototype-ping-randomizer.md)
 * [Stream](stream.md)
+* [Inbox](inbox.md)

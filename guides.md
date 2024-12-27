@@ -2,6 +2,7 @@
 description: >-
   Ping Practice is a medium-agnostic method. Here you will find guides for how
   you can experiment with Ping Practice using tools you might be familiar with.
+hidden: true
 ---
 
 # 📔 Guides
