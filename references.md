@@ -12,6 +12,14 @@ description: >-
 
 > The new education has as its purpose the development of a new kind of person, one who — as a result of internalizing a different series of concepts — is an actively inquiring, flexible, creative, innovative, tolerant, liberal personality who can face uncertainty and ambiguity without disorientation, who can formulate viable new meanings to meet changes in the environment which threaten individual and mutual survival.
 
+### Julia Camera, Source: [The Artist's Way](https://en.wikipedia.org/wiki/The_Artist's_Way)
+
+> As artists, we must learn to create our own safe environments. We must learn to protect our artist child from shame.
+
+> Most of the time when we are blocked in an area of our life, it is because we feel safer that way. We may not be happy, but at least we know what we are—unhappy. Much fear of our own creativity is the fear of the unknown.
+
+> The events in our lives happen in a sequence in time, but in their significance to ourselves, they find their own order . . . the continuous thread of revelation&#x20;
+
 ### Neil Postman, [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
 
 > For even the simplest act of naming a thing is an act of thinking—of comparing one thing with others, selecting certain features in common, ignoring what is different, and making an imaginary category.
