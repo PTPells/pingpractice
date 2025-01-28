@@ -6,6 +6,16 @@ description: >-
 
 # References
 
+### Alvaro Vieira Pinto
+
+> Consciousness is thus by definition a method, in the most general sense of the word.
+
+### Paulo Freire, [_Pedagogy of the Oppressed_](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed)
+
+> ...there is no transformation without action.
+
+> Human beings are because they are in a situation. And they will be more the more they not only critically reflect upon their existence but critically act upon it.
+
 ### Neil Postman, [Teaching as a Subversive Activity](https://en.wikipedia.org/wiki/Inquiry_education)
 
 > People and things are processes. Judgements convert them into fixed states.
