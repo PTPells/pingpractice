@@ -1,6 +1,6 @@
 ---
 description: >-
-  Ping Practices continues to be shaped by an expansive body of pre-existing
+  Ping Practice continues to be shaped by an expansive body of pre-existing
   thought and through conversations with people in the present.
 ---
 
