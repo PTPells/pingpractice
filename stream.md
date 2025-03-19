@@ -58,7 +58,7 @@ i. In this moment, I'm intentionally scoping this question to the app and exclud
 
 ii. E.g. Instagram, Twitter, camera roll, TikTok, etc.
 
-### 8 February 2024
+## 8 February 2024
 
 ### **Pace layers**
 
@@ -95,7 +95,7 @@ In thinking about the artifact(s) Ping Practice could inspire and empower you to
 1. _Might I be more present and accepting of how I’m feeling if I can easily reference the "features" of the present moment  (e.g. responsibilities, interactions, choices, etc.)  that have been impacting me?_
 2. _Might I be able to more effectively embody an intention if it’s bounded/related to a phase/period of time that I've named?_
 
-### 5 January 2024
+## 5 January 2024
 
 ### **Memorable Artifacts**
 
@@ -336,7 +336,7 @@ I'm starting to use the "Pin" field I set up yesterday which in turn inspired me
 
 _Aside: I wonder if it might be interesting to call – what I'd previosuly been referring to as "Favorites" – simply "Active"...at least by default. Keep it simple, generic, and uncomplicated by people bringing existing meaning and expectation(s) to the word._
 
-### 26 April 2023
+## 26 April 2023
 
 <figure><img src=".gitbook/assets/Screenshot 2023-04-26 at 10.48.17 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -380,7 +380,7 @@ I then went to Notion to search for `pronoun` which quickly returned what I've s
 
 Before Monday, I would've gone directly to Twitter to attempt the search above which  past experiences have led me to doubt whether that search would return the Tweets I'm fairly certain existed.
 
-### 11 April 2023
+## 11 April 2023
 
 _Observe during the Ping Practice (0.1) experiment._
 
