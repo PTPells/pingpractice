@@ -4,8 +4,8 @@ description: Using existing apps to approximate the eventual Ping Practice app d
 
 # Ping Practic (0.1)
 
-{% hint style="info" %}
-This experiment started on 10 April 2023.
+{% hint style="success" %}
+Experiment started in April 2023 and concluded in September 2023 when work on [Ping Practice (0.1)](ping-practice-0.2.md) began.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Journaling Method (1) (1).png" alt=""><figcaption><p>Improvised Drop Journal experience.</p></figcaption></figure>
@@ -67,11 +67,7 @@ I think I was immediately attracted to the potential of [the Automation function
 
 _Say more_
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/Comments as draft space (1).PNG" alt="Screenshot showing Airtable commenting functionality in iOS app" width="188"><figcaption><p>Using comments as a draft space</p></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Comments as draft space (1).PNG" alt="Screenshot showing Airtable commenting functionality in iOS app" width="188"><figcaption><p>Using comments as a draft space</p></figcaption></figure></div>
 
 I continue to love having the ability to "say more" about a ping that speaks to me as I'm going back and revisiting.
 
@@ -146,15 +142,7 @@ _Resulting questions_&#x20;
 
 #### IDs + Record linking
 
-<div>
-
-<figure><img src="../.gitbook/assets/Record linking.jpeg" alt="Airtable screenshot showing how to link records together."><figcaption><p>Searching for a record to link to the current one.</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Record linking (1).jpeg" alt="Airtable screenshot showing ID on each record."><figcaption><p>Showing the new ID field visible on the card.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Record linking.jpeg" alt="Airtable screenshot showing how to link records together."><figcaption><p>Searching for a record to link to the current one.</p></figcaption></figure> <figure><img src="../.gitbook/assets/Record linking (1).jpeg" alt="Airtable screenshot showing ID on each record."><figcaption><p>Showing the new ID field visible on the card.</p></figcaption></figure></div>
 
 Ok! Two adjustments tonight that I feel energized about...
 
@@ -273,11 +261,7 @@ _See:_ [_https://twitter.com/pingpractice/status/1650580408151740417_](https://t
 
 #### Search
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 Just now, I was [saying something in @pingpractice](https://twitter.com/pingpractice/status/1646205350817955843?s=20). In the process, I noticed myself making a choice _not_ to use a possessive pronoun.  In making this choice, I thought to myself, "Oh this would be a good convention/pattern to name in the ["Personal syntax" are.na channel](https://www.are.na/peter-pelberg/personal-syntax) I started."
 

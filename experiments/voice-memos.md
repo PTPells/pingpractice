@@ -4,8 +4,8 @@ description: Trying a new medium (speech) to capture pings.
 
 # Voice memos
 
-{% hint style="info" %}
-This experiment is ongoing. It started on 28 January 2023&#x20;
+{% hint style="success" %}
+This  started on 28 January 2023. It is now complete.
 {% endhint %}
 
 This is an experiment to use speech (read: voice memos) to sketch loose ideas in an effort to explore the following curiosities:

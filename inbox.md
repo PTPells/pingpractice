@@ -2,6 +2,7 @@
 description: >-
   This page holds works that might evolve and expand the network of ideas I
   understand Ping Practice to be holding in its orbit.
+hidden: true
 ---
 
 # Inbox

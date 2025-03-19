@@ -1,8 +1,9 @@
 ---
 description: Observations and loose thoughts.
+icon: eyes
 ---
 
-# Stream
+# Observations
 
 ## 20 February 2023
 
@@ -12,7 +13,7 @@ Some loose/quick/initial thoughts on space...
 
 * I resonate with spaces where I, and the people who are present with me in it, feel safe and empowered to improvise&#x20;
   * Where "improvise" in this context means the ability to notice new information, without judgement, and make choices that they think cohere with what the people who share in the space are present to create.&#x20;
-* I feel empowered to participate in a space when ([source](https://twitter.com/pingpractice/status/1577778444296929280?s=20\&t=66lYHsjFlZDKZxR8LT\_f\_g)):
+* I feel empowered to participate in a space when ([source](https://twitter.com/pingpractice/status/1577778444296929280?s=20\&t=66lYHsjFlZDKZxR8LT_f_g)):
   * There is a clear and shared objective for what we are trying to make (defined in the broadest of terms)
   * I trust that others will check whether they’ve understood what I’ve said in the way I intended it
   * I trust that I will have an opportunity to repair harm if/when I cause it
@@ -86,7 +87,7 @@ That phrasing doesn't quite capture it, but it's a start.
 
 ### Micro-syntax
 
-I'm attracted to describing the personal classifiers I talked about on [3 November 2022](stream.md#3-november-2022-1) and [31 October 2022 ](stream.md#undefined)as a kind of "micro-syntax" or way of declaring or codifying types of thought in an explicit enough way that I "operate" on them at some later point.
+I'm attracted to describing the personal classifiers I talked about on [3 November 2022](observations.md#3-november-2022-1) and [31 October 2022 ](observations.md#undefined)as a kind of "micro-syntax" or way of declaring or codifying types of thought in an explicit enough way that I "operate" on them at some later point.
 
 ### Quotations
 
@@ -100,7 +101,7 @@ I find that doing the above helps break me out of the _"find the ideal"_ languag
 
 ### \[Reflex]
 
-Building on the idea of [thought types from 31 October 2022](stream.md#undefined), I wonder if there could be meaning in experimenting with using a`[reflex`] thought type.&#x20;
+Building on the idea of [thought types from 31 October 2022](observations.md#undefined), I wonder if there could be meaning in experimenting with using a`[reflex`] thought type.&#x20;
 
 Where "reflex" could be a moment when I feel, say, unseen, hurt, sad, etc.
 

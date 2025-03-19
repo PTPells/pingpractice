@@ -62,7 +62,7 @@ Ping Practice is a loop with 6 steps within it.
 2. The second step follows quickly after the first: **Naming**.&#x20;
 3. Giving some language – no matter how rough – to what Pinged for you and locating this ping in the place where you've put all of the other pings you've logged before.\
    \
-   _The most important thing in this moment is making sure the name you give to the Ping is specific enough for your future self to recall what you were referring to._
+   &#xNAN;_&#x54;he most important thing in this moment is making sure the name you give to the Ping is specific enough for your future self to recall what you were referring to._
 4. The third steps is to **Revisit** previous Pings. \
    \
    The cadence with which you revisit can vary. _The most important thing is that you spend enough time with what's pinged for you to develop an ambient and intuitive sense for the what's been speaking to you._&#x20;
@@ -70,7 +70,7 @@ Ping Practice is a loop with 6 steps within it.
    \
    For a Ping to acquire meaning, you need to:
    * _Edit_ Pings so the language you use to represent them better reflects what it was that you initially noticed.
-   * _Re_s_pond_ to Pings as a way of exploring all that a particular Ping could contain/bring up for you.
+   * _R&#x65;_&#x73;_pond_ to Pings as a way of exploring all that a particular Ping could contain/bring up for you.
    * _Relate_ Pings to one another to help identify and name patterns that could help to explain your resonance with a particular Ping or set of Pings.
 6. The purpose of Ping Practice is to turn the little things you notice (Pings) into insights that you can apply/act on. A core part of the "applying" part is making sure Pings are easy for you to **Remember** in the small windows you have opportunities to apply them. \
    \

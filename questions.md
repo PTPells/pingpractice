@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Prompts
 
 Prompts are important to me.&#x20;

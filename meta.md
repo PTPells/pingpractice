@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Meta
 
 {% hint style="info" %}
