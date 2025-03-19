@@ -2,23 +2,13 @@
 description: A first pass at a native Ping Practice app
 ---
 
-# Ping Practice (1.0)
+# Ping Practice (0.2)
 
-{% hint style="info" %}
-Development began September 2023.
+{% hint style="success" %}
+Development began September 2023 and stopped in June 2024 when work on the [MVP](ping-practice-mvp.md) began.
 {% endhint %}
 
-
-
-<div>
-
-<figure><img src="../.gitbook/assets/IMG_9865.PNG" alt=""><figcaption><p>Ping Capture </p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/IMG_7BC07064FF25-1.jpeg" alt=""><figcaption><p>List of Pings</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/IMG_9865.PNG" alt=""><figcaption><p>Ping Capture </p></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_7BC07064FF25-1.jpeg" alt=""><figcaption><p>List of Pings</p></figcaption></figure></div>
 
 ## Research questions&#x20;
 
@@ -74,7 +64,7 @@ Holding all of the above in mind, some ideas come to mind for what properties ma
 * Total number of edits (human / bot)
 * Average time between visits
 * Average visits per day/week/month
-* [Assessment](https://en.wikipedia.org/wiki/Wikipedia:Content\_assessment)&#x20;
+* [Assessment](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)&#x20;
 
 
 
@@ -102,7 +92,7 @@ The diagram above is a first pass at bringing some visual shape to the above. Ne
 
 _Artifacts_
 
-![Screenshot of the "Character creation" Wikipedia article](<../.gitbook/assets/Screenshot 2024-01-19 at 6.12.50 PM.png>)![Early childhood developmental phases Carolyn Li-Madeo shared with me](<../.gitbook/assets/msg578802492-70058 (2).jpg>)![Screenshot of the "Wonder Weeks" app's childhood "leap" timeline. ](<../.gitbook/assets/IMG\_0099 (2).PNG>)
+![Screenshot of the "Character creation" Wikipedia article](<../.gitbook/assets/Screenshot 2024-01-19 at 6.12.50 PM.png>)![Early childhood developmental phases Carolyn Li-Madeo shared with me](<../.gitbook/assets/msg578802492-70058 (2).jpg>)![Screenshot of the "Wonder Weeks" app's childhood "leap" timeline. ](<../.gitbook/assets/IMG_0099 (2).PNG>)
 
 I'm feeling inspired by the prospect of a potential artifact that can serve as a dynamic/ever-[evolving personal frame of reference](#user-content-fn-3)[^3], the primitives for which could be Moments/Events, Phases/Periods, and Cycles/Loops. _More on those another time._&#x20;
 
@@ -149,7 +139,7 @@ Every so often, [a Ping will emerge that feels distinct from other Pings](#user-
 
 _In my mind is the image of a natural dam giving way and with it, water flowing freely through – what had previously been – a constricted waterway._
 
-Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-5)[^5]d and clear and how I might go about nurturing [a creative practice that harmonizes with being present as a new father](https://www.youtube.com/watch?v=JRIosU6X060\&list=PLKUjvP9gOhhhrrTXtjXLMpfmrQ5\_6SshL).
+Last night, a Ping of this sort surfaced, _"I'm creating from a place. I'm not creating to get to a place."_ This Ping, combined with a series of Pings before it, [summed into me becoming unblocke](#user-content-fn-5)[^5]d and clear and how I might go about nurturing [a creative practice that harmonizes with being present as a new father](https://www.youtube.com/watch?v=JRIosU6X060\&list=PLKUjvP9gOhhhrrTXtjXLMpfmrQ5_6SshL).
 
 Beyond these Pings' power to unblock and generate new thoughts, they tend to be durable, relevant to the broader context/place[^6] I find myself within. In hindsight, these Pings also tend to be memorable. They can quickly bring me back into the moment they served me within...they can demarcate time.
 
@@ -174,7 +164,7 @@ _Revisiting_&#x20;
 
 [^2]: "The power of meaning is that it completely organizes being." | [David Bohm](https://www.are.na/block/22989196)
 
-[^3]: I think [character creation experiences](https://en.wikipedia.org/wiki/Character\_creation) in role-playing video games could be inspiring/instructive here.
+[^3]: I think [character creation experiences](https://en.wikipedia.org/wiki/Character_creation) in role-playing video games could be inspiring/instructive here.
 
 [^4]: E.g. ["Pick up the phone"](https://www.youtube.com/watch?v=avOU29QkuPk\&t=33s)
 
