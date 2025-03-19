@@ -18,9 +18,11 @@ _#TODO_
 
 _#TODO_
 
-## Log
+## Observations
 
-### 18 April 2024&#x20;
+_See_ [_Observation log_](../stream.md) _for more._
+
+## 18 April 2024&#x20;
 
 We seem to have [arrived into language](https://pingpractice.org/) that is somewhat effective at helping people recognize "Pings" amongst the range of thoughts/feelings they experience.
 
@@ -76,7 +78,7 @@ ii. E.g. Instagram, Twitter, camera roll, TikTok, etc.
 
 ### 8 February 2024
 
-_Pace layers_
+### **Pace layers**
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p> Ping layer of abstraction (v0.1)</p></figcaption></figure>
 
@@ -88,9 +90,9 @@ This second bit led me to wonder, _"Might zoom in the Ping Practice Universe ref
 
 The diagram above is a first pass at bringing some visual shape to the above. Next time, I'd like to walk through some actual examples to evaluate the extent to which this way of thinking reflects/describes what I've experinece with Ping Practice.
 
-### 19 January 2024
+## 19 January 2024
 
-_Artifacts_
+### **Artifacts**
 
 ![Screenshot of the "Character creation" Wikipedia article](<../.gitbook/assets/Screenshot 2024-01-19 at 6.12.50 PM.png>)![Early childhood developmental phases Carolyn Li-Madeo shared with me](<../.gitbook/assets/msg578802492-70058 (2).jpg>)![Screenshot of the "Wonder Weeks" app's childhood "leap" timeline. ](<../.gitbook/assets/IMG_0099 (2).PNG>)
 
@@ -102,11 +104,9 @@ In this moment, I could see this "frame of reference" containing the following:
 * _Parent's visit: a decrementing counter of the number of days left until my parent depart for home._
 * _Leila's age: some kind of bounded block of time that gives some rough shape to what Leila is likely experiencing. E.g. development leaps she's going through, what she's likely to be needing in any given moment._
 
+## 14 January 2024
 
-
-### 14 January 2024
-
-_Artifacts_
+### **Artifacts**
 
 In thinking about the artifact(s) Ping Practice could inspire and empower you to make, new language surfaced for what I notice myself needing. I sense the questions that follow could eventually inform the "shape" of these yet-to-be-named artifacts...
 
@@ -115,7 +115,7 @@ In thinking about the artifact(s) Ping Practice could inspire and empower you to
 
 ### 5 January 2024
 
-_Memorable Artifacts_
+### **Memorable Artifacts**
 
 <figure><img src="../.gitbook/assets/Ping-Practice-Method-Diagram.png" alt="Work in progress Ping Practice method diagram Laurel Schwulst created"><figcaption><p>Iteration of Ping Practice method diagram by Laurel Schwulst.</p></figcaption></figure>
 
@@ -127,9 +127,9 @@ I think it's important to arrive at a clear opinion on the above – regardless 
 
 This topic feels quite big to me. To start, I'm thinking I'll review the meaningful and memorable Pings I've created over time.
 
-### 31 December 2023
+## 31 December 2023
 
-_Notable Pings_
+### Notable Pings
 
 
 
@@ -148,9 +148,9 @@ The power and durability of these Pings leads me to wonder:
 1. _How – if at all – might the interface inspire you to converge on "notable" Pings?_
 2. _Where – if at all – might the interface afford space for "notable" Pings to gather?_
 
-### 27 December 2023
+## 27 December 2023
 
-_Revisiting_&#x20;
+### Revisiting&#x20;
 
 * Revisting: consistently experiencing instinct to "go back"; current ability to explore feels limited&#x20;
 * Artifacts: neding affordance(s) to inspire me to create intentions&#x20;

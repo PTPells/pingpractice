@@ -9,6 +9,7 @@
 * [Conversations](conversations/README.md)
   * [Phase #1](conversations/phase-1.md)
   * [Phase #2](conversations/phase-2.md)
+* [Observations](stream.md)
 * [Experiments](experiments/README.md)
   * [Containers](experiments/containers.md)
   * [Ping Practice MVP](experiments/ping-practice-mvp.md)
@@ -25,5 +26,4 @@
 * [Prompts](questions.md)
 * [Meta](meta.md)
 * [Prototype: Ping Randomizer](prototype-ping-randomizer.md)
-* [Observations](observations.md)
 * [Inbox](inbox.md)

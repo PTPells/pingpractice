@@ -25,7 +25,9 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 
 
-## Log
+## Observations
+
+_See_ [_Observation log_](../stream.md) _for more._
 
 ### 18 August 2023
 
@@ -274,6 +276,8 @@ I then went to Notion to search for `pronoun` which quickly returned what I've s
 Before Monday, I would've gone directly to Twitter to attempt the search above which  past experiences have led me to doubt whether that search would return the Tweets I'm fairly certain existed.
 
 ### 11 April 2023
+
+_Observe during the Ping Practice (0.1) experiment._
 
 #### Day/time lens/filter
 

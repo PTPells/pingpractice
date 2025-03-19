@@ -28,7 +28,9 @@ Inspired by how Natalia had been using voice notes in the stream we maintain tog
 
 ### Observations
 
-#### **9 April 2023**
+_See_ [_Observation log_](../stream.md) _for more._
+
+## **9 April 2023**
 
 On Saturday, I was making coffee and I wanted to "capture" the sound of the coffee dripping down from the V60 cone into the coffee that had already accumulated in the caraffe atop which the V60 rested.
 
@@ -41,7 +43,9 @@ Right now, I see two bits of information in the pattern above:
 1. I feel comfortable talking \[aloud] with myself. It feels natural to me. Once I get going, I do not seem to have difficulty knowing "where to go" next and/or how to go about getting there and ultimately "landing" the note.
 2. It's important that [the app](../app.md) make capturing a voice memo as easy as snapping a photo. This way, people feel inclined to act on those little instincts to capture something which could lead to some larger expression.
 
-#### **20 February 2023**
+## **20 February 2023**
+
+### **Medium and speed**
 
 Tonight, [something new felt like it "clicked" in my mind](https://twitter.com/pingpractice/status/1627869317965684736) related to how I've been experimenting with [authoring journaling prompts](https://www.are.na/peter-pelberg/journaling-prompts-oyhfj1bz7c4).
 
@@ -62,7 +66,26 @@ Although, having arrived here and explore this question a bit I'm coming to wond
 \--- \
 i. In this case, drafting a prompt in my mind in response to something I was feeling)&#x20;
 
-#### **9 February 2023**
+### Conditions for contribution
+
+Some loose/quick/initial thoughts on space...
+
+* I resonate with spaces where I, and the people who are present with me in it, feel safe and empowered to improvise&#x20;
+  * Where "improvise" in this context means the ability to notice new information, without judgement, and make choices that they think cohere with what the people who share in the space are present to create.&#x20;
+* I feel empowered to participate in a space when ([source](https://twitter.com/pingpractice/status/1577778444296929280?s=20\&t=66lYHsjFlZDKZxR8LT_f_g)):
+  * There is a clear and shared objective for what we are trying to make (defined in the broadest of terms)
+  * I trust that others will check whether they’ve understood what I’ve said in the way I intended it
+  * I trust that I will have an opportunity to repair harm if/when I cause it
+  * I trust that I will be seen for what I know and have experienced
+  * I trust I will be listened to
+  * I trust that others will assume I am acting in good faith
+  * I know that we have practices/traditions in places to remember the choices we make and why
+* I enjoy playing the role of someone who:
+  * Creating the conditions necessary for the group to decide what they will commit to making and why&#x20;
+  * Supplies the group with the clarity they need to deploy the expertise they've developed.&#x20;
+    * Where "deploy" could mean things like: assessing risk, creating an artifact, determining whether a piece of new information is notable enough to be shared with the rest of the group
+
+## **9 February 2023**
 
 I miss the ability to edit/iterate upon what I've said. \
 \
@@ -76,7 +99,15 @@ And so to me, that obviously "imprecise" thought lies hanging.&#x20;
 
 Although, now that I've gotten here, I'm thinking to myself, _"Well, why not try recording a follow-up sketch. Alternatively, if/when there becomes a point when you do this kind of sketching publicly, perhaps that gap between what you meant to communicate and what you did communicate could be the invitation someone else needs to feel motivated, welcomed, and safe to participate in the conversation?"_
 
-#### **2 February 2023**
+## 3 February 2023
+
+### Prompts&#x20;
+
+I value it when a space, person, etc. invites me to say aloud something for the first time.
+
+This happened during [today's are.na walkthrough](https://www.are.na/are-na-team/02-03-23-channel-walkthroughs-ft-luiza-dale-peter-pelberg-noa-mori-njari-anderson): _I appreciate prompts that are proximate and clear enough that I can immediately pick them up/reach for them and in doing so, be moved to see something that feels new, fresh...something I might not have seen otherwise._
+
+## **2 February 2023**
 
 I've tried using voice memos to express how I'm feeling twice now (ordinarily, I'd reach for writing in these moments).
 
@@ -85,6 +116,8 @@ I have not yet felt satisfied with voice for expressing this kind of feeling/tho
 The medium moves at the speed of my voice which is helpful for "getting something down" before it escapes me. Tho, often too fast for me to process how I'm feeling.
 
 I'm not able to write (or more accurately, type) as quickly as I can think. In this context, I find it helpful to be slowed down...to fix typos...to take a moment to re-read the sentence I just wrote before proceeding on...to sigh.
+
+
 
 
 
