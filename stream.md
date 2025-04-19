@@ -4,6 +4,18 @@ description: Observations and loose thoughts.
 
 # Observations
 
+## 18 April 2025
+
+_Reflection Pings_
+
+More to come!
+
+
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdvsaN141VJlA-6mTfFWwxkBOmVN5WCceZegePHbzXUDmM2KZ-4la--Hy5NeMg-uG3oxSbkIzdB2oAtJ2kP_uUh13N-Ni2f4SE-aS1RNfCqPwPW2yUyLl8boZKtvPtKXDvGCTkk=s2048?key=nEFo7tFjNFJbYFFFXkj94-Mm)&#x20;
+
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>dd</p></figcaption></figure>
+
 ## 18 April 2024&#x20;
 
 We seem to have [arrived into language](https://pingpractice.org/) that is somewhat effective at helping people recognize "Pings" amongst the range of thoughts/feelings they experience.
