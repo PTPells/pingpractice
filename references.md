@@ -6,6 +6,12 @@ description: >-
 
 # References
 
+### Clay Shirky, [Ontology is Overrated: Categories, Links, and Tags](https://archive.org/details/Ontology_is_Overrated_Categories_Links_and_Tags/page/n1/mode/2up)
+
+> ...if you've got enough links, you don't need the hierarchy anymore. There is no shelf. There is no file system. The links alone are enough.
+
+> Does the world make sense or do we make sense of the world? If you believe the world makes sense, then anyone who tries to make sense of the world differently than you is presenting you with a situation that needs to be reconciled formally, because if you get it wrong, you're getting it wrong about the real world.
+
 ### Alvaro Vieira Pinto
 
 > Consciousness is thus by definition a method, in the most general sense of the word.
