@@ -10,11 +10,13 @@ _Reflection Pings_
 
 More to come!
 
+<div><figure><img src=".gitbook/assets/Screenshot 2025-04-22 at 21.18.55.png" alt=""><figcaption><p><a href="https://x.com/pingpractice/status/1482237137344819202">https://x.com/pingpractice/status/1482237137344819202</a></p></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2025-04-22 at 21.16.51.png" alt=""><figcaption><p>Email to David Goligorsky (September 2022)</p></figcaption></figure></div>
 
+&#x20;
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdvsaN141VJlA-6mTfFWwxkBOmVN5WCceZegePHbzXUDmM2KZ-4la--Hy5NeMg-uG3oxSbkIzdB2oAtJ2kP_uUh13N-Ni2f4SE-aS1RNfCqPwPW2yUyLl8boZKtvPtKXDvGCTkk=s2048?key=nEFo7tFjNFJbYFFFXkj94-Mm)&#x20;
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdvsaN141VJlA-6mTfFWwxkBOmVN5WCceZegePHbzXUDmM2KZ-4la--Hy5NeMg-uG3oxSbkIzdB2oAtJ2kP_uUh13N-Ni2f4SE-aS1RNfCqPwPW2yUyLl8boZKtvPtKXDvGCTkk=s2048?key=nEFo7tFjNFJbYFFFXkj94-Mm" alt="" width="375"><figcaption><p>Sketch Jamie made of  reflecting affordance, similar to "quote tweet"</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>dd</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>Snapshot of Ping Practice FreeForm experiment (February 2024)</p></figcaption></figure>
 
 ## 18 April 2024&#x20;
 
