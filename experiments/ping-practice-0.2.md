@@ -20,7 +20,7 @@ _#TODO_
 
 ## Observations
 
-_See_ [_Observation log_](../stream.md) _for more._
+_See_ [_Observation log_](../loose.md) _for more._
 
 ## 18 April 2024&#x20;
 

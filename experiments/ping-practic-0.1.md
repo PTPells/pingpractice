@@ -27,7 +27,7 @@ The [Twitter experiment](twitter-pt.-1.md) proved successful in so far as the be
 
 ## Observations
 
-_See_ [_Observation log_](../stream.md) _for more._
+_See_ [_Observation log_](../loose.md) _for more._
 
 ### 18 August 2023
 

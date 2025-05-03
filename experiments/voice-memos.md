@@ -28,7 +28,7 @@ Inspired by how Natalia had been using voice notes in the stream we maintain tog
 
 ### Observations
 
-_See_ [_Observation log_](../stream.md) _for more._
+_See_ [_Observation log_](../loose.md) _for more._
 
 ## **9 April 2023**
 

@@ -2,7 +2,55 @@
 description: Observations and loose thoughts.
 ---
 
-# Observations
+# Loose
+
+## 2 May 2025
+
+<figure><img src=".gitbook/assets/IMG_EFFBB4C980FD-1.jpeg" alt="" width="375"><figcaption><p>Ping Practice (Friday, May 2, 2025)</p></figcaption></figure>
+
+The rate at which "my" corpus of Pings is growing, to me, is evidence of how effective the current app experience (and mechanics) are at inspiring me to use it for capture.
+
+_And_ scrolling through thousands of pings in "grid" view right now brings me back in contact with what people (e.g. Laurel, Bao, [Jamie](https://docs.google.com/presentation/d/1V6312Z6-joLsF1aQMA5lLt1-FwkYE7RVz_OcZaLK6tE/edit?disco=AAABf6eNX4I), [Kirsten](https://docs.google.com/presentation/d/1V6312Z6-joLsF1aQMA5lLt1-FwkYE7RVz_OcZaLK6tE/edit#slide=id.g34d439da168_1_52)) have been expressing: a draw towards being able to do more with Pings within the app...
+
+* To make meaningful pings more prominent
+* To enrich pings to be more sensorial
+* To store/express the relationships you notice between pings
+* To explore a ping further (e.g. to "sharpen" it, to make it more specific)
+
+I think how I reencountered this gap/tension is relevant here for I think it might elucidate the reason I've felt some distance from it (I'm not suggesting any qualitative valence to that distance!)...\
+\
+At present, I often approach&#x20;
+
+## 28 March 2025
+
+Laurel has helpfully identified that, at present, the Ping Practice app is somewhat static.
+
+"Static" in that you are limited in the ways that you can interact with pings. _E.g. to store/express a relationship you notice between pings, to enrich pings to make them more sensorial, to make meaningful pings easier to reach for and encoutner, etc._
+
+To help bridge this gap, Laurel has entered the idea of offering people a relatively constrained way of labeling pings.&#x20;
+
+I've sensed some resistance to this style of idea and I'd like to articulate why and begin to sketch an alternative approach that I feel more resonance with.
+
+I think the resistance I feel to the labeling-style approach is the extent to which I perceive it:
+
+1. Requires you to invent its meaning before it become useful
+2. Lacks an explicit way to encode and track the meaning you store within it
+3. Being vulnerable to that meaning evolving over time
+4. The collection of pings losing coherence as a result of "2." and "3."
+
+More broadly, I feel an approach of this sort encourages order at the expense of meaning.
+
+I see this pattern playing out in other apps that prioritize order and organization at the expense of supporting meaning-making and action.
+
+For me, these kinds of experiences end up feeling stale or like work.&#x20;
+
+What feels more resonant to me is expressing meaning through more placed-based choices that intrinsically suggest an application/use. &#x20;
+
+<div><figure><img src=".gitbook/assets/IMG_2843.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_2842.jpg" alt=""><figcaption></figcaption></figure></div>
+
+_E.g. I can imagine myself setting a ping I want to remember as the helper text that appears within the capture screen. I can image there being some kind of public-side to our respective practices that  affords us a set number of pings we can display at any given time. I can imagine you naming a particular theme. In all cases, I think it'd be important to see the history of choices you've made._
+
+Common among these examples is this idea that you're making choices that – to me – feel more like you're making choices that enable creative action.&#x20;
 
 ## 18 April 2025
 
@@ -168,7 +216,7 @@ I also noticed this act prompted Natalia and I to talk about what we were both s
 
 I'm coming to find that what I need to be reminded of is dynamic; it varies day-by-day. And yet, I'm still not yet feeling like the "🟢 Active" view inspires me to revisit and reprogram it at a commensurate cadence. &#x20;
 
-The [automated email](stream.md#25-june-2023) is helping some. Seeing the "🟢 Active" email arrive each day has caused the space itself to become more top of mind, but I've yet to find myself going into Airtable and asking myself, _"Which of these are still relevant for today? Which is relevant for today that might not currently be represented?"_ and acting on the answers.&#x20;
+The [automated email](loose.md#25-june-2023) is helping some. Seeing the "🟢 Active" email arrive each day has caused the space itself to become more top of mind, but I've yet to find myself going into Airtable and asking myself, _"Which of these are still relevant for today? Which is relevant for today that might not currently be represented?"_ and acting on the answers.&#x20;
 
 With this context in mind, an idea emerged this past weekend (30 June): I set an intention for a defined period of time:
 
@@ -249,7 +297,7 @@ Walkthrough of Drop Journal `🟢 Active` view as of 11 May 2023.
 
 Okay! Something is connecting and I'd like to try to map it out...
 
-I notice [the current Airtable set up](stream.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](needs.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-7)[^7] _within_ the fleeting moments where I/he[^8] has sensed opportunities to apply them.
+I notice [the current Airtable set up](loose.md#details) enabling/prompting/affording me the ability to do [what I felt like I've needed all along](needs.md#needs): "present peter" [remembering and crucially, acting on the clarity/truths/intentions/etc. "past peter" converged on](#user-content-fn-7)[^7] _within_ the fleeting moments where I/he[^8] has sensed opportunities to apply them.
 
 Naming the above feels notable. Reason: in coming to realize this impact, I think I'm also starting to see the factors that may be contributing this slight behavior change emerging:
 
@@ -548,7 +596,7 @@ That phrasing doesn't quite capture it, but it's a start.
 
 ### Micro-syntax
 
-I'm attracted to describing the personal classifiers I talked about on [3 November 2022](stream.md#3-november-2022-1) and [31 October 2022 ](stream.md#undefined)as a kind of "micro-syntax" or way of declaring or codifying types of thought in an explicit enough way that I "operate" on them at some later point.
+I'm attracted to describing the personal classifiers I talked about on [3 November 2022](loose.md#3-november-2022-1) and [31 October 2022 ](loose.md#undefined)as a kind of "micro-syntax" or way of declaring or codifying types of thought in an explicit enough way that I "operate" on them at some later point.
 
 ### Quotations
 
@@ -562,7 +610,7 @@ I find that doing the above helps break me out of the _"find the ideal"_ languag
 
 ### Reflex
 
-Building on the idea of [thought types from 31 October 2022](stream.md#undefined), I wonder if there could be meaning in experimenting with using a`[reflex`] thought type.&#x20;
+Building on the idea of [thought types from 31 October 2022](loose.md#undefined), I wonder if there could be meaning in experimenting with using a`[reflex`] thought type.&#x20;
 
 Where "reflex" could be a moment when I feel, say, unseen, hurt, sad, etc.
 
