@@ -34,7 +34,7 @@ Laurel has helpfully brought our attention back to the fact that, at present, th
 
 "Static" in that you are limited in the ways that you can interact with pings. _E.g. to store/express a relationship you notice between pings, to enrich pings to make them more sensorial, to make meaningful pings easier to reach for and encounter, etc._
 
-To help bridge this gap, Laurel has entered the idea of offering people a relatively constrained way of labeling pings a la [starring in Gmail](https://support.google.com/mail/answer/5904?hl=en\&co=GENIE.Platform%3DDesktop).
+To help bridge this gap, an idea surfaced that's akin to offering people a relatively constrained way of labeling pings a la [starring in Gmail](https://support.google.com/mail/answer/5904?hl=en\&co=GENIE.Platform%3DDesktop).
 
 I've sensed some resistance to this style of idea and I'd like to articulate why and begin to sketch an alternative approach that I feel more resonance with.
 
