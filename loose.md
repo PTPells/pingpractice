@@ -10,39 +10,46 @@ description: Observations and loose thoughts.
 
 The rate at which "my" corpus of Pings is growing, to me, is evidence of how effective the current app experience (and mechanics) are at inspiring me to use it for capture.
 
-_And_ scrolling through thousands of pings in "grid" view right now brings me back in contact with what people (e.g. Laurel, Bao, [Jamie](https://docs.google.com/presentation/d/1V6312Z6-joLsF1aQMA5lLt1-FwkYE7RVz_OcZaLK6tE/edit?disco=AAABf6eNX4I), [Kirsten](https://docs.google.com/presentation/d/1V6312Z6-joLsF1aQMA5lLt1-FwkYE7RVz_OcZaLK6tE/edit#slide=id.g34d439da168_1_52)) have been expressing: a draw towards being able to do more with Pings within the app...
+_And_ scrolling through thousands of pings in "grid" view right now brings me back in contact with what people (e.g. Laurel, Bao, [Jamie](https://docs.google.com/presentation/d/1V6312Z6-joLsF1aQMA5lLt1-FwkYE7RVz_OcZaLK6tE/edit?disco=AAABf6eNX4I), [Kirsten](https://docs.google.com/presentation/d/1V6312Z6-joLsF1aQMA5lLt1-FwkYE7RVz_OcZaLK6tE/edit#slide=id.g34d439da168_1_52)) [have been expressing](https://docs.google.com/presentation/d/1V6312Z6-joLsF1aQMA5lLt1-FwkYE7RVz_OcZaLK6tE/edit#slide=id.g34d439da168_1_52) and I too continue to experience: a draw towards being able to do more with Pings within the app (more in [28 April 2025](https://ping-practice.gitbook.io/pings/loose#id-28-march-2025')):
 
-* To make meaningful pings more prominent
-* To enrich pings to be more sensorial
-* To store/express the relationships you notice between pings
-* To explore a ping further (e.g. to "sharpen" it, to make it more specific)
+* _To make meaningful pings more prominent_
+* _To enrich pings to be more sensorial_
+* _To store/express the relationships you notice between pings_
+* _To explore a ping further (e.g. to "sharpen" it, to make it more specific)_
+* _More broadly, to make, place, and clarify meaning!_
 
-I think how I reencountered this gap/tension is relevant here for I think it might elucidate the reason I've felt some distance from it (I'm not suggesting any qualitative valence to that distance!)...\
+I think how I reencountered this gap/tension is relevant here for I think it might elucidate _a_ reason I've felt less urgency towards addressing it, so far...\
 \
-At present, I often approach&#x20;
+I was scrolling back through Pings today with the intention of looking for inspiration for a longer form piece of writing I was in the middle of. In this way, I already had an explicit place to store pings I wanted to relate and keep within reach, albeit external to the Ping Practice app.
+
+And I think it's the existence of such a place and a practice that's enabling me to meet the need/desire I think we're all aligned in experiencing.
+
+I also think Ping Practice does need to eventually offer support for – what amount to – the latter two steps of the [method](https://pingpractice.org/method/): **Create** and **Embody**.
+
+Now, how we do that in a way that is intrinsic to Ping Practice, I think will require some exploration.
 
 ## 28 March 2025
 
-Laurel has helpfully identified that, at present, the Ping Practice app is somewhat static.
+Laurel has helpfully brought our attention back to the fact that, at present, the Ping Practice app is somewhat static.
 
-"Static" in that you are limited in the ways that you can interact with pings. _E.g. to store/express a relationship you notice between pings, to enrich pings to make them more sensorial, to make meaningful pings easier to reach for and encoutner, etc._
+"Static" in that you are limited in the ways that you can interact with pings. _E.g. to store/express a relationship you notice between pings, to enrich pings to make them more sensorial, to make meaningful pings easier to reach for and encounter, etc._
 
-To help bridge this gap, Laurel has entered the idea of offering people a relatively constrained way of labeling pings.&#x20;
+To help bridge this gap, Laurel has entered the idea of offering people a relatively constrained way of labeling pings a la [starring in Gmail](https://support.google.com/mail/answer/5904?hl=en\&co=GENIE.Platform%3DDesktop).
 
 I've sensed some resistance to this style of idea and I'd like to articulate why and begin to sketch an alternative approach that I feel more resonance with.
 
 I think the resistance I feel to the labeling-style approach is the extent to which I perceive it:
 
-1. Requires you to invent its meaning before it become useful
-2. Lacks an explicit way to encode and track the meaning you store within it
-3. Being vulnerable to that meaning evolving over time
-4. The collection of pings losing coherence as a result of "2." and "3."
+1. _Requires you to invent its meaning before it become useful_
+2. _Lacks an explicit way to encode and track the meaning you store within it_
+3. _Being vulnerable to  meaning evolving over time_
+4. _The collection of pings losing coherence as a result of "2." and "3."_
 
-More broadly, I feel an approach of this sort encourages order at the expense of meaning.
+More broadly, I feel an approach of this sort prioritizes ordering and organizing above meaning-making and action.
 
-I see this pattern playing out in other apps that prioritize order and organization at the expense of supporting meaning-making and action.
-
-For me, these kinds of experiences end up feeling stale or like work.&#x20;
+For me, I've noticed experiences like this end up encouraging me to create structures that end up feeling stale and brittle and as a result, foreign to my future self.\
+\
+In retrospect, these organizing actions feel less like movement, if that makes sense. &#x20;
 
 What feels more resonant to me is expressing meaning through more placed-based choices that intrinsically suggest an application/use. &#x20;
 
@@ -50,7 +57,7 @@ What feels more resonant to me is expressing meaning through more placed-based c
 
 _E.g. I can imagine myself setting a ping I want to remember as the helper text that appears within the capture screen. I can image there being some kind of public-side to our respective practices that  affords us a set number of pings we can display at any given time. I can imagine you naming a particular theme. In all cases, I think it'd be important to see the history of choices you've made._
 
-Common among these examples is this idea that you're making choices that – to me – feel more like you're making choices that enable creative action.&#x20;
+Common among these examples is this idea that you're making choices that change something intrinsic and non-arbitrary about the ping. _E.g. where something is located (more to say about "where" later), how it behaves, who can see it, etc._
 
 ## 18 April 2025
 
