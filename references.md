@@ -6,6 +6,10 @@ description: >-
 
 # References
 
+### Pusha T, [New York Times Popcast (58:18)](https://www.youtube.com/watch?v=6YpZ4OtURZQ\&t=3498s)
+
+> We don’t search for sound, we search for feeling…
+
 ### Clay Shirky, [Ontology is Overrated: Categories, Links, and Tags](https://archive.org/details/Ontology_is_Overrated_Categories_Links_and_Tags/page/n1/mode/2up)
 
 > ...if you've got enough links, you don't need the hierarchy anymore. There is no shelf. There is no file system. The links alone are enough.
