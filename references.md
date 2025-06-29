@@ -6,6 +6,12 @@ description: >-
 
 # References
 
+### Ikechúkwú Onyewuenyi, [_JJJJJerome Ellis: Forming a Vocal Clearing_](https://www.moussemagazine.it/magazine/jjjjjerome-ellis-forming-a-vocal-clearing-2025/)
+
+> What happens when documentation becomes an invitation to future iterations, when the acrchive transforms into a score for what's yet to come?
+
+> Perhaps JJJJJerome’s practice shows us how: not through smooth articulation but through attention to what trembles, what hesitates, what refuses to settle into the expected rhythms of either language or landscape.
+
 ### Pusha T, [New York Times Popcast (58:18)](https://www.youtube.com/watch?v=6YpZ4OtURZQ\&t=3498s)
 
 > We don’t search for sound, we search for feeling…
