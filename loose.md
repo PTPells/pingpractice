@@ -4,6 +4,14 @@ description: Observations and loose thoughts.
 
 # Loose
 
+## 8 July 2025
+
+> Ping practice is the ‘lightest-touch’ way I have (on my phone, at least) of recording down my thoughts, which (at least for me) was my main hope for the app – to have a way of naming thoughts **without** suffocating them with **expectation** or any instrumental **goal**&#x20;
+
+[Irena](https://www.irena-w.xyz/) shared the above during the [June 27 Ping Practitioner Call](https://docs.google.com/presentation/d/1V6312Z6-joLsF1aQMA5lLt1-FwkYE7RVz_OcZaLK6tE/edit?pli=1\&slide=id.g36afdb96052_1_73#slide=id.g36afdb96052_1_73). This notion Irena is raising about Ping Practices _not_ placing an expectation or goal onto the pings you capture is instrumental to the Method.
+
+Further, I think this notion brings clarifying language to the resistance I've felt towards interventions that  attempt to "fix" pings.
+
 ## 2 May 2025
 
 <figure><img src=".gitbook/assets/IMG_EFFBB4C980FD-1.jpeg" alt="" width="375"><figcaption><p>Ping Practice (Friday, May 2, 2025)</p></figcaption></figure>
