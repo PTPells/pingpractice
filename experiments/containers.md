@@ -1,8 +1,9 @@
 ---
 description: Creating containers.
+hidden: true
 ---
 
-# Containment
+# Containers
 
 {% hint style="info" %}
 This experiment started on 13 Jan 2024.
