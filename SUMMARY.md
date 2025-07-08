@@ -10,7 +10,7 @@
   * [Phase #1](conversations/phase-1.md)
   * [Phase #2](conversations/phase-2.md)
 * [Explorations](explorations/README.md)
-  * [Ping Randomizer](explorations/ping-randomizer.md)
+  * [Ping Randomizer](prototype-ping-randomizer.md)
 * [Loose](loose.md)
 * [Experiments](experiments/README.md)
   * [Containers](experiments/containers.md)
