@@ -11,6 +11,7 @@
   * [Phase #2](conversations/phase-2.md)
 * [Explorations](explorations/README.md)
   * [Ping Randomizer](prototype-ping-randomizer.md)
+  * [Custom lenses](explorations/custom-lenses.md)
 * [Loose](loose.md)
 * [Experiments](experiments/README.md)
   * [Containers](experiments/containers.md)
