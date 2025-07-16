@@ -8,23 +8,30 @@ description: Create dynamic lists of related pings.
 
 ### Experience
 
-### Observations
+### Loose
 
-* July 13
+* **July 15**
+  * I can see custom lenses drawing on the iOS Weather app experience...
+    * Different places (lenses) feel different well, because, the condiitons and locations of each are different (time of day, temperature, participation, air quality, etc.). I can see the same for each lenses (places, people, etc.)
+    * I can also see each lenses holding different abstractions/artifacts
+      * The weather app offers things like 10-day forecast, news, air quality, participation, UV index, sunrise, humidity, visibility, etc.
+      * Might lenses offer things like most revisited ping, a timer of some sort, patterns in when / what you tend to ping about this lens, etc.
+    * And more abstractly, i feel drawn to the idea of revisiting a custom lens being as light and consistent as checking the weather. a quick glance offers the information you need to prepare for the day/moment.
+* **July 13**
   * Thinking about lenses more intently has me wondering whether the experience might be lighter if the UI only showed the lens you were currently viewing rather than the carousel that we currently present.
   * I'd love for lenses to be more place-like, distinct...
-* July 7
+* **July 7**
   * I can see a future where different lenses behave differently&#x20;
     * _Maybe the lens in which the pings I currently "placed" in capture enables me to manage those things (e.g. remove, re-order, etc.)?_
-* July 3
+* **July 3**
   * I’d like to be able to configure the order in which lenses are shown
-* June 30
+* **June 30**
   * What might it look like to customize the look and feel of a lens…to make the space feel more embodied…
   * I’d love some suggestions I could consider creating lenses for upon landing in search
-* June 29
+* **June 29**
   * Would it make sense to pre-fill capture with lens query if you tap capture from within lens?
   * Kinda nice to swipe through saved lenses and remember - at a high level - what’s been on my mind
-* June 22 (Day 0)
+* **June 22 (Day 0)**
   * I’d like to see how many pings a search returns so that I can get a sense for how big/durable/meaningful the search query is.&#x20;
     * _Read: am I likely to use this? Do I talk about this often?_
   * Wow: @daughter search brought me back to the ping about the bike seat…
