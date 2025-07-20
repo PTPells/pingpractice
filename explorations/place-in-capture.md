@@ -4,7 +4,7 @@ description: Place meaningful pings in capture to support you in keeping them to
 
 # Place in Capture
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Thrust
 
