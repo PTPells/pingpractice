@@ -4,7 +4,7 @@ description: Place meaningful pings in capture to support you in keeping them to
 
 # Place in Capture
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption><p>"Warm your words" placed in caption. <a href="https://youtube.com/shorts/65Zyryaj7iE?feature=share">See demo</a>.</p></figcaption></figure>
 
 ## Thrust
 
