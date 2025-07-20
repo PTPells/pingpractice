@@ -10,6 +10,10 @@ description: Create dynamic lists of related pings.
 
 ### Loose
 
+* **July 18**
+  * What if the button for saving a search as a lens is a camera button…either literal or similar to current capture?
+  * I’d like to be able to open ping practice and see what lenses have new / unread pings within them
+  * Meta: it's notable to me how many thoughts/idea this exploration has "invited" out of me. I think a core part of validating an idea is observing how many other thoughts it invites.
 * **July 15**
   * I can see custom lenses drawing on the iOS Weather app experience...
     * Different places (lenses) feel different well, because, the condiitons and locations of each are different (time of day, temperature, participation, air quality, etc.). I can see the same for each lenses (places, people, etc.)
