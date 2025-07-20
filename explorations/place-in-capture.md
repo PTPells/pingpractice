@@ -2,7 +2,9 @@
 
 ##
 
-## Motivation
+## Thrust
+
+How might the app support Practitioners in keeping meaningful Pings top of mind?
 
 ## Open questions
 
