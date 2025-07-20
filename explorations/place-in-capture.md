@@ -1,6 +1,10 @@
+---
+description: Place meaningful pings in capture to support you in keeping them top-of-mind.
+---
+
 # Place in Capture
 
-##
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Thrust
 
