@@ -40,7 +40,7 @@ This question continues to resonate with me. We've (Rachel and I) also sensed �
 * [ ] How – if at all – might you be able to navigate from capture directly to a ping you see within it?
 * [ ] How can you remove a ping from capture? Maybe to start you’ll have to search for it and then remove it via long-press?
 
-## Observations
+## Loose
 
 * **8 July 2025**
   * Regardless of initial implementation, I think we need to log what pings you place in capture in when so that we can create the potential for our future selves to explore ideas like:
