@@ -10,6 +10,7 @@
   * [Phase #1](conversations/phase-1.md)
   * [Phase #2](conversations/phase-2.md)
 * [Explorations](explorations/README.md)
+  * [Thermal Printer](explorations/thermal-printer.md)
   * [Long Press](explorations/long-press.md)
   * [Place in Capture](explorations/place-in-capture.md)
   * [Custom lenses](explorations/custom-lenses.md)
