@@ -4,6 +4,38 @@ description: Observations and loose thoughts.
 
 # Loose
 
+## 28 July 2025
+
+<div><figure><img src=".gitbook/assets/IMG_9215AD922A9F-2.jpeg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_9215AD922A9F-3.jpeg" alt="" width="563"><figcaption></figcaption></figure></div>
+
+Sometime last week, I think, I changed the avatar I'd been using on Instagram for >5 years. \[i]
+
+I set the avatar to a screenshot of a Ping that has been feeling important to me. On Instagram, this "glimpse' appears as a solid circle, color `#001449` . This is the same color as the default Ping Practice app theme.&#x20;
+
+![](.gitbook/assets/IMG_CF9428CE9381-1.jpeg)
+
+In the days since, I've set the avatar I use for Gmail (and maybe across all Google services?) and Slack at work.&#x20;
+
+When I look at and think about this avatar, I feel grounded, spacious, clear, calm, rooted, and light. I think about the Ping that inspired all of this, the person whose words I felt moved to capture, and unexpectedly, "my" entire _body_ of Pings.&#x20;
+
+_And then,_ when I think about the above in the context of one of the key questions that has inspired the [Thermal Printer](explorations/thermal-printer.md), Export Ping (TBD), and [Place in Capture](explorations/place-in-capture.md), an idea I feel a strong attraction to surfaces:
+
+> _What might it mean/be like to "take a picture" of a Ping? To express it in some kind of abstract form that enables the Ping to stand on its own while at the same time retaining the feeling/sense/meaning/message/etc. that moved you to capture it in the first place?_
+
+_Thank you to_ [_Laurel Schwulst_](https://laurelschwulst.com/) _who, in noticing (and drawing my attention back to the avatar) inspired me to reflect on all of this._
+
+
+
+<details>
+
+<summary>Notes</summary>
+
+i. Meta: I wonder if Instagram offers the ability for me to see what avatars I've used over time. To me, features of this sort, are precisely the sort of curiosities, questions, and ultimately, reflection I desire interfaces to offer.
+
+</details>
+
+Anyway,&#x20;
+
 ## 8 July 2025
 
 > Ping practice is the ‘lightest-touch’ way I have (on my phone, at least) of recording down my thoughts, which (at least for me) was my main hope for the app – to have a way of naming thoughts **without** suffocating them with **expectation** or any instrumental **goal**&#x20;
@@ -139,7 +171,7 @@ ii. E.g. Instagram, Twitter, camera roll, TikTok, etc.
 
 ### **Pace layers**
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption><p> Ping layer of abstraction (v0.1)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p> Ping layer of abstraction (v0.1)</p></figcaption></figure>
 
 [Carolyn](http://carolynlimadeo.com/) helpfully posed a question some weeks ago that I remember as something like, _"What might it look like to look at Pings at various zoom levels?"_
 
@@ -574,7 +606,7 @@ For example, in the moments before writing this, I was sketching out what it mig
 
 Doing the above feels new for me and I found the reminders (see screenshot below) effective for inspiring me to "keep going" in moments when uncertainty tempts me to stop.
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (2).png>)
 
 \---
 
