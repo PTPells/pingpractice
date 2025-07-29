@@ -12,6 +12,10 @@
 
 ## Loose
 
+#### **28 July**
+
+Inspired by [this](../loose.md#id-28-july-2025), what if another one of the actions was the ability to kind of "abstract" or "take a picture" of a Ping?
+
 #### **21 July**
 
 With long press, I wonder if we even need the controls on the bottom in "focus" mode...
