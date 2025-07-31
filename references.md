@@ -6,6 +6,10 @@ description: >-
 
 # References
 
+### Marc Wittmann, [_Felt Time: The Psychology of How We Perceive Time_](https://mitpress.mit.edu/9780262034029/felt-time/)
+
+> In order to feel that one’s life is flowing more slowly — and fully — one might seek out new situations over and over to have novel experiences that, because of their emotional value, are retained by memory over the long term. Greater variety makes a given period of life expand in retrospect. Life passes more slowly. If one challenges oneself consistently, it pays off, over the years, as the feeling of having lived fully — and, most importantly, of having lived for a long time.
+
 ### Ikechúkwú Onyewuenyi, [_JJJJJerome Ellis: Forming a Vocal Clearing_](https://www.moussemagazine.it/magazine/jjjjjerome-ellis-forming-a-vocal-clearing-2025/)
 
 > What happens when documentation becomes an invitation to future iterations, when the acrchive transforms into a score for what's yet to come?
