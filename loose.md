@@ -4,6 +4,12 @@ description: Observations and loose thoughts.
 
 # Loose
 
+## 1 August 2025
+
+In talking with Justin today, something clicked...
+
+To date, I've been focused&#x20;
+
 ## 28 July 2025
 
 <div><figure><img src=".gitbook/assets/IMG_9215AD922A9F-2.jpeg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_9215AD922A9F-3.jpeg" alt="" width="563"><figcaption></figcaption></figure></div>

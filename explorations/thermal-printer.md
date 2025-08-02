@@ -24,6 +24,8 @@ description: Keeping meaningful Ping with you.
 
 ## Loose
 
+* **1 August 2026**
+  * I printed two pings – #9796 + #9793 – that feel immediately and durably important.
 * **26 July 2026**
   * The introduction of [long press](long-press.md) and "export" have dramatically reduced the amount of effort (actual and perceived) printing pings!&#x20;
 * **23 July 2025**
