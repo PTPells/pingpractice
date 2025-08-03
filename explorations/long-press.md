@@ -12,6 +12,12 @@
 
 ## Loose
 
+#### **2 August**
+
+Action idea: set a ping to "public." In doing so, maybe ping is visible anywhere you've referenced it. I also wonder if there is like a centralized timeline that the ping could appear on.
+
+Ya know, this feels like what "seeing other peoples'" pings could look like. Maybe action only available after a minimum amount of time after initial capture?
+
 #### **28 July**
 
 Inspired by [this](../loose.md#id-28-july-2025), what if another one of the actions was the ability to kind of "abstract" or "take a picture" of a Ping?
