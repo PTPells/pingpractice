@@ -12,6 +12,12 @@
 
 ## Loose
 
+#### **5 August**&#x20;
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+I "exported" a Ping and placed it within a Google Doc . Placing that ping there, thinking all that that phrase means to me, ended up helping me to get started. I wonder if even the act of the page not being empty helped.
+
 #### **2 August**
 
 Action idea: set a ping to "public." In doing so, maybe ping is visible anywhere you've referenced it. I also wonder if there is like a centralized timeline that the ping could appear on.
