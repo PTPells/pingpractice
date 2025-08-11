@@ -24,6 +24,8 @@ description: Keeping meaningful Ping with you.
 
 ## Loose
 
+* **10 August**
+  * I printed #9827 and taped it to the back of my phone! This came after realizing I'd _already_ pinged _and_ printed the same thing on July 27 only to have forgotten about it...
 * **1 August 2026**
   * I printed two pings – #9796 + #9793 – that feel immediately and durably important.
 * **26 July 2026**
