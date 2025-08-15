@@ -24,6 +24,13 @@ description: Keeping meaningful Ping with you.
 
 ## Loose
 
+* **14 August**
+  * Tonight, I moved the pings I had affixed to my computer monitor to a pocket-sized paper journal.  I felt moved to try this after watching a few videos of people sharing the paper journaling practices they maintain.
+  * Flipping through the paper journal feels nice. I also, all of sudden, feel as tho my monitor feels bare. In removing the pings I'd taped to it, I'm coming to realize their mere presence had an impact on me.&#x20;
+  * I wonder:
+    * _Might feel compelled to carry this journal with me?_
+    * _When – if at all – might I revisit the pings within it?_
+    * _In what – if any – ways do I notice how I'm thinking/feeling about the content of the pings I'd printed changing in moving them to this new place?_
 * **10 August**
   * I printed #9827 and taped it to the back of my phone! This came after realizing I'd _already_ pinged _and_ printed the same thing on July 27 only to have forgotten about it...
 * **1 August 2026**
