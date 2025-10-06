@@ -20,7 +20,7 @@ description: Create dynamic lists of related pings.
     * I can also see each lenses holding different abstractions/artifacts
       * The weather app offers things like 10-day forecast, news, air quality, participation, UV index, sunrise, humidity, visibility, etc.
       * Might lenses offer things like most revisited ping, a timer of some sort, patterns in when / what you tend to ping about this lens, etc.
-    * And more abstractly, i feel drawn to the idea of revisiting a custom lens being as light and consistent as checking the weather. a quick glance offers the information you need to prepare for the day/moment.
+    * And more abstractly, i feel drawn to the idea of revisiting a custom lens being as light and consistent as checking the weather. a quick glance offers the information you need to prepare for the day/moment/making you're meeting. this reminds me of what tressie mcmillan cottom has said about creativity, _"All creativity is first a place.”_
 * **July 14**
   * I could see opening Ping Practice to check lenses being as light as checking the weather in the morning...a glance offers orientation and clarity.
 * **July 13**
