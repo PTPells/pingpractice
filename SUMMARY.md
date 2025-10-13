@@ -3,7 +3,7 @@
 * [🌞 welcome](README.md)
 * [About](about.md)
 * [Needs](needs.md)
-* [References vi](references-vi.md)
+* [References](references.md)
 * [Method](method.md)
 * [App](app.md)
 * [Conversations](conversations/README.md)
