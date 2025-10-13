@@ -4,7 +4,11 @@ description: >-
   thought and through conversations with people in the present.
 ---
 
-# References
+# References vi
+
+### Hartmut Rosa, [_Resonance: A Sociology of Our Relationship to the World_](https://www.wiley.com/en-us/Resonance%3A+A+Sociology+of+Our+Relationship+to+the+World-p-9781509519927)
+
+> Resonance, by contrast \[with recognition] is always a dynamic event, the expression of a vibrant responsive relationship that can be seen perhaps most splendidly when a person's eyes light up.... \[It] always refers to an occurrence between two or more subjects. I am recognized, but reso-nance is something that can only happen between us. Love as a resonant experience thus refers not to the fact of loving or being loved, but to the moment or moments of mutual, transformative, fluid, affecting encounter
 
 ### Marc Wittmann, [_Felt Time: The Psychology of How We Perceive Time_](https://mitpress.mit.edu/9780262034029/felt-time/)
 
