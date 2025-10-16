@@ -91,9 +91,9 @@ I think the resistance I feel to the labeling-style approach is the extent to wh
 3. _Being vulnerable to  meaning evolving over time_
 4. _The collection of pings losing coherence as a result of "2." and "3."_
 
-More broadly, I feel an approach of this sort prioritizes ordering and organizing above meaning-making and action.
+More broadly, I feel an approach of this sort prioritizes thinking above feeling.
 
-For me, I've noticed experiences like this end up encouraging me to create structures that end up feeling stale and brittle and as a result, foreign to my future self.\
+For me, I've noticed experiences like this end up encouraging me to create structures that end up feeling stale and brittle and as a result, foreign to my future self. I find these interactions also end up leading me out of my body and into _thinking_ ahead to a future rather than feeling more deeply into the present.\
 \
 In retrospect, these organizing actions feel less like movement, if that makes sense. &#x20;
 
