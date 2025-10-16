@@ -14,7 +14,7 @@
 
 ### **16 October**
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2025-10-16 at 06.30.33.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2025-10-16 at 06.33.58.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Screenshot 2025-10-16 at 06.30.33.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2025-10-16 at 06.33.58.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Group 1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Inspired by the idea [Christopher Roeleveld](https://christopherroeleveld.com/) shared, another potential action available within long-press: "Paint"
 
