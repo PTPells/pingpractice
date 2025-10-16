@@ -12,6 +12,14 @@
 
 ## Loose
 
+### **16 October**
+
+<div><figure><img src="../.gitbook/assets/Screenshot 2025-10-16 at 06.30.33.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2025-10-16 at 06.33.58.png" alt=""><figcaption></figcaption></figure></div>
+
+Inspired by the idea [Christopher Roeleveld](https://christopherroeleveld.com/) shared, another potential action available within long-press: "Paint"
+
+Could start quite minimally (change color). Tho, could imagine this concept expanding to include a whole range of effects (sound, haptics, motion, etc.) that could sum into a Ping holding/inspiring a deeper/richer feeling.
+
 ### **10 August**&#x20;
 
 A few minutes ago, I pinged what would become Ping #9827. Only to realize that I'd pinged the _exact_ some thing (#9763) on July 27. Not only that, I had printed _and_ taped #9763 to my computer monitor!
