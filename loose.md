@@ -177,7 +177,7 @@ ii. E.g. Instagram, Twitter, camera roll, TikTok, etc.
 
 ### **Pace layers**
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p> Ping layer of abstraction (v0.1)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p> Ping layer of abstraction (v0.1)</p></figcaption></figure>
 
 [Carolyn](http://carolynlimadeo.com/) helpfully posed a question some weeks ago that I remember as something like, _"What might it look like to look at Pings at various zoom levels?"_
 
