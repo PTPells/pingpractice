@@ -23,6 +23,12 @@ We feel enlivened by/when...
 
 We feel most blocked by/when...
 
+#### Patterns
+
+* See patterns and inspired by developing ways of holding and representing this information in ways other people can see/relate to/engage with/etc.
+
+####
+
 #### People
 
 * Joanne: early/mid-30s (?), in a period of openness precipitated by experiencing burnout
