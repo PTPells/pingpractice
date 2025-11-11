@@ -4,7 +4,11 @@ description: >-
   thought and through conversations with people in the present.
 ---
 
-# References vi
+# References
+
+## Johann Wolfgang von Goethe, [_Italian Journey_](https://en.wikipedia.org/wiki/Italian_Journey) <a href="#firstheading" id="firstheading"></a>
+
+> I have spent the day well just looking and looking. It is the same in art as in life. The deeper one penetrates, the broader grows the view.
 
 ### Hartmut Rosa, [_Resonance: A Sociology of Our Relationship to the World_](https://www.wiley.com/en-us/Resonance%3A+A+Sociology+of+Our+Relationship+to+the+World-p-9781509519927)
 
