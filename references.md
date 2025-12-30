@@ -6,6 +6,10 @@ description: >-
 
 # References
 
+## [Rollo May](https://en.wikipedia.org/wiki/Rollo_May), _The Courage to Create_ (1975) <a href="#firstheading" id="firstheading"></a>
+
+> Form is not a mere lopping off of meaning that you don't have room to put into your poem; it is an aid to finding new meaning, a stimulus to condensing your meaning, to simplifying and purifying it, and to discovering on a more universal dimension the essence you wish to express.
+
 ## Johann Wolfgang von Goethe, [_Italian Journey_](https://en.wikipedia.org/wiki/Italian_Journey) <a href="#firstheading" id="firstheading"></a>
 
 > I have spent the day well just looking and looking. It is the same in art as in life. The deeper one penetrates, the broader grows the view.
@@ -266,8 +270,7 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote_stim
 
 > ...the town slowly gets its structure from the incremental aggregation of their individual acts.
 
-> When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed.\
->
+> When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed.<br>
 
 ### **David Fincher** [**Interview with Elvis Mitchell**](https://www.kcrw.com/culture/shows/the-treatment/david-fincher-mindhunter)
 
@@ -279,4 +282,4 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote_stim
 
 
 
-\
+<br>
