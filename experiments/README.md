@@ -1,5 +1,7 @@
 ---
-description: Overview of experiments.
+description: >-
+  This page documents experiments exploring different tools and techniques to
+  support people in applying the Ping Practice Method.
 ---
 
 # Experiments
