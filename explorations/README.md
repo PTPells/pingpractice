@@ -1,5 +1,7 @@
 ---
-description: Overview of explorations.
+description: This page
+cover: ../.gitbook/assets/Screenshot 2026-01-09 at 13.00.34.png
+coverY: 0
 ---
 
 # Explorations
