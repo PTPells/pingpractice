@@ -1,5 +1,6 @@
 ---
 description: Create dynamic lists of related pings.
+icon: seedling
 ---
 
 # Custom lenses

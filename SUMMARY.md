@@ -6,6 +6,7 @@
 * [References](references.md)
 * [Method](method.md)
 * [Explorations](explorations/README.md)
+  * [TEMPLATE](explorations/template.md)
   * [Thermal Printer](explorations/thermal-printer.md)
   * [Long Press](explorations/long-press.md)
   * [Place in Capture](explorations/place-in-capture.md)

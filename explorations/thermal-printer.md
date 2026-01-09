@@ -1,5 +1,6 @@
 ---
 description: Keeping meaningful Ping with you.
+icon: bag-seedling
 ---
 
 # Thermal Printer

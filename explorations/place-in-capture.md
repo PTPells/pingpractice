@@ -1,5 +1,6 @@
 ---
 description: Place meaningful pings in capture to support you in keeping them top-of-mind.
+icon: seedling
 ---
 
 # Place in Capture

@@ -1,5 +1,6 @@
 ---
 description: Tap a button, see a random Ping.
+icon: seedling
 ---
 
 # Ping Randomizer
