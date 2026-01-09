@@ -1,5 +1,7 @@
 ---
-description: Observations and loose thoughts.
+description: >-
+  A centralized place for thoughts and observations that emerge through my own
+  Ping Practice.
 ---
 
 # Loose
@@ -323,8 +325,7 @@ _I want to tidy these notes up..._
   * another way to find your way back
   *   something about the idea of "bumping" something to the top (actually, maybe it's a "resonance" view sorted from highest to lowest?)
 
-      \
-
+      <br>
 
 ## 12 May 2023
 
@@ -383,10 +384,8 @@ When I combine the following three things:
 
 ... I can start to see a future where:
 
-1. I'm able to recall the `IDs` of cards that are important/meaningful to me at any given time **from memory**.\
-
-2. I'm revisiting, referencing, refining, and expanding these cards more often and by extension, they're becoming more meaningful.\
-
+1. I'm able to recall the `IDs` of cards that are important/meaningful to me at any given time **from memory**.<br>
+2. I'm revisiting, referencing, refining, and expanding these cards more often and by extension, they're becoming more meaningful.<br>
 
 _Note: the two scearios I'm describing above already happens to me at work with_ [_Phabricator_](https://phabricator.wikimedia.org/) \
 \

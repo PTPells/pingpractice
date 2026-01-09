@@ -11,8 +11,7 @@ This experimented started as an effort for [DG](https://www.davidgoligorsky.com/
 1. Notice
 2. Name
 3. Revisit
-4. Engage/elaborate\
-
+4. Engage/elaborate<br>
 
 ## Research questions&#x20;
 
