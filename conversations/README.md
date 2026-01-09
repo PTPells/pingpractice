@@ -4,6 +4,10 @@ description: The conversations informing this exploration.
 
 # Conversations
 
+{% hint style="danger" %}
+This page is outdated.
+{% endhint %}
+
 At various moments throughout this exploration, ideas, hypotheses, designs will assume a form that _**appears**_ simultaneously:
 
 1. Stable and solid enough to build upon&#x20;
