@@ -222,6 +222,8 @@ _\*Exact source_ [_not currently known_](https://www.viktorfrankl.org/quote_stim
 
 ### Annie Murphy Paul [_The Extended Mind_](https://anniemurphypaul.com/books/the-extended-mind/)
 
+> Keeping a thought in mind—while also doing things to and with that thought—is a cognitively taxing activity. We put part of this mental burden down when we delegate the representation of the information to physical space...
+
 > ...our jottings build for us a series of ascending steps from which we can survey new vistas.
 
 > ...when a potentially relevant pattern is detected, it’s our interoceptive faculty that tips us off: with a shiver or a sigh, a quickening of the breath or a tensing of the muscles.
