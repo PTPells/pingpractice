@@ -6,6 +6,10 @@ description: >-
 
 # References
 
+## [Donald Schön](https://en.wikipedia.org/wiki/Donald_Sch%C3%B6n), _The reflective practitioner: how professionals think in action_ <a href="#firstheading" id="firstheading"></a>
+
+> A social system does not move smoothly from one state of its culture to another... Something old must come apart in order for something new to come together. But for individuals within the system, there is no clear grasp of the next stable state - only a clear picture of the one to be lost. Hence, the coming apart carries uncertainty and anguish for the members of the system since it puts at risk the basis for self-identity that the system had provided.
+
 ## [Rollo May](https://en.wikipedia.org/wiki/Rollo_May), _The Courage to Create_ (1975) <a href="#firstheading" id="firstheading"></a>
 
 > Form is not a mere lopping off of meaning that you don't have room to put into your poem; it is an aid to finding new meaning, a stimulus to condensing your meaning, to simplifying and purifying it, and to discovering on a more universal dimension the essence you wish to express.
