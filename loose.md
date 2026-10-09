@@ -6,6 +6,28 @@ description: >-
 
 # Loose
 
+## 8 October 2026
+
+<figure><img src=".gitbook/assets/F13A3E70-8120-415A-A48E-4BCF2999B5C2.JPG" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src=".gitbook/assets/Screenshot 2026-10-08 at 22.33.17 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2026-10-08 at 22.34.02 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2026-10-08 at 22.29.17 (1).png" alt=""><figcaption></figcaption></figure></div>
+
+Since October 24, 2022, I've been marking – what feel at the time like – notable events by capturing pings with the name of the event prefixed with `[event]`.
+
+I'm finding doing so helpful to me on a range of timescales...
+
+At the moment of capture, naming the event explicitly helps me to become present within it. Especially if it's something that I'm wanting/needing to be particularly intentional around.
+
+Doing so also establishes a clear place for me to capture Pings that surface as I'm going through the event. I've found this especially helpful for remaining present when doing something unfamiliar/challenging.
+
+And then looking back, seeing Pings in relation to the events that precede and succeed them imbues them with new meaning.
+
+I'd like to try experimenting with what it could look like to make events as its own distinct entity within Ping Pracitce. _Reminds me of_ [_layers of zoom from February 2024_](loose.md#id-8-february-2024)_._
+
+
+
+
+
 ## 1 August 2025
 
 In talking with Justin today, something clicked...
