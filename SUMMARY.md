@@ -7,6 +7,7 @@
 * [Method](method.md)
 * [Explorations](explorations/README.md)
   * [TEMPLATE](explorations/template.md)
+  * [Public Pings](explorations/public-pings.md)
   * [Thermal Printer](explorations/thermal-printer.md)
   * [Long Press](explorations/long-press.md)
   * [Place in Capture](explorations/place-in-capture.md)
