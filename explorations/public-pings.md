@@ -35,9 +35,9 @@ _This section describes the origins of an exploration. As a question: what are y
 
 Ping Practice The [Ping Practitioner Calls](https://pingpractice.org/transmissions/reflection-2025-practitioner-calls/)_,_ [Cheryl and Daphne](https://pingpractice.org/transmissions/in-practice-cheryl-ong/), the September 2026 in-person gathering, [the publishing format Joanne and I designed](https://pingpractice.org/transmissions/what-are-other-people-pinging/), [all of the conversations](../conversations/) that preceded "Ping Practice" continue to demonstrate...START HERE.&#x20;
 
-## References
+## Prototype
 
-_This section will contain references (screenshots, images, links, etc.) that feel related to/apart of the space the exploration is exploring. All references will also be catalogued in_ [_Ping Practice/References_](https://www.are.na/peter-pelberg/ping-practice-references) _are.na board._
+{% embed url="https://youtu.be/FTH3yAj3eck" %}
 
 ## Loose
 
