@@ -1,5 +1,6 @@
 ---
 description: Keeping meaningful Ping with you.
+noIndex: true
 icon: bag-seedling
 ---
 
