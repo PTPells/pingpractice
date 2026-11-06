@@ -1,6 +1,5 @@
 ---
 description: A public mode for friends to safely browse select pings.
-hidden: true
 noIndex: true
 icon: bag-seedling
 layout:
@@ -40,6 +39,14 @@ Ping Practice The [Ping Practitioner Calls](https://pingpractice.org/transmissio
 {% embed url="https://youtu.be/FTH3yAj3eck" %}
 
 ## Loose
+
+#### **5 November 2026**
+
+Pushed the first iteration of "Public Pings" to beta! Somehwere in the process, I happened upon this exchange with Laurel...
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+####
 
 #### **13 October 2026**
 
